@@ -6,7 +6,7 @@ This repo contains the output of an analysis of all *PDF* documents in the [*Gov
 ##Contents
 The repo contains the following files and directories:
 
-* **goGovdocsSelected.sh** - bash script that was used to run the analysis. The variables *validateCommand*, *countCommand* and *schema* refer to files in this [PDF policy-based validation demo](https://github.com/bitsgalore/pdfPolicyValidate)
+* **goGovdocsSelected.sh** - bash script that was used to run the analysis. The variables *validateCommand*, *countCommand* and *schema* refer to files in this [PDF policy-based validation demo](https://github.com/openplanets/pdfPolicyValidate)
 * **index.csv** - comma-separated text file that links each *PDF* in *GovDocs selected* to its respective *Preflight* and *Schematron* output file. You may need to replace */usr/local/SCAPE/data* with the actual path where the *GovDocs selected* is located on your system.
 * **outRaw** - this directory contains the raw *Preflight* and *Schematron* output files. Use *index.csv* (see above) to link each *PDF* to its respective  *Preflight* / *Schematron* file.
 * **success.csv** - comma-separated text file that gives the outcome of the policy-based validation (*Pass* or *Fail*)
