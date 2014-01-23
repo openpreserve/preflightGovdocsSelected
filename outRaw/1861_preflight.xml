@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="040754.pdf">
+  <executionTimeMS>2383</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="3131">
+    <error count="1">
+      <code>7.1.1</code>
+      <details>Error on MetaData, No type defined for {http://ns.adobe.com/pdf/1.3/}CreationDate--Text</details>
+    </error>
+    <error count="37">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "QGGCII+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="28">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "BEHXAU+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="50">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "JDJFIP+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="229">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "g" can't be used without Color Profile</details>
+    </error>
+    <error count="272">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "G" can't be used without Color Profile</details>
+    </error>
+    <error count="615">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f*" can't be used without Color Profile</details>
+    </error>
+    <error count="1669">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="116">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "RG" can't be used with CMYK Profile</details>
+    </error>
+    <error count="114">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "rg" can't be used with CMYK Profile</details>
+    </error>
+  </errors>
+</preflight>

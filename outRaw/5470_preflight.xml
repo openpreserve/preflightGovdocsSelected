@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="534916.pdf">
+  <executionTimeMS>1870</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="9">
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for RFXEXR+ArialMT</details>
+    </error>
+    <error count="1">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="4">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for LEBZWP+Arial-BoldMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for TENYDU+TimesNewRomanPSMT</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+  </errors>
+</preflight>

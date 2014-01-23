@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="574595.pdf">
+  <executionTimeMS>1229</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="199">
+    <error count="1">
+      <code>6.2.5</code>
+      <details>Action is forbidden, The action Launch is forbidden</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+    <error count="1">
+      <code>1.2.5</code>
+      <details>Body Syntax error, Stream length is invalide</details>
+    </error>
+    <error count="196">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+  </errors>
+</preflight>

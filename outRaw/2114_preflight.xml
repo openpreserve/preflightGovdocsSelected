@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="240759.pdf">
+  <executionTimeMS>3202</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="7572">
+    <error count="1">
+      <code>1.4.6</code>
+      <details>Trailer Syntax error, ID is different in the first and the last trailer</details>
+    </error>
+    <error count="2105">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f*" can't be used without Color Profile</details>
+    </error>
+    <error count="5026">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "rg" can't be used with CMYK Profile</details>
+    </error>
+    <error count="14">
+      <code>5.2.2</code>
+      <details>Forbidden field in an annotation definition, Flags of Link annotation are invalid</details>
+    </error>
+    <error count="425">
+      <code>1.2.1</code>
+      <details>Body Syntax error, Single space expected</details>
+    </error>
+    <error count="1">
+      <code>7.11</code>
+      <details>Error on MetaData</details>
+    </error>
+  </errors>
+</preflight>

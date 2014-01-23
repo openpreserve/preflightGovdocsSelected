@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="333472.pdf">
+  <executionTimeMS>3859</executionTimeMS>
+  <isValid type="">false</isValid>
+  <exceptionThrown>
+    <message>Failed while validating</message>
+    <stackTrace>org.apache.pdfbox.preflight.exception.ValidationException: Failed while validating
+	at org.apache.pdfbox.preflight.process.MetadataValidationProcess.validate(MetadataValidationProcess.java:154)
+	at org.apache.pdfbox.preflight.utils.ContextHelper.callValidation(ContextHelper.java:73)
+	at org.apache.pdfbox.preflight.utils.ContextHelper.validateElement(ContextHelper.java:88)
+	at org.apache.pdfbox.preflight.PreflightDocument.validate(PreflightDocument.java:169)
+	at org.apache.pdfbox.preflight.parser.XmlResultParser.validate(XmlResultParser.java:68)
+	at org.apache.pdfbox.preflight.parser.XmlResultParser.validate(XmlResultParser.java:49)
+	at org.apache.pdfbox.preflight.Validator_A1b.main(Validator_A1b.java:131)
+Caused by: java.io.IOException: Contents are unknown type:org.apache.pdfbox.cos.COSDictionary
+	at org.apache.pdfbox.pdmodel.common.PDStream.createFromCOS(PDStream.java:191)
+	at org.apache.pdfbox.preflight.process.MetadataValidationProcess.getXpacket(MetadataValidationProcess.java:182)
+	at org.apache.pdfbox.preflight.process.MetadataValidationProcess.validate(MetadataValidationProcess.java:62)
+	... 6 more
+</stackTrace>
+  </exceptionThrown>
+</preflight>

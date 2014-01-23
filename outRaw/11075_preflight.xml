@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="476544.pdf">
+  <executionTimeMS>2261</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="345">
+    <error count="8">
+      <code>3.1.4</code>
+      <details>Invalid Font definition, The Charset entry is missing for the Type1 Subset</details>
+    </error>
+    <error count="1">
+      <code>3.1.2</code>
+      <details>Invalid Font definition, FontDescriptor is null or is a AFM Descriptor</details>
+    </error>
+    <error count="1">
+      <code>7.11</code>
+      <details>Error on MetaData</details>
+    </error>
+    <error count="334">
+      <code>1.2.1</code>
+      <details>Body Syntax error, Single space expected</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "32" in the font program "LCIYGC+EdwardianScriptITC"is missing from the Charater Encoding.</details>
+    </error>
+  </errors>
+</preflight>

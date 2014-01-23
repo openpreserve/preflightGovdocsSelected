@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="592305.pdf">
+  <executionTimeMS>5756</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="2089">
+    <error count="26">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "ZFYDIZ+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "QAPDXB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "TZQBOG+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "KUHBDJ+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "KSNQJO+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "BNEQYQ+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="15">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "HBTEAM+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "NYTZPA+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "ETKZED+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "MDDTSN+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "DYTSHQ+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="41">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "CDRMUM+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "TXHMJP+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="15">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "WWMRGJ+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "NRDRVL+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="15">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "KFFIXJ+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "BAWHMM+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "HOFCWL+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "YIWBLO+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="68">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "YGQKLI+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "PBHKAL+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for Arial-ItalicMT</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for CourierNewPSMT</details>
+    </error>
+    <error count="5">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for TimesNewRomanPS-ItalicMT</details>
+    </error>
+    <error count="6">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for ArialMT</details>
+    </error>
+    <error count="6">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for TimesNewRomanPSMT</details>
+    </error>
+    <error count="7">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for TimesNewRomanPS-BoldMT</details>
+    </error>
+    <error count="5">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for Arial-BoldMT</details>
+    </error>
+    <error count="7">
+      <code>3.1.9</code>
+      <details>Invalid Font definition</details>
+    </error>
+    <error count="1">
+      <code>1.1</code>
+      <details>Body Syntax error, Second line must contains at least 4 bytes greater than 127</details>
+    </error>
+    <error count="1">
+      <code>7.2</code>
+      <details>Error on MetaData, CreatorTool present in the document catalog dictionary doesn't match with XMP information</details>
+    </error>
+    <error count="1">
+      <code>7.2</code>
+      <details>Error on MetaData, Producer present in the document catalog dictionary doesn't match with XMP information</details>
+    </error>
+    <error count="1">
+      <code>7.2</code>
+      <details>Error on MetaData, Keywords present in the document catalog dictionary can't be found in XMP information (Property is not defined)</details>
+    </error>
+    <error count="1">
+      <code>7.2</code>
+      <details>Error on MetaData, Subject present in the document catalog dictionary can't be found in XMP information (Property is defined as null)</details>
+    </error>
+    <error count="1">
+      <code>7.2</code>
+      <details>Error on MetaData, Author present in the document catalog dictionary doesn't match with XMP information</details>
+    </error>
+    <error count="1">
+      <code>7.2</code>
+      <details>Error on MetaData, Title present in the document catalog dictionary doesn't match with XMP information</details>
+    </error>
+    <error count="1">
+      <code>7.11</code>
+      <details>Error on MetaData</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "31" in the font program "IKJLHI+ArialMT"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="7">
+      <code>3.1.11</code>
+      <details>Invalid Font definition, The CIDSet entry is missing for the Composite Subset</details>
+    </error>
+    <error count="23">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "B*" can't be used without Color Profile</details>
+    </error>
+    <error count="52">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "b*" can't be used without Color Profile</details>
+    </error>
+    <error count="161">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "G" can't be used without Color Profile</details>
+    </error>
+    <error count="1161">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="327">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "g" can't be used without Color Profile</details>
+    </error>
+  </errors>
+</preflight>

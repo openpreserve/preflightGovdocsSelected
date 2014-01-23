@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="536202.pdf">
+  <executionTimeMS>3176</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="79">
+    <error count="6">
+      <code>3.1.5</code>
+      <details>Invalid Font definition, The Encoding should be missing for the Symbolic TTF</details>
+    </error>
+    <error count="1">
+      <code>3.1.1</code>
+      <details>Invalid Font definition, Some required fields are missing from the Font dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.2</code>
+      <details>Invalid Font definition, FontDescriptor is null or is a AFM Descriptor</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Expecting namespace 'adobe:ns:meta/' and found 'http://www.w3.org/1999/02/22-rdf-syntax-ns#'</details>
+    </error>
+    <error count="31">
+      <code>2.3</code>
+      <details>Unexpected key in Graphic object definition, No TR key expected in Extended graphics state</details>
+    </error>
+    <error count="39">
+      <code>1.2.5</code>
+      <details>Body Syntax error, Stream length is invalide</details>
+    </error>
+  </errors>
+</preflight>

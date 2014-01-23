@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="610853.pdf">
+  <executionTimeMS>3570</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="13017">
+    <error count="3">
+      <code>-1</code>
+      <details>Unknown error, Unable to check the ContentStream : Error: Could not find font(COSName{F32}) in map={F11=org.apache.pdfbox.pdmodel.font.PDTrueTypeFont@6a4986c8, F12=org.apache.pdfbox.pdmodel.font.PDTrueTypeFont@12feafc, F10=org.apache.pdfbox.pdmodel.font.PDTrueTypeFont@70ec46ff, F8=org.apache.pdfbox.pdmodel.font.PDTrueTypeFont@28294944, F9=org.apache.pdfbox.pdmodel.font.PDTrueTypeFont@2e8923f5, F17=org.apache.pdfbox.pdmodel.font.PDTrueTypeFont@2d97c1b1, F6=org.apache.pdfbox.pdmodel.font.PDTrueTypeFont@462d62d9, F7=org.apache.pdfbox.pdmodel.font.PDTrueTypeFont@4db4b88d, F15=org.apache.pdfbox.pdmodel.font.PDTrueTypeFont@13c058d6, F16=org.apache.pdfbox.pdmodel.font.PDTrueTypeFont@390853bb, F13=org.apache.pdfbox.pdmodel.font.PDTrueTypeFont@51b1373d, F14=org.apache.pdfbox.pdmodel.font.PDTrueTypeFont@49a1afb1, F1=org.apache.pdfbox.pdmodel.font.PDTrueTypeFont@1615b33b, F5=org.apache.pdfbox.pdmodel.font.PDTrueTypeFont@6aa9f1d0, F4=org.apache.pdfbox.pdmodel.font.PDTrueTypeFont@3b42c565, F3=org.apache.pdfbox.pdmodel.font.PDTrueTypeFont@1cad8848, F2=org.apache.pdfbox.pdmodel.font.PDTrueTypeFont@44ce3dad}</details>
+    </error>
+    <error count="1">
+      <code>1.4.6</code>
+      <details>Trailer Syntax error, ID is different in the first and the last trailer</details>
+    </error>
+    <error count="1">
+      <code>7.11</code>
+      <details>Error on MetaData</details>
+    </error>
+    <error count="156">
+      <code>2.2.1</code>
+      <details>Invalid Graphis transparency, Group has a transparency S entry or the S entry is null.</details>
+    </error>
+    <error count="144">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="2647">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f*" can't be used without Color Profile</details>
+    </error>
+    <error count="4368">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="508">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "RG" can't be used with CMYK Profile</details>
+    </error>
+    <error count="5161">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "rg" can't be used with CMYK Profile</details>
+    </error>
+    <error count="27">
+      <code>5.2.2</code>
+      <details>Forbidden field in an annotation definition, Flags of Link annotation are invalid</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "122" in the font program "BAAAAA+TimesNewRomanPSMT"is missing from the Charater Encoding.</details>
+    </error>
+  </errors>
+</preflight>

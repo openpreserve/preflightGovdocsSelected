@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="654372.pdf">
+  <executionTimeMS>2471</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="4406">
+    <error count="1">
+      <code>1.4.1</code>
+      <details>Trailer Syntax error, The trailer dictionary doesn't contain ID</details>
+    </error>
+    <error count="199">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "ALKYRV+Courier@0"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="302">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "ZLILNK+Times-Italic@0"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "FUBJRX+Times-Bold@0"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3770">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "WROIUG+Times-Roman@0"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "YIHSEH+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>1.2.1</code>
+      <details>Body Syntax error, EOL expected before the 'endobj' keyword</details>
+    </error>
+    <error count="61">
+      <code>1.2.2</code>
+      <details>Body Syntax error, Expected 'EOL' before the endstream keyword</details>
+    </error>
+    <error count="61">
+      <code>1.2.5</code>
+      <details>Body Syntax error, Stream length is invalide</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+  </errors>
+</preflight>

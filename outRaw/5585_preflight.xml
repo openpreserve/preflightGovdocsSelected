@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="681460.pdf">
+  <executionTimeMS>893</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="14">
+    <error count="4">
+      <code>1.2.5</code>
+      <details>Body Syntax error, Stream length is invalide</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for TimesNewRomanPS-BoldMT</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for TimesNewRomanPSMT</details>
+    </error>
+    <error count="3">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="4">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "g" can't be used without Color Profile</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Expecting namespace 'adobe:ns:meta/' and found 'http://www.w3.org/1999/02/22-rdf-syntax-ns#'</details>
+    </error>
+  </errors>
+</preflight>

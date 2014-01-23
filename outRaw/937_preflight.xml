@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="061435.pdf">
+  <executionTimeMS>3156</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="5771">
+    <error count="1">
+      <code>1.4.6</code>
+      <details>Trailer Syntax error, ID is different in the first and the last trailer</details>
+    </error>
+    <error count="134">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f*" can't be used without Color Profile</details>
+    </error>
+    <error count="4">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="5452">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "rg" can't be used with CMYK Profile</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "85" in the font program "BEGGJO+Univers-CondensedBold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "77" in the font program "BEGGMO+CenturyExpanded-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "82" in the font program "BEGGMO+CenturyExpanded-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "40" in the font program "BEGGJO+Univers-CondensedBold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "79" in the font program "BEGGJO+Univers-CondensedBold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="171">
+      <code>1.2.1</code>
+      <details>Body Syntax error, Single space expected</details>
+    </error>
+    <error count="1">
+      <code>7.2</code>
+      <details>Error on MetaData, CreatorTool present in the document catalog dictionary can't be found in XMP information (Property is not defined)</details>
+    </error>
+    <error count="1">
+      <code>7.2</code>
+      <details>Error on MetaData, Producer present in the document catalog dictionary can't be found in XMP information (PDF schema not declared)</details>
+    </error>
+    <error count="1">
+      <code>7.2</code>
+      <details>Error on MetaData, Author present in the document catalog dictionary can't be found in XMP information (Property is not defined in XMP Metadata)</details>
+    </error>
+    <error count="1">
+      <code>7.11</code>
+      <details>Error on MetaData</details>
+    </error>
+  </errors>
+</preflight>

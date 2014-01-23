@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="989996.pdf">
+  <executionTimeMS>1158</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="106">
+    <error count="1">
+      <code>6.2.5</code>
+      <details>Action is forbidden, The action Launch is forbidden</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Expecting namespace 'adobe:ns:meta/' and found 'http://www.w3.org/1999/02/22-rdf-syntax-ns#'</details>
+    </error>
+    <error count="104">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+  </errors>
+</preflight>

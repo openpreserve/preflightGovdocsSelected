@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="216476.pdf">
+  <executionTimeMS>4695</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="1276">
+    <error count="84">
+      <code>5.2.2</code>
+      <details>Forbidden field in an annotation definition, Flags of Link annotation are invalid</details>
+    </error>
+    <error count="1">
+      <code>7.1.1</code>
+      <details>Error on MetaData, No type defined for {http://ns.adobe.com/pdf/1.3/}Trapped</details>
+    </error>
+    <error count="2">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for ArialMT</details>
+    </error>
+    <error count="12">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for TimesNewRomanPSMT</details>
+    </error>
+    <error count="12">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for TimesNewRomanPS-BoldMT</details>
+    </error>
+    <error count="1">
+      <code>1.4.6</code>
+      <details>Trailer Syntax error, ID is different in the first and the last trailer</details>
+    </error>
+    <error count="234">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "B*" can't be used without Color Profile</details>
+    </error>
+    <error count="20">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="16">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f*" can't be used without Color Profile</details>
+    </error>
+    <error count="556">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "b*" can't be used without Color Profile</details>
+    </error>
+    <error count="130">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "G" can't be used without Color Profile</details>
+    </error>
+    <error count="92">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="116">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "g" can't be used without Color Profile</details>
+    </error>
+  </errors>
+</preflight>

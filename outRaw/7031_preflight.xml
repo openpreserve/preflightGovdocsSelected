@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="309593.pdf">
+  <executionTimeMS>12946</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="22">
+    <error count="17">
+      <code>3.1.4</code>
+      <details>Invalid Font definition, The Charset entry is missing for the Type1 Subset</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {1562:0} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {0:0} has an offset of 0</details>
+    </error>
+    <error count="2">
+      <code>3.1.2</code>
+      <details>Invalid Font definition, FontDescriptor is null or is a AFM Descriptor</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+  </errors>
+</preflight>

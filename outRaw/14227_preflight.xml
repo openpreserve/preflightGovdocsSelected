@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="165366.pdf">
+  <executionTimeMS>2716</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="1590">
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "13" in the font program "VPXNME+TT4C7o00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "12" in the font program "VPXNME+TT4C7o00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "11" in the font program "VPXNME+TT4C7o00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "7" in the font program "VPXNME+TT4C7o00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "1" in the font program "VPXNME+TT4C7o00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "30" in the font program "RLSXZU+TT48Bo00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "34" in the font program "MDIUIR+TT48Eo00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "44" in the font program "MDIUIR+TT48Eo00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "43" in the font program "MDIUIR+TT48Eo00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "25" in the font program "MDIUIR+TT48Eo00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "36" in the font program "MDIUIR+TT48Eo00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "18" in the font program "MDIUIR+TT48Eo00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "35" in the font program "MDIUIR+TT48Eo00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "10" in the font program "MDIUIR+TT48Eo00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "31" in the font program "MDIUIR+TT48Eo00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "29" in the font program "MDIUIR+TT48Eo00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "22" in the font program "MDIUIR+TT48Eo00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "7" in the font program "MDIUIR+TT48Eo00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "1" in the font program "HGTYRM+TT48Fo00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "28" in the font program "RLSXZU+TT48Bo00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "23" in the font program "RLSXZU+TT48Bo00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "3" in the font program "RLSXZU+TT48Bo00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "17" in the font program "RLSXZU+TT48Bo00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "1" in the font program "MDIUIR+TT48Eo00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "1" in the font program "VRYKAP+TT48Co00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "1" in the font program "RLSXZU+TT48Bo00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "31" in the font program "KUCEWB+TT479o00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "46" in the font program "KUCEWB+TT479o00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "24" in the font program "MDIUIR+TT46Fo00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "35" in the font program "MDIUIR+TT46Fo00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "39" in the font program "MDIUIR+TT46Fo00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "37" in the font program "MDIUIR+TT46Fo00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "36" in the font program "MDIUIR+TT46Fo00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "34" in the font program "MDIUIR+TT46Fo00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "40" in the font program "KUCEWB+TT479o00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "39" in the font program "KUCEWB+TT479o00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "29" in the font program "KUCEWB+TT479o00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "KUCEWB+TT479o00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "12" in the font program "MDIUIR+TT46Fo00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "30" in the font program "MDIUIR+TT46Fo00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "8" in the font program "KUCEWB+TT479o00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "27" in the font program "KUCEWB+TT479o00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "24" in the font program "KUCEWB+TT479o00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "22" in the font program "KUCEWB+TT479o00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "16" in the font program "KUCEWB+TT479o00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "3" in the font program "KUCEWB+TT479o00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "6" in the font program "KUCEWB+TT479o00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "28" in the font program "MDIUIR+TT46Fo00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "23" in the font program "MDIUIR+TT46Fo00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "3" in the font program "MDIUIR+TT46Fo00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "17" in the font program "MDIUIR+TT46Fo00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "1" in the font program "KUCEWB+TT479o00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "13" in the font program "MDIUIR+TT46Fo00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "1" in the font program "RFHCWV+TT470o00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "1" in the font program "MDIUIR+TT46Fo00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "2" in the font program "MUHOSY+TT43Do00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "1" in the font program "MUHOSY+TT43Do00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="15">
+      <code>3.1.1</code>
+      <details>Invalid Font definition, Some required fields are missing from the Font dictionary.</details>
+    </error>
+    <error count="15">
+      <code>3.1.2</code>
+      <details>Invalid Font definition, FontDescriptor is null or is a AFM Descriptor</details>
+    </error>
+    <error count="122">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f*" can't be used without Color Profile</details>
+    </error>
+    <error count="693">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="342">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "rg" can't be used with CMYK Profile</details>
+    </error>
+    <error count="227">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "RG" can't be used with CMYK Profile</details>
+    </error>
+  </errors>
+</preflight>

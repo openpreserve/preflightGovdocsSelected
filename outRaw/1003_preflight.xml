@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="923492.pdf">
+  <executionTimeMS>3540</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="31258">
+    <error count="125">
+      <code>1.2.1</code>
+      <details>Body Syntax error, Single space expected</details>
+    </error>
+    <error count="45">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="1398">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "g" can't be used without Color Profile</details>
+    </error>
+    <error count="364">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "G" can't be used without Color Profile</details>
+    </error>
+    <error count="7443">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="12980">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "RG" can't be used with CMYK Profile</details>
+    </error>
+    <error count="8857">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "rg" can't be used with CMYK Profile</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {135:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {132:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {129:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {143:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {138:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {150:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {146:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {153:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {106:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {102:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {120:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {123:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {126:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {113:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {117:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {76:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {68:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {95:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {86:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {44:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {41:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {34:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {63:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {58:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {55:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {50:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {12:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {7:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {1:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {26:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {23:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {19:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {16:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+    <error count="6">
+      <code>3.1.1</code>
+      <details>Invalid Font definition, Some required fields are missing from the Font dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.2</code>
+      <details>Invalid Font definition, FontDescriptor is null or is a AFM Descriptor</details>
+    </error>
+  </errors>
+</preflight>

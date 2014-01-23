@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="350450.pdf">
+  <executionTimeMS>1159</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="37">
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "133" in the font program "ABLOKD+Aip1"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "132" in the font program "ABLOKD+Aip1"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "134" in the font program "ABLOKD+Aip1"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.1</code>
+      <details>Invalid Font definition, Some required fields are missing from the Font dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.2</code>
+      <details>Invalid Font definition, FontDescriptor is null or is a AFM Descriptor</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Expecting namespace 'adobe:ns:meta/' and found 'http://www.w3.org/1999/02/22-rdf-syntax-ns#'</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(53)</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(35)</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(64)</details>
+    </error>
+    <error count="4">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(33)</details>
+    </error>
+    <error count="4">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(126)</details>
+    </error>
+    <error count="6">
+      <code>1.2.5</code>
+      <details>Body Syntax error, Stream length is invalide</details>
+    </error>
+    <error count="1">
+      <code>5.2.3</code>
+      <details>Forbidden field in an annotation definition, Annotation uses a Color profile which isn't the same than the profile contained by the OutputIntent</details>
+    </error>
+    <error count="1">
+      <code>2.4.2</code>
+      <details>Invalid Color space, The operator "K" can't be used with RGB Profile</details>
+    </error>
+    <error count="1">
+      <code>2.4.2</code>
+      <details>Invalid Color space, The operator "k" can't be used with RGB Profile</details>
+    </error>
+    <error count="2">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "g" can't be used without Color Profile</details>
+    </error>
+    <error count="3">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+  </errors>
+</preflight>

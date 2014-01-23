@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="946255.pdf">
+  <executionTimeMS>1518</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="125">
+    <error count="6">
+      <code>5.3.1</code>
+      <details>Invalid field value in an annotation definition, Only the N Appearance is authorized</details>
+    </error>
+    <error count="1">
+      <code>7.11</code>
+      <details>Error on MetaData</details>
+    </error>
+    <error count="32">
+      <code>5.2.2</code>
+      <details>Forbidden field in an annotation definition, Flags of Widget annotation are invalid</details>
+    </error>
+    <error count="78">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f*" can't be used without Color Profile</details>
+    </error>
+    <error count="2">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="6">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "rg" can't be used with CMYK Profile</details>
+    </error>
+  </errors>
+</preflight>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="313852.pdf">
+  <executionTimeMS>2827</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="1005">
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "112" in the font program "DLPCMD+MTMI"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "115" in the font program "DLPCMD+MTMI"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "78" in the font program "DLPCMD+MTMI"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "72" in the font program "DLPCMD+MTMI"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "73" in the font program "DLPCNL+MTSYN"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "71" in the font program "DLPCMD+MTMI"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "110" in the font program "DLPCMD+MTMI"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "80" in the font program "DLPCMD+MTMI"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "DLPCMD+MTMI"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="17">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "47" in the font program "DLPCMD+MTMI"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "46" in the font program "DLPCMD+MTMI"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="14">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "21" in the font program "DLPCMD+MTMI"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "102" in the font program "DLPCMD+MTMI"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="31">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "84" in the font program "DLPCMD+MTMI"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "100" in the font program "DLPCMD+MTMI"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "DLPCMD+MTMI"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "67" in the font program "DLPCMD+MTMI"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "DLPCMD+MTMI"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "59" in the font program "DLPCMD+MTMI"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "DLPCMD+MTMI"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "DLPCMD+MTMI"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "104" in the font program "DLPCMD+MTMI"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "68" in the font program "DLPCNL+MTSYN"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "113" in the font program "DLPCMD+MTMI"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "15" in the font program "DLPCMD+MTMI"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="626">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "0" in the font program "DLPCNL+MTSYN"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "1" in the font program "DLPCNL+MTSYN"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="53">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "67" in the font program "DLPCNL+MTSYN"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "58" in the font program "DLPCMD+MTMI"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "2" in the font program "DLPCNL+MTSYN"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "12" in the font program "DLPCNL+MTSYN"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "82" in the font program "DLPCMD+MTMI"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.1</code>
+      <details>Invalid Font definition, Some required fields are missing from the Font dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.2</code>
+      <details>Invalid Font definition, FontDescriptor is null or is a AFM Descriptor</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+    <error count="47">
+      <code>1.2.5</code>
+      <details>Body Syntax error, Stream length is invalide</details>
+    </error>
+    <error count="14">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="32">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "g" can't be used without Color Profile</details>
+    </error>
+  </errors>
+</preflight>

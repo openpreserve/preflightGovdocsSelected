@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="605921.pdf">
+  <executionTimeMS>3063</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="652">
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"99" should have a width equals to 50.0</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"100" should have a width equals to 55.0</details>
+    </error>
+    <error count="15">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"73" should have a width equals to 33.0</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"78" should have a width equals to 72.0</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"44" should have a width equals to 27.0</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"53" should have a width equals to 55.0</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"82" should have a width equals to 72.0</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"77" should have a width equals to 83.0</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"50" should have a width equals to 55.0</details>
+    </error>
+    <error count="29">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"49" should have a width equals to 55.0</details>
+    </error>
+    <error count="32">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"48" should have a width equals to 55.0</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"70" should have a width equals to 61.0</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"71" should have a width equals to 77.0</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"66" should have a width equals to 66.0</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"40" should have a width equals to 33.0</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"89" should have a width equals to 66.0</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"67" should have a width equals to 72.0</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"68" should have a width equals to 72.0</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"87" should have a width equals to 94.0</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"76" should have a width equals to 55.0</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"86" should have a width equals to 66.0</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"115" should have a width equals to 50.0</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"105" should have a width equals to 22.0</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"112" should have a width equals to 55.0</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"73" should have a width equals to 27.0</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"65" should have a width equals to 66.0</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"83" should have a width equals to 66.0</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"79" should have a width equals to 77.0</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"119" should have a width equals to 72.0</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"80" should have a width equals to 66.0</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"84" should have a width equals to 61.0</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"69" should have a width equals to 66.0</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "87" in the font program "CLNCDP+Univers-CondensedBold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "72" in the font program "CLNCDP+Univers-CondensedBold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "67" in the font program "CLNCDP+Univers-CondensedBold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "209" in the font program "CLNCDP+Univers-CondensedBold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "CLNCDP+Univers-CondensedBold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "87" in the font program "CLNCDN+Univers-CondensedBoldOblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "CLNCDN+Univers-CondensedBoldOblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="14">
+      <code>3.1.1</code>
+      <details>Invalid Font definition, Some required fields are missing from the Font dictionary.</details>
+    </error>
+    <error count="14">
+      <code>3.1.2</code>
+      <details>Invalid Font definition, FontDescriptor is null or is a AFM Descriptor</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for Helvetica-Narrow-Bold</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+    <error count="84">
+      <code>2.3</code>
+      <details>Unexpected key in Graphic object definition, No TR key expected in Extended graphics state</details>
+    </error>
+    <error count="40">
+      <code>5.2.2</code>
+      <details>Forbidden field in an annotation definition, Flags of Link annotation are invalid</details>
+    </error>
+    <error count="93">
+      <code>1.2.5</code>
+      <details>Body Syntax error, Stream length is invalide</details>
+    </error>
+    <error count="52">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "G" can't be used without Color Profile</details>
+    </error>
+    <error count="142">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="21">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "g" can't be used without Color Profile</details>
+    </error>
+  </errors>
+</preflight>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="747721.pdf">
+  <executionTimeMS>1539</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="54">
+    <error count="1">
+      <code>3.1.11</code>
+      <details>Invalid Font definition, The CIDSet entry is missing for the Composite Subset</details>
+    </error>
+    <error count="13">
+      <code>2.4.11</code>
+      <details>Invalid Color space, ICCBase color space is invalid. Caused By: Invalid ICC Profile Data</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "2" in the font program "Symbol"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "1" in the font program "Symbol"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.1</code>
+      <details>Invalid Font definition, Some required fields are missing from the Font dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.2</code>
+      <details>Invalid Font definition, FontDescriptor is null or is a AFM Descriptor</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Failed to parse</details>
+    </error>
+    <error count="1">
+      <code>3.1.9</code>
+      <details>Invalid Font definition</details>
+    </error>
+    <error count="16">
+      <code>1.2.5</code>
+      <details>Body Syntax error, Stream length is invalide</details>
+    </error>
+    <error count="16">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+  </errors>
+</preflight>

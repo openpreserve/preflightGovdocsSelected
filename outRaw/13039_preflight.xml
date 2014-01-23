@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="606030.pdf">
+  <executionTimeMS>3776</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="1181">
+    <error count="1">
+      <code>7.11</code>
+      <details>Error on MetaData</details>
+    </error>
+    <error count="1">
+      <code>3.1.2</code>
+      <details>Invalid Font definition, FontDescriptor is null or is a AFM Descriptor</details>
+    </error>
+    <error count="5">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "32" in the font program "JPEWZZ+Symbol"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="1174">
+      <code>1.2.1</code>
+      <details>Body Syntax error, Single space expected</details>
+    </error>
+  </errors>
+</preflight>

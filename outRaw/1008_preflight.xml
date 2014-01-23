@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="593363.pdf">
+  <executionTimeMS>512</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="12">
+    <error count="9">
+      <code>1.2.1</code>
+      <details>Body Syntax error, Single space expected</details>
+    </error>
+    <error count="2">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+  </errors>
+</preflight>

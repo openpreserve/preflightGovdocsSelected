@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="852202.pdf">
+  <executionTimeMS>2099</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="36">
+    <error count="2">
+      <code>3.1.1</code>
+      <details>Invalid Font definition, Some required fields are missing from the Font dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.2</code>
+      <details>Invalid Font definition, FontDescriptor is null or is a AFM Descriptor</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Expecting namespace 'adobe:ns:meta/' and found 'http://www.w3.org/1999/02/22-rdf-syntax-ns#'</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "31" in the font program "EPBDPL+TimesNewRoman,Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="30">
+      <code>1.2.5</code>
+      <details>Body Syntax error, Stream length is invalide</details>
+    </error>
+  </errors>
+</preflight>

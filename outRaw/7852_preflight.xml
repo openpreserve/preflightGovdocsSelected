@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="207349.pdf">
+  <executionTimeMS>3315</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="6507">
+    <error count="1">
+      <code>1.4.7</code>
+      <details>Trailer Syntax error, EmbeddedFile entry is present in the Names dictionary</details>
+    </error>
+    <error count="1">
+      <code>1.4.6</code>
+      <details>Trailer Syntax error, ID is different in the first and the last trailer</details>
+    </error>
+    <error count="8">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f*" can't be used without Color Profile</details>
+    </error>
+    <error count="3407">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="6">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="7">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "RG" can't be used with CMYK Profile</details>
+    </error>
+    <error count="2341">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "rg" can't be used with CMYK Profile</details>
+    </error>
+    <error count="5">
+      <code>3.1.9</code>
+      <details>Invalid Font definition</details>
+    </error>
+    <error count="1">
+      <code>1.2.9</code>
+      <details>Body Syntax error, EmbeddedFile entry is present in a FileSpecification dictionary</details>
+    </error>
+    <error count="678">
+      <code>1.2.1</code>
+      <details>Body Syntax error, Single space expected</details>
+    </error>
+    <error count="1">
+      <code>7.3</code>
+      <details>Error on MetaData, Cannot find a definition for the namespace http://ns.adobe.com/pdfx/1.3/</details>
+    </error>
+    <error count="46">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "31" in the font program "IHABJB+ZWAdobeF"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="5">
+      <code>3.1.11</code>
+      <details>Invalid Font definition, The CIDSet entry is missing for the Composite Subset</details>
+    </error>
+  </errors>
+</preflight>

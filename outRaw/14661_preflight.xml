@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="494788.pdf">
+  <executionTimeMS>452</executionTimeMS>
+  <isValid type="">false</isValid>
+  <exceptionThrown>
+    <message>org.apache.pdfbox.cos.COSArray cannot be cast to org.apache.pdfbox.cos.COSInteger</message>
+    <stackTrace>java.lang.ClassCastException: org.apache.pdfbox.cos.COSArray cannot be cast to org.apache.pdfbox.cos.COSInteger
+	at org.apache.pdfbox.pdfparser.BaseParser.parseCOSDictionaryValue(BaseParser.java:238)
+	at org.apache.pdfbox.pdfparser.BaseParser.parseCOSDictionary(BaseParser.java:352)
+	at org.apache.pdfbox.pdfparser.BaseParser.parseDirObject(BaseParser.java:1253)
+	at org.apache.pdfbox.preflight.parser.PreflightParser.parseDirObject(PreflightParser.java:599)
+	at org.apache.pdfbox.preflight.parser.PreflightParser.parseObjectDynamically(PreflightParser.java:716)
+	at org.apache.pdfbox.pdfparser.NonSequentialPDFParser.parseObjectDynamically(NonSequentialPDFParser.java:1192)
+	at org.apache.pdfbox.pdfparser.NonSequentialPDFParser.parseDictObjects(NonSequentialPDFParser.java:1166)
+	at org.apache.pdfbox.pdfparser.NonSequentialPDFParser.initialParse(NonSequentialPDFParser.java:479)
+	at org.apache.pdfbox.preflight.parser.PreflightParser.initialParse(PreflightParser.java:249)
+	at org.apache.pdfbox.pdfparser.NonSequentialPDFParser.parse(NonSequentialPDFParser.java:740)
+	at org.apache.pdfbox.preflight.parser.PreflightParser.parse(PreflightParser.java:197)
+	at org.apache.pdfbox.preflight.parser.PreflightParser.parse(PreflightParser.java:179)
+	at org.apache.pdfbox.preflight.parser.PreflightParser.parse(PreflightParser.java:167)
+	at org.apache.pdfbox.preflight.parser.XmlResultParser.validate(XmlResultParser.java:66)
+	at org.apache.pdfbox.preflight.parser.XmlResultParser.validate(XmlResultParser.java:49)
+	at org.apache.pdfbox.preflight.Validator_A1b.main(Validator_A1b.java:131)
+</stackTrace>
+  </exceptionThrown>
+</preflight>

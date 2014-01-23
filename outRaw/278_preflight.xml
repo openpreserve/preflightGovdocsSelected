@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="641049.pdf">
+  <executionTimeMS>2654</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="256">
+    <error count="1">
+      <code>3.1.9</code>
+      <details>Invalid Font definition</details>
+    </error>
+    <error count="1">
+      <code>3.1.11</code>
+      <details>Invalid Font definition, The CIDSet entry is missing for the Composite Subset</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+    <error count="253">
+      <code>1.2.5</code>
+      <details>Body Syntax error, Stream length is invalide</details>
+    </error>
+  </errors>
+</preflight>

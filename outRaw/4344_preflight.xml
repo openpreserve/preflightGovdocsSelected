@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="768415.pdf">
+  <executionTimeMS>1002</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="493">
+    <error count="1">
+      <code>7.3</code>
+      <details>Error on MetaData, Cannot find a definition for the namespace http://ns.adobe.com/xfa/promoted-desc/</details>
+    </error>
+    <error count="434">
+      <code>1.2.1</code>
+      <details>Body Syntax error, Single space expected</details>
+    </error>
+    <error count="58">
+      <code>5.3.1</code>
+      <details>Invalid field value in an annotation definition, Only the N Appearance is authorized</details>
+    </error>
+  </errors>
+</preflight>

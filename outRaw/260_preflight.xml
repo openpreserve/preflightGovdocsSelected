@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="496117.pdf">
+  <executionTimeMS>2108</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="6167">
+    <error count="20">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "B*" can't be used without Color Profile</details>
+    </error>
+    <error count="314">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f*" can't be used without Color Profile</details>
+    </error>
+    <error count="11">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="61">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="3">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "RG" can't be used with CMYK Profile</details>
+    </error>
+    <error count="197">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "rg" can't be used with CMYK Profile</details>
+    </error>
+    <error count="11">
+      <code>5.2.2</code>
+      <details>Forbidden field in an annotation definition, Flags of Link annotation are invalid</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "16" in the font program "PPINDI+MSTT31c7bb00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "5" in the font program "PPINDI+MSTT31c7bb00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "20" in the font program "PPINDI+MSTT31c7bb00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "3" in the font program "PPJFAI+MSTT31c7c800"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "15" in the font program "PPINDI+MSTT31c7bb00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="22">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "17" in the font program "PPINDI+MSTT31c7bb00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="256">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "3" in the font program "PPINDI+MSTT31c7bb00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "28" in the font program "PPINDI+MSTT31c7a300"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "27" in the font program "PPINDI+MSTT31c7a300"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "26" in the font program "PPINDI+MSTT31c7a300"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "25" in the font program "PPINDI+MSTT31c7a300"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "24" in the font program "PPINDI+MSTT31c7a300"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "23" in the font program "PPINDI+MSTT31c7a300"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "22" in the font program "PPINDI+MSTT31c7a300"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "21" in the font program "PPINDI+MSTT31c7a300"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "15" in the font program "PPINDI+MSTT31c7a300"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="74">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "3" in the font program "PPINDI+MSTT31c7a300"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "20" in the font program "PPINDI+MSTT31c7a300"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="50">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "3" in the font program "PPINDI+MSTT31c79800"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "30" in the font program "PPINDI+MSTT31c76900"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "16" in the font program "PPINDI+MSTT31c76900"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "28" in the font program "PPINDI+MSTT31c76900"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "26" in the font program "PPINDI+MSTT31c76900"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "17" in the font program "PPINDI+MSTT31c76900"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "11" in the font program "PPINDI+MSTT31c76900"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "22" in the font program "PPINDI+MSTT31c76900"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "23" in the font program "PPINDI+MSTT31c76900"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "20" in the font program "PPINDI+MSTT31c76900"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "21" in the font program "PPINDI+MSTT31c76900"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "12" in the font program "PPINDI+MSTT31c76900"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="19">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "15" in the font program "PPINDI+MSTT31c76900"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="127">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "3" in the font program "PPINDI+MSTT31c76900"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "20" in the font program "PPINDI+MSTT31c75300"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "3" in the font program "PPINDI+MSTT31c75300"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "21" in the font program "PPIBIA+MSTT31c6f300"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "27" in the font program "PPIBIA+MSTT31c6f300"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "26" in the font program "PPIBIA+MSTT31c6f300"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "22" in the font program "PPIBIA+MSTT31c6f300"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "29" in the font program "PPIBIA+MSTT31c6f300"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="20">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "18" in the font program "PPIBIA+MSTT31c6f300"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "24" in the font program "PPIJFA+MSTT31c73d00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "25" in the font program "PPIJFA+MSTT31c73d00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "3" in the font program "PPIJFA+MSTT31c74800"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "17" in the font program "PPIJFA+MSTT31c74800"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "20" in the font program "PPIJFA+MSTT31c74800"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "5" in the font program "PPIJFA+MSTT31c74800"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "16" in the font program "PPIJFA+MSTT31c73d00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "20" in the font program "PPIJFA+MSTT31c73d00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "15" in the font program "PPIJFA+MSTT31c73d00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="42">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "3" in the font program "PPIJFA+MSTT31c73d00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="17">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "16" in the font program "PPIBIA+MSTT31c6f300"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "20" in the font program "PPIBIA+MSTT31c6f300"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "11" in the font program "PPIBIA+MSTT31c6f300"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "20" in the font program "PPHNJI+MSTT31c71a00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="25">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "17" in the font program "PPIBIA+MSTT31c6f300"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "25" in the font program "PPIBIA+MSTT31c72700"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="24">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "15" in the font program "PPIBIA+MSTT31c6f300"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="22">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "3" in the font program "PPIBIA+MSTT31c72700"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="414">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "3" in the font program "PPIBIA+MSTT31c6f300"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="26">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "3" in the font program "PPHNJI+MSTT31c71a00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="16">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "3" in the font program "PPHNJI+MSTT31c6e600"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="77">
+      <code>1.2.5</code>
+      <details>Body Syntax error, Stream length is invalide</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(34)</details>
+    </error>
+    <error count="6">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(58)</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(52)</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(66)</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(180)</details>
+    </error>
+    <error count="3">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(91)</details>
+    </error>
+    <error count="15">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(45)</details>
+    </error>
+    <error count="5">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(57)</details>
+    </error>
+    <error count="9">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(39)</details>
+    </error>
+    <error count="8">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(77)</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(44)</details>
+    </error>
+    <error count="10">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(53)</details>
+    </error>
+    <error count="9">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(49)</details>
+    </error>
+    <error count="5">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(84)</details>
+    </error>
+    <error count="10">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(40)</details>
+    </error>
+    <error count="7">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(56)</details>
+    </error>
+    <error count="8">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(93)</details>
+    </error>
+    <error count="32">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(78)</details>
+    </error>
+    <error count="27">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(90)</details>
+    </error>
+    <error count="3">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(179)</details>
+    </error>
+    <error count="4">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(37)</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(182)</details>
+    </error>
+    <error count="71">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(92)</details>
+    </error>
+    <error count="78">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(88)</details>
+    </error>
+    <error count="6">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(51)</details>
+    </error>
+    <error count="93">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(71)</details>
+    </error>
+    <error count="102">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(75)</details>
+    </error>
+    <error count="114">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(70)</details>
+    </error>
+    <error count="79">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(80)</details>
+    </error>
+    <error count="253">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(81)</details>
+    </error>
+    <error count="78">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(83)</details>
+    </error>
+    <error count="28">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(69)</details>
+    </error>
+    <error count="27">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(54)</details>
+    </error>
+    <error count="71">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(74)</details>
+    </error>
+    <error count="77">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(73)</details>
+    </error>
+    <error count="274">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(86)</details>
+    </error>
+    <error count="51">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(89)</details>
+    </error>
+    <error count="166">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(79)</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(46)</details>
+    </error>
+    <error count="26">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(120)</details>
+    </error>
+    <error count="305">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(76)</details>
+    </error>
+    <error count="29">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(50)</details>
+    </error>
+    <error count="5">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(42)</details>
+    </error>
+    <error count="45">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(38)</details>
+    </error>
+    <error count="29">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(55)</details>
+    </error>
+    <error count="521">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(72)</details>
+    </error>
+    <error count="183">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(85)</details>
+    </error>
+    <error count="454">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(82)</details>
+    </error>
+    <error count="297">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(87)</details>
+    </error>
+    <error count="11">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(61)</details>
+    </error>
+    <error count="60">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(36)</details>
+    </error>
+    <error count="411">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(68)</details>
+    </error>
+    <error count="21">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(41)</details>
+    </error>
+    <error count="20">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(43)</details>
+    </error>
+    <error count="13">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(47)</details>
+    </error>
+    <error count="26">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(48)</details>
+    </error>
+  </errors>
+</preflight>

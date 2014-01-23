@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="301611.pdf">
+  <executionTimeMS>1623</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="52">
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+    <error count="21">
+      <code>1.2.1</code>
+      <details>Body Syntax error, EOL expected before the 'endobj' keyword</details>
+    </error>
+    <error count="30">
+      <code>1.2.1</code>
+      <details>Body Syntax error, Single space expected</details>
+    </error>
+  </errors>
+</preflight>

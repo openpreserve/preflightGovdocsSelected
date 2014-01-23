@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="796707.pdf">
+  <executionTimeMS>1227</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="283">
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+    <error count="125">
+      <code>1.2.1</code>
+      <details>Body Syntax error, EOL expected after the 'endobj' keyword</details>
+    </error>
+    <error count="125">
+      <code>1.2.1</code>
+      <details>Body Syntax error, Single space expected</details>
+    </error>
+    <error count="16">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {133:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {106:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {97:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {124:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {115:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {79:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {70:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {88:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {43:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {34:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {61:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {52:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {9:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {2:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {25:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {16:65536} has an offset of 0</details>
+    </error>
+  </errors>
+</preflight>

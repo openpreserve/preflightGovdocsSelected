@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="788166.pdf">
+  <executionTimeMS>2454</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="28051">
+    <error count="1">
+      <code>1.4.6</code>
+      <details>Trailer Syntax error, ID is different in the first and the last trailer</details>
+    </error>
+    <error count="30">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "B" can't be used without Color Profile</details>
+    </error>
+    <error count="5">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="470">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="373">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "rg" can't be used with CMYK Profile</details>
+    </error>
+    <error count="233">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "RG" can't be used with CMYK Profile</details>
+    </error>
+    <error count="1">
+      <code>7.3</code>
+      <details>Error on MetaData, Cannot find a definition for the namespace http://ns.adobe.com/pdfx/1.3/</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "73" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "105" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "78" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "98" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="4">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "103" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "99" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="18">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "72" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="4">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "88" in the font program "Times-New-Roman-Italic+2"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="189">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "94" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="43">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "72" in the font program "Times-New-Roman-Italic+2"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="43">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "87" in the font program "Times-New-Roman-Italic+2"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="43">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "60" in the font program "Times-New-Roman-Italic+2"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="2358">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "87" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="68">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "98" in the font program "Times-New-Roman-Bold+4"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="68">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "86" in the font program "Times-New-Roman-Bold+4"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="65">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "83" in the font program "Times-New-Roman-Bold+4"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="7">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "86" in the font program "Times-New-Roman-Italic+2"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="7">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "75" in the font program "Times-New-Roman-Italic+2"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="61">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "49" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="7">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "42" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="11">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "100" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="10">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "75" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="9">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "45" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="19">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "47" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="5">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "74" in the font program "Times-New-Roman-Bold+4"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="8">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "61" in the font program "Times-New-Roman-Bold+4"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="83">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "54" in the font program "Times-New-Roman-Bold+4"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="13">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "70" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="26">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "50" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "58" in the font program "Times-New-Roman-Bold+4"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="19">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "84" in the font program "Times-New-Roman-Bold+4"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "53" in the font program "Times-New-Roman-Bold+4"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="8">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "47" in the font program "Times-New-Roman-Bold+4"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="28">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "96" in the font program "Times-New-Roman-Bold+4"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="29">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "57" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="6">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "42" in the font program "Times-New-Roman-Bold+4"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="18">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "90" in the font program "Times-New-Roman-Bold+4"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="8">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "60" in the font program "Times-New-Roman-Bold+4"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="42">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "46" in the font program "Times-New-Roman-Bold+4"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="35">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "69" in the font program "Times-New-Roman-Italic+2"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="56">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "76" in the font program "Times-New-Roman-Italic+2"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="17">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "44" in the font program "Times-New-Roman-Italic+2"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="17">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "83" in the font program "Times-New-Roman-Italic+2"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="143">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "91" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="64">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "79" in the font program "Times-New-Roman-Italic+2"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="7">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "85" in the font program "Times-New-Roman-Bold+4"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="11">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "91" in the font program "Times-New-Roman-Bold+4"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="4">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "80" in the font program "Times-New-Roman-Italic+2"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="8">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "82" in the font program "Times-New-Roman-Italic+2"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="9">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "50" in the font program "Times-New-Roman-Bold+4"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="33">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "81" in the font program "Times-New-Roman-Italic+2"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="113">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "74" in the font program "Times-New-Roman-Italic+2"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="67">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "88" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="96">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "52" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="23">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "79" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="8">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "37" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="6">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "65" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="15">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "34" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="87">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "86" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="12">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "72" in the font program "Times-New-Roman-Bold+4"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="508">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "68" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="16">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "41" in the font program "Times-New-Roman-Bold+4"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="12">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "93" in the font program "Times-New-Roman-Bold+4"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="45">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "61" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="91">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "38" in the font program "Times-New-Roman-Bold+4"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="41">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "77" in the font program "Times-New-Roman-Italic+2"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="4">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "36" in the font program "Times-New-Roman-BoldItalic+5"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="10">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "46" in the font program "Times-New-Roman-Italic+2"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="35">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "49" in the font program "Times-New-Roman-Bold+4"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="60">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "73" in the font program "Times-New-Roman-Italic+2"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="12">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "39" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="15">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "75" in the font program "Times-New-Roman-Bold+4"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="73">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "62" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="163">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "60" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="170">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "89" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="27">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "71" in the font program "Times-New-Roman-Italic+2"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="21">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "68" in the font program "Times-New-Roman-Italic+2"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="23">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "33" in the font program "Times-New-Roman-BoldItalic+5"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="165">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "66" in the font program "Times-New-Roman-Italic+2"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="438">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "65" in the font program "Times-New-Roman-Italic+2"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="132">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "69" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="7623">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "93" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="1293">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "36" in the font program "Times-New-Roman-Italic+2"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="1541">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "84" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="12">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "92" in the font program "Times-New-Roman-Bold+4"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="76">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "81" in the font program "Times-New-Roman-Bold+4"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="86">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "69" in the font program "Times-New-Roman-Bold+4"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="80">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "79" in the font program "Times-New-Roman-Bold+4"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="226">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "71" in the font program "Times-New-Roman-Bold+4"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="114">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "37" in the font program "Times-New-Roman-Bold+4"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="20">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "90" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="7">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "85" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="48">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "54" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="131">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "68" in the font program "Times-New-Roman-Bold+4"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="126">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "62" in the font program "Times-New-Roman-Bold+4"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="229">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "65" in the font program "Times-New-Roman-Bold+4"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="34">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "63" in the font program "Times-New-Roman-Bold+4"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="309">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "59" in the font program "Times-New-Roman-Bold+4"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="121">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "51" in the font program "Times-New-Roman-Bold+4"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="1232">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "77" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="105">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "43" in the font program "Times-New-Roman-Bold+4"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="233">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "33" in the font program "Times-New-Roman-Bold+4"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="78">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "44" in the font program "Arial+3"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="78">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "43" in the font program "Arial+3"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="234">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "42" in the font program "Arial+3"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="156">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "41" in the font program "Arial+3"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="78">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "40" in the font program "Arial+3"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="156">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "39" in the font program "Arial+3"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="156">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "38" in the font program "Arial+3"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="78">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "37" in the font program "Arial+3"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="156">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "36" in the font program "Arial+3"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="156">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "35" in the font program "Arial+3"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="156">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "34" in the font program "Arial+3"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="234">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "33" in the font program "Arial+3"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="1934">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "38" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="78">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "52" in the font program "Times-New-Roman-Italic+2"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="78">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "45" in the font program "Times-New-Roman-Italic+2"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="107">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "33" in the font program "Times-New-Roman-Italic+2"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="187">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "64" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="368">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "82" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "59" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="18">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "80" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="1134">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "53" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="224">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "66" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="170">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "46" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="98">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "55" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="81">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "56" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="222">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "51" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="139">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "41" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="198">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "33" in the font program "Times-New-Roman+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="78">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "62" in the font program "Verdana+0"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="78">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "52" in the font program "Verdana+0"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="78">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "43" in the font program "Verdana+0"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="78">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "33" in the font program "Verdana+0"is missing from the Charater Encoding.</details>
+    </error>
+  </errors>
+</preflight>

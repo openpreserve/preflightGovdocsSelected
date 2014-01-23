@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="810632.pdf">
+  <executionTimeMS>2596</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="5230">
+    <error count="1">
+      <code>1.4.10</code>
+      <details>Trailer Syntax error, File contains data after the last %%EOF sequence</details>
+    </error>
+    <error count="1926">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="14">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="20">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "TDRLFJ+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2738">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="529">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>1.2.5</code>
+      <details>Body Syntax error, Stream length is invalide</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Expecting namespace 'adobe:ns:meta/' and found 'http://www.w3.org/1999/02/22-rdf-syntax-ns#'</details>
+    </error>
+  </errors>
+</preflight>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="074291.pdf">
+  <executionTimeMS>1846</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="41">
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+    <error count="40">
+      <code>2.3.2</code>
+      <details>Unexpected key in Graphic object definition, Unexpected 'true' value for 'Interpolate' Key</details>
+    </error>
+  </errors>
+</preflight>

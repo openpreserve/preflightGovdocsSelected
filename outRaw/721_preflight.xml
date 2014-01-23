@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="134454.pdf">
+  <executionTimeMS>2101</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="888">
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {487:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {469:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {451:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {433:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {415:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {390:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {372:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {354:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {336:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {318:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {300:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {282:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {264:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {228:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {246:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {192:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {210:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {167:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {149:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {99:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {124:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {74:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {38:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {56:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {2:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {20:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {777:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {820:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {802:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {709:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {734:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {752:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {659:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {684:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {591:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {609:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {634:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {512:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {530:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {548:65536} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {573:65536} has an offset of 0</details>
+    </error>
+    <error count="805">
+      <code>1.2.1</code>
+      <details>Body Syntax error, Single space expected</details>
+    </error>
+    <error count="41">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+  </errors>
+</preflight>

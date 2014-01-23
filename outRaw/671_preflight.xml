@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="501835.pdf">
+  <executionTimeMS>3806</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="243">
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {228:0} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {217:0} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {197:0} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {188:0} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {164:0} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {146:0} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {158:0} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {154:0} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {59:0} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {24:0} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {7:0} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {2:0} has an offset of 0</details>
+    </error>
+    <error count="146">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "MFEZRB+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "EMFASB+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "NNNZRB+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.1</code>
+      <details>Invalid Font definition, Some required fields are missing from the Font dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.2</code>
+      <details>Invalid Font definition, FontDescriptor is null or is a AFM Descriptor</details>
+    </error>
+    <error count="27">
+      <code>2.3.2</code>
+      <details>Unexpected key in Graphic object definition, Unexpected 'true' value for 'Interpolate' Key</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+    <error count="12">
+      <code>2.2.2</code>
+      <details>Invalid Graphis transparency, Soft Mask must be null or None</details>
+    </error>
+    <error count="1">
+      <code>2.4.2</code>
+      <details>Invalid Color space, The operator "k" can't be used with RGB Profile</details>
+    </error>
+    <error count="1">
+      <code>2.4.2</code>
+      <details>Invalid Color space, The operator "K" can't be used with RGB Profile</details>
+    </error>
+    <error count="11">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="16">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "G" can't be used without Color Profile</details>
+    </error>
+    <error count="11">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "g" can't be used without Color Profile</details>
+    </error>
+  </errors>
+</preflight>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="932121.pdf">
+  <executionTimeMS>1654</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="713">
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Invalid array type, expecting Seq and found Bag</details>
+    </error>
+    <error count="7">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "G" can't be used without Color Profile</details>
+    </error>
+    <error count="2">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="699">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "rg" can't be used with CMYK Profile</details>
+    </error>
+    <error count="4">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "RG" can't be used with CMYK Profile</details>
+    </error>
+  </errors>
+</preflight>

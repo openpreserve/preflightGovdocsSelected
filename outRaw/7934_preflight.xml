@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="514289.pdf">
+  <executionTimeMS>1637</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="181">
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Invalid array type, expecting Seq and found Bag</details>
+    </error>
+    <error count="180">
+      <code>1.2.1</code>
+      <details>Body Syntax error, Single space expected</details>
+    </error>
+  </errors>
+</preflight>

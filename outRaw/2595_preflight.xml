@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="821183.pdf">
+  <executionTimeMS>1481</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="140">
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "66" in the font program "EBGPPH+ArialMT"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "EBGPNH+TimesNewRomanPSMT"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "67" in the font program "EBGPNH+TimesNewRomanPSMT"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "66" in the font program "EBGPNH+TimesNewRomanPSMT"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "EBGPNH+TimesNewRomanPSMT"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "117" in the font program "EBGPNH+TimesNewRomanPSMT"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "82" in the font program "EBGPNH+TimesNewRomanPSMT"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "EBGPNH+TimesNewRomanPSMT"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "48" in the font program "EBGPCM+Arial-BoldMT"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "53" in the font program "EBGPCM+Arial-BoldMT"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "67" in the font program "EBGPCM+Arial-BoldMT"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "50" in the font program "EBGPCM+Arial-BoldMT"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="28">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "EBGPCM+Arial-BoldMT"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "75" in the font program "EBGPCM+Arial-BoldMT"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "EBGPCM+Arial-BoldMT"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.2</code>
+      <details>Invalid Font definition, FontDescriptor is null or is a AFM Descriptor</details>
+    </error>
+    <error count="1">
+      <code>7.11</code>
+      <details>Error on MetaData</details>
+    </error>
+    <error count="86">
+      <code>1.2.1</code>
+      <details>Body Syntax error, Single space expected</details>
+    </error>
+    <error count="1">
+      <code>5.2.2</code>
+      <details>Forbidden field in an annotation definition, Flags of Link annotation are invalid</details>
+    </error>
+    <error count="1">
+      <code>1.4.6</code>
+      <details>Trailer Syntax error, ID is different in the first and the last trailer</details>
+    </error>
+  </errors>
+</preflight>

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="065718.pdf">
+  <executionTimeMS>4195</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="1137">
+    <error count="1">
+      <code>7.11</code>
+      <details>Error on MetaData</details>
+    </error>
+    <error count="1">
+      <code>3.1.4</code>
+      <details>Invalid Font definition, The Charset entry is missing for the Type1 Subset</details>
+    </error>
+    <error count="1">
+      <code>3.1.5</code>
+      <details>Invalid Font definition, The Encoding should be missing for the Symbolic TTF</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "56" in the font program "AEKSWJ+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "95" in the font program "AEKSWJ+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "54" in the font program "AEKSWJ+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "103" in the font program "AEKSWJ+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "109" in the font program "AEKSWJ+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "73" in the font program "AEKSWJ+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "79" in the font program "AEKSWJ+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "112" in the font program "AEKSWJ+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "68" in the font program "AEKSWJ+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "108" in the font program "AEKSWJ+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "67" in the font program "AEKSWJ+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "100" in the font program "AEKSWJ+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "176" in the font program "APKEEW+Symbol"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "ISJRWJ+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "183" in the font program "APKEEW+Symbol"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "86" in the font program "AEKSWJ+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "69" in the font program "AEKSWJ+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "52" in the font program "AEKSWJ+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="14">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "110" in the font program "AEKSWJ+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="28">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "111" in the font program "AEKSWJ+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="14">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "105" in the font program "AEKSWJ+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="18">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "AEKSWJ+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "99" in the font program "AEKSWJ+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "AEKSWJ+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "53" in the font program "AEKSWJ+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "50" in the font program "AEKSWJ+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "121" in the font program "AEKSWJ+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="20">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "AEKSWJ+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "117" in the font program "AEKSWJ+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="34">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "114" in the font program "AEKSWJ+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "98" in the font program "AEKSWJ+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "AEKSWJ+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="16">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "66" in the font program "AEKSWJ+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "118" in the font program "AEKSWJ+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="46">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "AEKSWJ+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="18">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "82" in the font program "AEKSWJ+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="103">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "AEKSWJ+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "51" in the font program "AEKSWJ+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="27">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "48" in the font program "AEKSWJ+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "46" in the font program "AEKSWJ+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="25">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "AEKSWJ+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="20">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "45" in the font program "AEKSWJ+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "77" in the font program "AEKSWJ+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "80" in the font program "AEKSWJ+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>2.3</code>
+      <details>Unexpected key in Graphic object definition, No TR key expected in Extended graphics state</details>
+    </error>
+    <error count="8">
+      <code>2.1.7</code>
+      <details>Invalid Graphis object</details>
+    </error>
+    <error count="371">
+      <code>1.2.1</code>
+      <details>Body Syntax error, Single space expected</details>
+    </error>
+    <error count="15">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f*" can't be used without Color Profile</details>
+    </error>
+    <error count="8">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "G" can't be used without Color Profile</details>
+    </error>
+    <error count="67">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="44">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "g" can't be used without Color Profile</details>
+    </error>
+    <error count="1">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "RG" can't be used with CMYK Profile</details>
+    </error>
+  </errors>
+</preflight>

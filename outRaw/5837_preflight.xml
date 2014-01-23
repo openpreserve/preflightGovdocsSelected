@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="305603.pdf">
+  <executionTimeMS>2181</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="67">
+    <error count="11">
+      <code>1.2.12</code>
+      <details>Body Syntax error, This filter isn't defined in the PDF Reference Third Edition : LZWDecode</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+    <error count="11">
+      <code>1.2.7</code>
+      <details>Body Syntax error, LZWDecode is forbidden</details>
+    </error>
+    <error count="30">
+      <code>1.2.5</code>
+      <details>Body Syntax error, Stream length is invalide</details>
+    </error>
+    <error count="3">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="11">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "g" can't be used without Color Profile</details>
+    </error>
+  </errors>
+</preflight>

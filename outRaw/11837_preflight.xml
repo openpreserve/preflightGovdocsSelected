@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="557355.pdf">
+  <executionTimeMS>3767</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="1317">
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Invalid array type, expecting Seq and found Bag</details>
+    </error>
+    <error count="146">
+      <code>2.3.2</code>
+      <details>Unexpected key in Graphic object definition, Unexpected 'true' value for 'Interpolate' Key</details>
+    </error>
+    <error count="1">
+      <code>1.4.8</code>
+      <details>Trailer Syntax error, A Catalog shall not contain the OCPProperties entry.</details>
+    </error>
+    <error count="1">
+      <code>1.4.6</code>
+      <details>Trailer Syntax error, ID is different in the first and the last trailer</details>
+    </error>
+    <error count="292">
+      <code>1.2.12</code>
+      <details>Body Syntax error, This filter isn't defined in the PDF Reference Third Edition : JPXDecode</details>
+    </error>
+    <error count="292">
+      <code>2.2.2</code>
+      <details>Invalid Graphis transparency, Soft Mask must be null or None</details>
+    </error>
+    <error count="584">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+  </errors>
+</preflight>

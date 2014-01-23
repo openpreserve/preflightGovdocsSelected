@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="683776.pdf">
+  <executionTimeMS>774</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="3">
+    <error count="1">
+      <code>2.2.2</code>
+      <details>Invalid Graphis transparency, Soft Mask must be null or None</details>
+    </error>
+    <error count="1">
+      <code>7.1.1</code>
+      <details>Error on MetaData, No type defined for {http://ns.adobe.com/tiff/1.0/}NativeDigest</details>
+    </error>
+    <error count="1">
+      <code>1.4.6</code>
+      <details>Trailer Syntax error, ID is different in the first and the last trailer</details>
+    </error>
+  </errors>
+</preflight>

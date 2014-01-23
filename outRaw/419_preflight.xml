@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="853835.pdf">
+  <executionTimeMS>1892</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="414">
+    <error count="21">
+      <code>3.1.5</code>
+      <details>Invalid Font definition, The Encoding is invalid for the NonSymbolic TTF</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for Arial-BoldItalicMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for CourierNewPSMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for BookmanOldStyle-BoldItalic</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for LucidaConsole</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for BookmanOldStyle-Bold</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for Garamond-Bold</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for Arial-BoldMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for Tahoma-Bold</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for Verdana-Bold</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for Verdana-BoldItalic</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for BookmanOldStyle-Italic</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for Verdana-Italic</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for Garamond-Italic</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for ArialNarrow</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for Garamond</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for Arial-ItalicMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for Verdana</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for BookmanOldStyle</details>
+    </error>
+    <error count="1">
+      <code>7.11</code>
+      <details>Error on MetaData</details>
+    </error>
+    <error count="278">
+      <code>1.2.1</code>
+      <details>Body Syntax error, Single space expected</details>
+    </error>
+    <error count="1">
+      <code>1.4.6</code>
+      <details>Trailer Syntax error, ID is different in the first and the last trailer</details>
+    </error>
+    <error count="19">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="38">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "RG" can't be used with CMYK Profile</details>
+    </error>
+    <error count="38">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "rg" can't be used with CMYK Profile</details>
+    </error>
+  </errors>
+</preflight>

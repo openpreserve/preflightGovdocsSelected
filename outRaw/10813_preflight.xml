@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="191086.pdf">
+  <executionTimeMS>2185</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="932">
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "69" in the font program "EONCHB+Times-RomanSC"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "76" in the font program "EONCHB+Times-RomanSC"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "46" in the font program "EONCHB+Times-RomanSC"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "73" in the font program "EONCHB+Times-RomanSC"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "44" in the font program "EONCHB+Times-RomanSC"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "72" in the font program "EONCHB+Times-RomanSC"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "81" in the font program "EONCHB+Times-RomanSC"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "38" in the font program "EONCHB+Times-RomanSC"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "68" in the font program "EONCHB+Times-RomanSC"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "56" in the font program "EONCIE+Beljan-GreekwithMathPi"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "40" in the font program "EONCIE+Beljan-GreekwithMathPi"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "35" in the font program "EONCIE+Beljan-GreekwithMathPi"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "44" in the font program "EONDID+Universal-GreekwithMathPi"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "114" in the font program "EONCIE+Beljan-GreekwithMathPi"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "64" in the font program "EONCIE+Beljan-GreekwithMathPi"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "104" in the font program "EONCIE+Beljan-GreekwithMathPi"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "115" in the font program "EONCIE+Beljan-GreekwithMathPi"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "46" in the font program "EONDID+Universal-GreekwithMathPi"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "71" in the font program "EONEEC+MathematicalPi-Three"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "EONEEC+MathematicalPi-Three"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "222" in the font program "EONDID+Universal-GreekwithMathPi"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "106" in the font program "EONCIE+Beljan-GreekwithMathPi"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="16">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "76" in the font program "EONCIE+Beljan-GreekwithMathPi"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "38" in the font program "EONCIE+Beljan-GreekwithMathPi"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "94" in the font program "EONCIE+Beljan-GreekwithMathPi"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "51" in the font program "EONDID+Universal-GreekwithMathPi"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "33" in the font program "EONEEC+MathematicalPi-Three"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "69" in the font program "EONEEC+MathematicalPi-Three"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "91" in the font program "EONCIE+Beljan-GreekwithMathPi"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "171" in the font program "EONCIE+Beljan-GreekwithMathPi"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "98" in the font program "EONCIE+Beljan-GreekwithMathPi"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "68" in the font program "EONEEC+MathematicalPi-Three"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "EONEEC+MathematicalPi-Three"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "107" in the font program "EONCIE+Beljan-GreekwithMathPi"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "108" in the font program "EONCIE+Beljan-GreekwithMathPi"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="19">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "93" in the font program "EONCIE+Beljan-GreekwithMathPi"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "103" in the font program "EONCIE+Beljan-GreekwithMathPi"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="32">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "50" in the font program "EONDID+Universal-GreekwithMathPi"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="67">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "53" in the font program "EONDID+Universal-GreekwithMathPi"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="25">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "EONDID+Universal-GreekwithMathPi"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="132">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "33" in the font program "EONCIE+Beljan-GreekwithMathPi"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "EONCHB+Times-RomanSC"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "82" in the font program "EONCHB+Times-RomanSC"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="114">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "126" in the font program "EONCIE+Beljan-GreekwithMathPi"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "EONCHB+Times-RomanSC"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.1</code>
+      <details>Invalid Font definition, Some required fields are missing from the Font dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.2</code>
+      <details>Invalid Font definition, FontDescriptor is null or is a AFM Descriptor</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+    <error count="8">
+      <code>1.2.12</code>
+      <details>Body Syntax error, This filter isn't defined in the PDF Reference Third Edition : LZWDecode</details>
+    </error>
+    <error count="13">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(39)</details>
+    </error>
+    <error count="8">
+      <code>1.2.7</code>
+      <details>Body Syntax error, LZWDecode is forbidden</details>
+    </error>
+    <error count="7">
+      <code>2.4.2</code>
+      <details>Invalid Color space, The operator "k" can't be used with RGB Profile</details>
+    </error>
+    <error count="6">
+      <code>2.4.2</code>
+      <details>Invalid Color space, The operator "K" can't be used with RGB Profile</details>
+    </error>
+    <error count="324">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="14">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "g" can't be used without Color Profile</details>
+    </error>
+    <error count="2">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "G" can't be used without Color Profile</details>
+    </error>
+    <error count="4">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+  </errors>
+</preflight>

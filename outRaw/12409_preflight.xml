@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="209097.pdf">
+  <executionTimeMS>3992</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="22989">
+    <error count="1">
+      <code>1.4.6</code>
+      <details>Trailer Syntax error, ID is different in the first and the last trailer</details>
+    </error>
+    <error count="95">
+      <code>1.2.1</code>
+      <details>Body Syntax error, Single space expected</details>
+    </error>
+    <error count="1">
+      <code>7.11</code>
+      <details>Error on MetaData</details>
+    </error>
+    <error count="3">
+      <code>2.4.2</code>
+      <details>Invalid Color space, The operator "K" can't be used with RGB Profile</details>
+    </error>
+    <error count="11">
+      <code>2.4.2</code>
+      <details>Invalid Color space, The operator "k" can't be used with RGB Profile</details>
+    </error>
+    <error count="22720">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="1">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "G" can't be used without Color Profile</details>
+    </error>
+    <error count="4">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "g" can't be used without Color Profile</details>
+    </error>
+    <error count="1">
+      <code>5.2.2</code>
+      <details>Forbidden field in an annotation definition, Flags of Link annotation are invalid</details>
+    </error>
+    <error count="6">
+      <code>3.1.1</code>
+      <details>Invalid Font definition, Some required fields are missing from the Font dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.2</code>
+      <details>Invalid Font definition, FontDescriptor is null or is a AFM Descriptor</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(104)</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(36)</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(98)</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(116)</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(35)</details>
+    </error>
+    <error count="3">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(33)</details>
+    </error>
+    <error count="3">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(126)</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(171)</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(69)</details>
+    </error>
+    <error count="21">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(115)</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(112)</details>
+    </error>
+    <error count="66">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(52)</details>
+    </error>
+    <error count="8">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(97)</details>
+    </error>
+    <error count="27">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(109)</details>
+    </error>
+  </errors>
+</preflight>

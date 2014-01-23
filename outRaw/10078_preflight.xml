@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="974327.pdf">
+  <executionTimeMS>2033</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="229">
+    <error count="1">
+      <code>7.3</code>
+      <details>Error on MetaData, Cannot find a definition for the namespace http://ns.adobe.com/pdfx/1.3/</details>
+    </error>
+    <error count="201">
+      <code>1.2.1</code>
+      <details>Body Syntax error, Single space expected</details>
+    </error>
+    <error count="1">
+      <code>1.4.6</code>
+      <details>Trailer Syntax error, ID is different in the first and the last trailer</details>
+    </error>
+    <error count="26">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+  </errors>
+</preflight>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="095001.pdf">
+  <executionTimeMS>4548</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="881">
+    <error count="2">
+      <code>3.1.1</code>
+      <details>Invalid Font definition, Some required fields are missing from the Font dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.2</code>
+      <details>Invalid Font definition, FontDescriptor is null or is a AFM Descriptor</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(39)</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(115)</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(49)</details>
+    </error>
+    <error count="3">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(90)</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(32)</details>
+    </error>
+    <error count="4">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(54)</details>
+    </error>
+    <error count="4">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(36)</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(35)</details>
+    </error>
+    <error count="3">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(47)</details>
+    </error>
+    <error count="12">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(112)</details>
+    </error>
+    <error count="9">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(114)</details>
+    </error>
+    <error count="6">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(113)</details>
+    </error>
+    <error count="17">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(105)</details>
+    </error>
+    <error count="17">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(104)</details>
+    </error>
+    <error count="7">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(64)</details>
+    </error>
+    <error count="5">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(95)</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(48)</details>
+    </error>
+    <error count="5">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(82)</details>
+    </error>
+    <error count="63">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(58)</details>
+    </error>
+    <error count="10">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(106)</details>
+    </error>
+    <error count="27">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(33)</details>
+    </error>
+    <error count="38">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(61)</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(123)</details>
+    </error>
+    <error count="26">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(34)</details>
+    </error>
+    <error count="26">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(92)</details>
+    </error>
+    <error count="59">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(59)</details>
+    </error>
+    <error count="54">
+      <code>1.2.5</code>
+      <details>Body Syntax error, Stream length is invalide</details>
+    </error>
+    <error count="1">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "G" can't be used without Color Profile</details>
+    </error>
+    <error count="86">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="39">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "g" can't be used without Color Profile</details>
+    </error>
+    <error count="62">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "rg" can't be used with CMYK Profile</details>
+    </error>
+    <error count="283">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "RG" can't be used with CMYK Profile</details>
+    </error>
+  </errors>
+</preflight>

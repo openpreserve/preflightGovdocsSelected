@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="536636.pdf">
+  <executionTimeMS>1898</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="74">
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+    <error count="73">
+      <code>5.2.2</code>
+      <details>Forbidden field in an annotation definition, Flags of Link annotation are invalid</details>
+    </error>
+  </errors>
+</preflight>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="475108.pdf">
+  <executionTimeMS>1931</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="376">
+    <error count="1">
+      <code>7.2</code>
+      <details>Error on MetaData, CreationDate present in the document catalog dictionary doesn't match with XMP information</details>
+    </error>
+    <error count="1">
+      <code>7.11</code>
+      <details>Error on MetaData</details>
+    </error>
+    <error count="2">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 32768.0</details>
+    </error>
+    <error count="5">
+      <code>1.2.7</code>
+      <details>Body Syntax error, LZWDecode is forbidden</details>
+    </error>
+    <error count="2">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "G" can't be used without Color Profile</details>
+    </error>
+    <error count="5">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "g" can't be used without Color Profile</details>
+    </error>
+    <error count="336">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="16">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "rg" can't be used with CMYK Profile</details>
+    </error>
+    <error count="5">
+      <code>1.2.12</code>
+      <details>Body Syntax error, This filter isn't defined in the PDF Reference Third Edition : LZWDecode</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 174</details>
+    </error>
+    <error count="2">
+      <code>2.1.7</code>
+      <details>Invalid Graphis object, The Group dictionary hasn't Group as Type value</details>
+    </error>
+  </errors>
+</preflight>

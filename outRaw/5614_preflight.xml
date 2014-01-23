@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="596046.pdf">
+  <executionTimeMS>574</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="5">
+    <error count="1">
+      <code>1.4.10</code>
+      <details>Trailer Syntax error, File contains data after the last %%EOF sequence</details>
+    </error>
+    <error count="1">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+    <error count="1">
+      <code>1.4.1</code>
+      <details>Trailer Syntax error, The trailer dictionary doesn't contain ID</details>
+    </error>
+    <error count="1">
+      <code>1.1</code>
+      <details>Body Syntax error, Second line must contains at least 4 bytes greater than 127</details>
+    </error>
+  </errors>
+</preflight>

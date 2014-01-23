@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="109868.pdf">
+  <executionTimeMS>6426</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="86202">
+    <error count="1">
+      <code>7.11</code>
+      <details>Error on MetaData</details>
+    </error>
+    <error count="692">
+      <code>2.4.2</code>
+      <details>Invalid Color space, The operator "k" can't be used with RGB Profile</details>
+    </error>
+    <error count="691">
+      <code>2.4.2</code>
+      <details>Invalid Color space, The operator "K" can't be used with RGB Profile</details>
+    </error>
+    <error count="8071">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="2">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "g" can't be used without Color Profile</details>
+    </error>
+    <error count="16">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="1">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "rg" can't be used with CMYK Profile</details>
+    </error>
+    <error count="1168">
+      <code>1.2.1</code>
+      <details>Body Syntax error, Single space expected</details>
+    </error>
+    <error count="2">
+      <code>1.2.7</code>
+      <details>Body Syntax error, LZWDecode is forbidden</details>
+    </error>
+    <error count="2">
+      <code>1.2.12</code>
+      <details>Body Syntax error, This filter isn't defined in the PDF Reference Third Edition : LZWDecode</details>
+    </error>
+    <error count="2">
+      <code>3.1.5</code>
+      <details>Invalid Font definition, The Encoding should be missing for the Symbolic TTF</details>
+    </error>
+    <error count="1751">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "ONCGLW+Helvetica-Narrow-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="64">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "EJGHLW+Helvetica-Narrow-BoldOblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3986">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "FNVGLW+Helvetica-Narrow"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="677">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "SKQGLW+Helvetica-Narrow-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "169" in the font program "DBSGLW+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="97">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "KDKGLW+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "169" in the font program "JPBHLW+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="590">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "YAHHLW+Helvetica-BoldOblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "169" in the font program "LUIHLW+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="818">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "WIDHLW+Times-BoldItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1823">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "JPBGLW+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1487">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "JPBHLW+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="60351">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "LUIHLW+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3898">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "DBSGLW+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+  </errors>
+</preflight>

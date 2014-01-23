@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="925033.pdf">
+  <executionTimeMS>2220</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="513">
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "72" in the font program "HOGPLL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "57" in the font program "HOHCBG+HelveticaNeue-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "56" in the font program "HOHCBG+HelveticaNeue-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "55" in the font program "HOHCBG+HelveticaNeue-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "54" in the font program "HOHCBG+HelveticaNeue-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "53" in the font program "HOHCBG+HelveticaNeue-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="68">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "HOGPNP+HelveticaNeue-Light"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="34">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "111" in the font program "HOGPNP+HelveticaNeue-Light"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="34">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "HOGPNP+HelveticaNeue-Light"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="34">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "HOGPNP+HelveticaNeue-Light"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "HOGPLK+HelveticaNeue"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "HOGPLK+HelveticaNeue"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>7.11</code>
+      <details>Error on MetaData</details>
+    </error>
+    <error count="204">
+      <code>1.2.1</code>
+      <details>Body Syntax error, Single space expected</details>
+    </error>
+    <error count="33">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="34">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="34">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "g" can't be used without Color Profile</details>
+    </error>
+  </errors>
+</preflight>

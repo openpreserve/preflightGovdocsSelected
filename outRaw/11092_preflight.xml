@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="647990.pdf">
+  <executionTimeMS>536</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="34">
+    <error count="1">
+      <code>1.4.10</code>
+      <details>Trailer Syntax error, File contains data after the last %%EOF sequence</details>
+    </error>
+    <error count="8">
+      <code>1.2.12</code>
+      <details>Body Syntax error, This filter isn't defined in the PDF Reference Third Edition : LZWDecode</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+    <error count="8">
+      <code>1.2.7</code>
+      <details>Body Syntax error, LZWDecode is forbidden</details>
+    </error>
+    <error count="16">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+  </errors>
+</preflight>

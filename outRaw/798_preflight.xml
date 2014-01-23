@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="389737.pdf">
+  <executionTimeMS>6237</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="33">
+    <error count="1">
+      <code>1.4.10</code>
+      <details>Trailer Syntax error, File contains data after the last %%EOF sequence</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for DYXWEL+Arial-BoldMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for PWFSBX+Arial-BoldMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for BHAPXK+ArialMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for LQNMGO+Arial-BoldMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for PMUFEX+ArialMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for NHZHOO+ArialMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for TUNWWO+Arial-ItalicMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for BRJEWO+Arial-BoldMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for JXUOGA+ArialMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for HQQBTM+Arial-BoldMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for RDMCGA+ArialMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for HCXHNJ+Arial-BoldMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for PQUESC+Arial-BoldMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for TWAWYO+ArialMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for XWNHYG+Arial-BoldMT</details>
+    </error>
+    <error count="2">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for RRLJYO+ArialMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for ZRZDXO+ArialMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for ZRZDXO+Arial-BoldMT</details>
+    </error>
+    <error count="2">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for ZVZUUL+TimesNewRomanPS-ItalicMT</details>
+    </error>
+    <error count="2">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for TARHRF+TimesNewRomanPS-BoldMT</details>
+    </error>
+    <error count="2">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for LOIVQX+TimesNewRomanPSMT</details>
+    </error>
+    <error count="1">
+      <code>3.1.5</code>
+      <details>Invalid Font definition, The Encoding is invalid for the NonSymbolic TTF</details>
+    </error>
+    <error count="2">
+      <code>3.1.1</code>
+      <details>Invalid Font definition, Some required fields are missing from the Font dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.2</code>
+      <details>Invalid Font definition, FontDescriptor is null or is a AFM Descriptor</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+    <error count="1">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "g" can't be used without Color Profile</details>
+    </error>
+  </errors>
+</preflight>

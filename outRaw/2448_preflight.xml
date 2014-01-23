@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="350273.pdf">
+  <executionTimeMS>1197</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="303">
+    <error count="2">
+      <code>3.1.1</code>
+      <details>Invalid Font definition, Some required fields are missing from the Font dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.2</code>
+      <details>Invalid Font definition, FontDescriptor is null or is a AFM Descriptor</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for Helvetica-Condensed-Bold</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+    <error count="2">
+      <code>1.2.2</code>
+      <details>Body Syntax error, Expected 'EOL' after the stream keyword</details>
+    </error>
+    <error count="2">
+      <code>1.2.5</code>
+      <details>Body Syntax error, Stream length is invalide</details>
+    </error>
+    <error count="1">
+      <code>2.4.2</code>
+      <details>Invalid Color space, The operator "K" can't be used with RGB Profile</details>
+    </error>
+    <error count="2">
+      <code>2.4.2</code>
+      <details>Invalid Color space, The operator "k" can't be used with RGB Profile</details>
+    </error>
+    <error count="22">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="8">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "F" can't be used without Color Profile</details>
+    </error>
+    <error count="9">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "B" can't be used without Color Profile</details>
+    </error>
+    <error count="94">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "b" can't be used without Color Profile</details>
+    </error>
+    <error count="45">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "g" can't be used without Color Profile</details>
+    </error>
+    <error count="22">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "G" can't be used without Color Profile</details>
+    </error>
+    <error count="1">
+      <code>1.4.1</code>
+      <details>Trailer Syntax error, The trailer dictionary doesn't contain ID</details>
+    </error>
+    <error count="4">
+      <code>1.2.10</code>
+      <details>Body Syntax error, The operator "MCF" isn't supported.</details>
+    </error>
+    <error count="26">
+      <code>1.2.10</code>
+      <details>Body Syntax error, The operator "MCD" isn't supported.</details>
+    </error>
+    <error count="55">
+      <code>1.2.10</code>
+      <details>Body Syntax error, The operator "BMD" isn't supported.</details>
+    </error>
+    <error count="1">
+      <code>1.2.10</code>
+      <details>Body Syntax error, The operator "BML" isn't supported.</details>
+    </error>
+    <error count="1">
+      <code>1.2.10</code>
+      <details>Body Syntax error, The operator "MC" isn't supported.</details>
+    </error>
+    <error count="1">
+      <code>1.1</code>
+      <details>Body Syntax error, Second line must contains at least 4 bytes greater than 127</details>
+    </error>
+    <error count="1">
+      <code>1.1</code>
+      <details>Body Syntax error, First line must match %PDF-1.\d</details>
+    </error>
+  </errors>
+</preflight>

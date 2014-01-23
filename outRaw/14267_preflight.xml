@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="143628.pdf">
+  <executionTimeMS>886</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="210">
+    <error count="1">
+      <code>7.11</code>
+      <details>Error on MetaData</details>
+    </error>
+    <error count="32">
+      <code>2.3</code>
+      <details>Unexpected key in Graphic object definition, Unexpected 'Alternates' Key</details>
+    </error>
+    <error count="176">
+      <code>1.2.1</code>
+      <details>Body Syntax error, Single space expected</details>
+    </error>
+    <error count="1">
+      <code>1.4.6</code>
+      <details>Trailer Syntax error, ID is different in the first and the last trailer</details>
+    </error>
+  </errors>
+</preflight>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="974354.pdf">
+  <executionTimeMS>1047</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="158">
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Invalid array type, expecting Seq and found Bag</details>
+    </error>
+    <error count="1">
+      <code>1.4.6</code>
+      <details>Trailer Syntax error, ID is different in the first and the last trailer</details>
+    </error>
+    <error count="156">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+  </errors>
+</preflight>

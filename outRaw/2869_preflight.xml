@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="700561.pdf">
+  <executionTimeMS>714</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="11">
+    <error count="10">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Expecting namespace 'adobe:ns:meta/' and found 'http://www.w3.org/1999/02/22-rdf-syntax-ns#'</details>
+    </error>
+  </errors>
+</preflight>

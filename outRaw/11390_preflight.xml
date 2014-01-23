@@ -1,0 +1,847 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="599462.pdf">
+  <executionTimeMS>8881</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="11121">
+    <error count="124">
+      <code>2.3</code>
+      <details>Unexpected key in Graphic object definition, No TR key expected in Extended graphics state</details>
+    </error>
+    <error count="1">
+      <code>1.4.2</code>
+      <details>Trailer Syntax error, The trailer dictionary contains Encrypt</details>
+    </error>
+    <error count="2">
+      <code>6.2.2</code>
+      <details>Action is forbidden, Additional Action are forbidden</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+    <error count="1">
+      <code>2.2.2</code>
+      <details>Invalid Graphis transparency, Soft Mask must be null or None</details>
+    </error>
+    <error count="1">
+      <code>2.4.2</code>
+      <details>Invalid Color space, The operator "k" can't be used with RGB Profile</details>
+    </error>
+    <error count="1">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "b*" can't be used without Color Profile</details>
+    </error>
+    <error count="54">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "G" can't be used without Color Profile</details>
+    </error>
+    <error count="207">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "g" can't be used without Color Profile</details>
+    </error>
+    <error count="280">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f*" can't be used without Color Profile</details>
+    </error>
+    <error count="470">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="299">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="70">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "RG" can't be used with CMYK Profile</details>
+    </error>
+    <error count="413">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "rg" can't be used with CMYK Profile</details>
+    </error>
+    <error count="3">
+      <code>2.4.11</code>
+      <details>Invalid Color space, ICCBase color space is invalid. Caused By: Invalid ICC Profile Data</details>
+    </error>
+    <error count="5">
+      <code>5.3.1</code>
+      <details>Invalid field value in an annotation definition, Only the N Appearance is authorized</details>
+    </error>
+    <error count="2">
+      <code>5.2.5</code>
+      <details>Forbidden field in an annotation definition</details>
+    </error>
+    <error count="2">
+      <code>5.2.2</code>
+      <details>Forbidden field in an annotation definition, Flags of Widget annotation are invalid</details>
+    </error>
+    <error count="264">
+      <code>5.2.2</code>
+      <details>Forbidden field in an annotation definition, Flags of Link annotation are invalid</details>
+    </error>
+    <error count="1">
+      <code>3.1.4</code>
+      <details>Invalid Font definition, The Charset entry is missing for the Type1 Subset</details>
+    </error>
+    <error count="1">
+      <code>3.1.5</code>
+      <details>Invalid Font definition, The Encoding should be missing for the Symbolic TTF</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "BBLNHG+TT13Co00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "BEMIAH+TT1B1o00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "BEMCBL+TT1A5o00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "MIPDJL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "MIMICK+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "51" in the font program "MIMICK+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "50" in the font program "MIMICK+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "52" in the font program "MIMICK+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "MIMICK+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="20">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "BDAIMC+TT174o00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="23">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "2" in the font program "DIANPE+Symbol"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "115" in the font program "ASZRGZ+Palatino-Bold~41"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "48" in the font program "GJBXPC+Palatino-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "109" in the font program "ASZRGZ+Palatino-Bold~41"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "113" in the font program "GJBXPC+Palatino-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "77" in the font program "ASZRGZ+Palatino-Bold~41"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "118" in the font program "GJBXPC+Palatino-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "86" in the font program "ASZRGZ+Palatino-Bold~41"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "121" in the font program "FYFOUY+Palatino-Bold~2a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "84" in the font program "FYFOUY+Palatino-Bold~2a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "121" in the font program "JTQBNU+Palatino-Bold~20"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "103" in the font program "JTQBNU+Palatino-Bold~20"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "66" in the font program "JTQBNU+Palatino-Bold~20"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "86" in the font program "FYFOUY+Palatino-Bold~2a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "117" in the font program "FYFOUY+Palatino-Bold~2a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "FYFOUY+Palatino-Bold~2a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "ASZRGZ+Palatino-Bold~41"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "106" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "99" in the font program "GJBXPC+Palatino-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "121" in the font program "ASZRGZ+Palatino-Bold~41"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "84" in the font program "ASZRGZ+Palatino-Bold~41"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "99" in the font program "ASZRGZ+Palatino-Bold~41"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "88" in the font program "ASZRGZ+Palatino-Bold~41"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "71" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "108" in the font program "ASZRGZ+Palatino-Bold~41"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "ASZRGZ+Palatino-Bold~41"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "105" in the font program "ASZRGZ+Palatino-Bold~41"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="60">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "46" in the font program "QJNQOA+Palatino-Roman~4f"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "85" in the font program "FYFOUY+Palatino-Bold~2a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "GJBXPC+Palatino-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "74" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "56" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "55" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "117" in the font program "GJBXPC+Palatino-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "47" in the font program "GJBXPC+Palatino-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "77" in the font program "GJBXPC+Palatino-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "GJBXPC+Palatino-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "57" in the font program "GJBXPC+Palatino-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="20">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "109" in the font program "GJBXPC+Palatino-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "79" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "54" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "53" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "118" in the font program "ASZRGZ+Palatino-Bold~41"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "111" in the font program "ASZRGZ+Palatino-Bold~41"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "103" in the font program "FYFOUY+Palatino-Bold~2a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "FYFOUY+Palatino-Bold~2a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "108" in the font program "FYFOUY+Palatino-Bold~2a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "118" in the font program "FYFOUY+Palatino-Bold~2a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "104" in the font program "FYFOUY+Palatino-Bold~2a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "102" in the font program "FYFOUY+Palatino-Bold~2a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "48" in the font program "FYFOUY+Palatino-Bold~2a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "PCSYCX+ArialMT*1"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "109" in the font program "JTQBNU+Palatino-Bold~20"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "77" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="90">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "GJBXPC+Palatino-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "84" in the font program "JTQBNU+Palatino-Bold~20"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "3" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "ERKWIV+Palatino-Bold~17"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "114" in the font program "GJBXPC+Palatino-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="21">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "76" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "81" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "73" in the font program "JTQBNU+Palatino-Bold~20"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "67" in the font program "JTQBNU+Palatino-Bold~20"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "57" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "105" in the font program "FYFOUY+Palatino-Bold~2a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "FYFOUY+Palatino-Bold~2a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "68" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="42">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "48" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "114" in the font program "JTQBNU+Palatino-Bold~20"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "112" in the font program "GJBXPC+Palatino-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "85" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "98" in the font program "GJBXPC+Palatino-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "121" in the font program "GJBXPC+Palatino-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="22">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "120" in the font program "GJBXPC+Palatino-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "41" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="33">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "FYFOUY+Palatino-Bold~2a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="15">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "72" in the font program "FYFOUY+Palatino-Bold~2a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="16">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "148" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "66" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="45">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "100" in the font program "GJBXPC+Palatino-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="173">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "115" in the font program "GJBXPC+Palatino-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="36">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "45" in the font program "GJBXPC+Palatino-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "103" in the font program "GJBXPC+Palatino-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "46" in the font program "GJBXPC+Palatino-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "104" in the font program "GJBXPC+Palatino-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "80" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="46">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "52" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="20">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "51" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "68" in the font program "JTQBNU+Palatino-Bold~20"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "111" in the font program "JTQBNU+Palatino-Bold~20"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="46">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "88" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "45" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="64">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "40" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="24">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "110" in the font program "GJBXPC+Palatino-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="86">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "46" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="101">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "147" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="178">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "110" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "107" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="83">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "108" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "82" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="50">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "50" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="126">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "121" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="97">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "2" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="56">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="51">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "103" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="353">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "100" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="213">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "119" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="763">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "115" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="226">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "114" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1091">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="25">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "113" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="216">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "102" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="987">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="567">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "105" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="109">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "44" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="963">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "111" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="89">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="58">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "69" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="181">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "109" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="954">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "104" in the font program "DZLSSK+Palatino-Roman~1a"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "73" in the font program "ERKWIV+Palatino-Bold~17"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "67" in the font program "KXIPNR+Palatino-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "77" in the font program "QRNYHB+Palatino-Roman~f"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "103" in the font program "QRNYHB+Palatino-Roman~f"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "QRNYHB+Palatino-Roman~f"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "114" in the font program "QRNYHB+Palatino-Roman~f"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "68" in the font program "QRNYHB+Palatino-Roman~f"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "QRNYHB+Palatino-Roman~f"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "QRNYHB+Palatino-Roman~f"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "115" in the font program "QRNYHB+Palatino-Roman~f"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "QRNYHB+Palatino-Roman~f"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "111" in the font program "QRNYHB+Palatino-Roman~f"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "73" in the font program "QRNYHB+Palatino-Roman~f"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "78" in the font program "QRNYHB+Palatino-Roman~f"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "104" in the font program "NHYTKJ+Palatino-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "111" in the font program "NHYTKJ+Palatino-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "71" in the font program "NHYTKJ+Palatino-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "80" in the font program "NHYTKJ+Palatino-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "68" in the font program "NHYTKJ+Palatino-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "84" in the font program "NHYTKJ+Palatino-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "NHYTKJ+Palatino-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "73" in the font program "NHYTKJ+Palatino-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "NHYTKJ+Palatino-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "86" in the font program "NHYTKJ+Palatino-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "119" in the font program "KXIPNR+Palatino-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "69" in the font program "KXIPNR+Palatino-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "72" in the font program "KXIPNR+Palatino-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "104" in the font program "KXIPNR+Palatino-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="14">
+      <code>3.1.1</code>
+      <details>Invalid Font definition, Some required fields are missing from the Font dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.2</code>
+      <details>Invalid Font definition, FontDescriptor is null or is a AFM Descriptor</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for Times-Bold</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for Arial,BoldItalic</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for Arial-ItalicMT</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for Arial-BoldItalicMT</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for ArialMT</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for Arial-BoldMT</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for Arial,Italic</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for Palatino-BoldItalic</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for Palatino-Italic</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for Palatino-Roman</details>
+    </error>
+    <error count="2">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for Palatino-Bold</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for Times-Roman</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for Helvetica</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for Verdana,Bold</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for Verdana</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for CourierNew</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for Arial</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for Arial,Bold</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for Tahoma</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for TimesNewRomanPSMT</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for TimesNewRomanPS-BoldMT</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for TimesNewRoman,Italic</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for TimesNewRoman,BoldItalic</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for TimesNewRoman</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for TimesNewRoman,Bold</details>
+    </error>
+    <error count="3">
+      <code>3.1.9</code>
+      <details>Invalid Font definition</details>
+    </error>
+    <error count="9">
+      <code>3.1.11</code>
+      <details>Invalid Font definition, The CIDSet entry is missing for the Composite Subset</details>
+    </error>
+  </errors>
+</preflight>

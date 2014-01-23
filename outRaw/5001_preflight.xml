@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="508096.pdf">
+  <executionTimeMS>7642</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="89284">
+    <error count="9">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="7616">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f*" can't be used without Color Profile</details>
+    </error>
+    <error count="81484">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "rg" can't be used with CMYK Profile</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Expecting namespace 'adobe:ns:meta/' and found 'http://www.w3.org/1999/02/22-rdf-syntax-ns#'</details>
+    </error>
+    <error count="1">
+      <code>1.4.6</code>
+      <details>Trailer Syntax error, ID is different in the first and the last trailer</details>
+    </error>
+    <error count="19">
+      <code>1.2.5</code>
+      <details>Body Syntax error, Stream length is invalide</details>
+    </error>
+    <error count="3">
+      <code>3.1.4</code>
+      <details>Invalid Font definition, The Charset entry is missing for the Type1 Subset</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 67</details>
+    </error>
+    <error count="7">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 35</details>
+    </error>
+    <error count="3">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 36</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 85</details>
+    </error>
+    <error count="22">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 94</details>
+    </error>
+    <error count="116">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 84</details>
+    </error>
+  </errors>
+</preflight>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="694106.pdf">
+  <executionTimeMS>6635</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="3">
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for LGOKFQ+ArialMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for RPMFBV+Arial-BoldMT</details>
+    </error>
+  </errors>
+</preflight>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="598657.pdf">
+  <executionTimeMS>4730</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="146">
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "1" in the font program "ELKKFD+TTA6Eo00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "1" in the font program "ELKJOO+TTA6Co00"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Expecting namespace 'adobe:ns:meta/' and found 'http://www.w3.org/1999/02/22-rdf-syntax-ns#'</details>
+    </error>
+    <error count="127">
+      <code>1.2.5</code>
+      <details>Body Syntax error, Stream length is invalide</details>
+    </error>
+  </errors>
+</preflight>

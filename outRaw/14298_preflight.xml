@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="998733.pdf">
+  <executionTimeMS>1640</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="72">
+    <error count="4">
+      <code>1.2.12</code>
+      <details>Body Syntax error, This filter isn't defined in the PDF Reference Third Edition : JPXDecode</details>
+    </error>
+    <error count="8">
+      <code>7.1</code>
+      <details>Error on MetaData, No type defined for {http://ns.adobe.com/xap/1.0/}Title</details>
+    </error>
+    <error count="60">
+      <code>1.2.1</code>
+      <details>Body Syntax error, Single space expected</details>
+    </error>
+  </errors>
+</preflight>

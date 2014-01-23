@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="517469.pdf">
+  <executionTimeMS>3284</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="19">
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for TGISCO+ArialMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for PUENXF+Arial-BoldMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for ZVDVNA+ArialMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for VRGHIA+ArialMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for JDWCUW+TimesNewRomanPSMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for DYJRAF+TimesNewRomanPSMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for ZJFVIE+Arial-BoldMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for BPINTN+ArialMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for JRZPCO+Arial-BoldMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for TMHRJE+ArialMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for VNQBZF+TimesNewRomanPSMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for FJEICJ+TimesNewRomanPS-BoldMT</details>
+    </error>
+    <error count="1">
+      <code>3.1.5</code>
+      <details>Invalid Font definition, The Encoding is invalid for the NonSymbolic TTF</details>
+    </error>
+    <error count="4">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f*" can't be used without Color Profile</details>
+    </error>
+    <error count="1">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+  </errors>
+</preflight>

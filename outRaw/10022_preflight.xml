@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="300859.pdf">
+  <executionTimeMS>5333</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="154">
+    <error count="1">
+      <code>3.1.5</code>
+      <details>Invalid Font definition, The Encoding is invalid for the NonSymbolic TTF</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for HKVOLJ+TimesNewRomanPSMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for HASIFN+TimesNewRomanPS-ItalicMT</details>
+    </error>
+    <error count="3">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for PYAAMO+TimesNewRomanPS-ItalicMT</details>
+    </error>
+    <error count="2">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for LQRIFN+TimesNewRomanPS-ItalicMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for PAIOGG+TimesNewRomanPS-ItalicMT</details>
+    </error>
+    <error count="6">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for TCMDBG+TimesNewRomanPS-ItalicMT</details>
+    </error>
+    <error count="6">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for XSLDBG+TimesNewRomanPS-ItalicMT</details>
+    </error>
+    <error count="2">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for NRGCXF+TimesNewRomanPS-ItalicMT</details>
+    </error>
+    <error count="2">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for ZNFCXF+TimesNewRomanPS-ItalicMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for TQHOGG+TimesNewRomanPS-ItalicMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for DSQRME+CourierNewPSMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for PYSJXF+TimesNewRomanPS-ItalicMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for JBRJXF+TimesNewRomanPS-ItalicMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for ZDMDRJ+TimesNewRomanPS-ItalicMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for JNZAKI+TimesNewRomanPSMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for TWWRLE+TimesNewRomanPS-ItalicMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for HQCATJ+TimesNewRomanPSMT</details>
+    </error>
+    <error count="4">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for RDEATJ+TimesNewRomanPSMT</details>
+    </error>
+    <error count="2">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for JVBSOU+TimesNewRomanPS-ItalicMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for BPMTRK+TimesNewRomanPSMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for NLBSOU+TimesNewRomanPS-ItalicMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for TIRRDL+TimesNewRomanPSMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for TIDSOU+TimesNewRomanPS-ItalicMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for BDWRLE+TimesNewRomanPS-ItalicMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for DGAQAP+TimesNewRomanPS-ItalicMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for RXWOLJ+TimesNewRomanPSMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for JJPILQ+TimesNewRomanPS-ItalicMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for NZOILQ+TimesNewRomanPS-ItalicMT</details>
+    </error>
+    <error count="3">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for VNWOLJ+TimesNewRomanPSMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for RBPTIY+TimesNewRomanPSMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for JHMWGO+TimesNewRomanPS-ItalicMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for VJOFGH+TimesNewRomanPS-ItalicMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for TCWACM+TimesNewRomanPSMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for LMFHHK+TimesNewRomanPS-ItalicMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for JFPTSK+TimesNewRomanPSMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for ZFBWLH+TimesNewRomanPS-ItalicMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for ZDIXSK+TimesNewRomanPSMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for FDNDMH+TimesNewRomanPS-ItalicMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for PCFHHK+TimesNewRomanPS-ItalicMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for NJKISK+TimesNewRomanPSMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for DWAWLH+TimesNewRomanPS-ItalicMT</details>
+    </error>
+    <error count="6">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for VZMITK+TimesNewRomanPSMT</details>
+    </error>
+    <error count="2">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for JFNOHK+TimesNewRomanPS-ItalicMT</details>
+    </error>
+    <error count="11">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for FBUETK+TimesNewRomanPSMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for RZLDMH+TimesNewRomanPS-ItalicMT</details>
+    </error>
+    <error count="9">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for HMYASK+TimesNewRomanPSMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for NFEEEO+TimesNewRomanPS-ItalicMT</details>
+    </error>
+    <error count="4">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for XKRESK+TimesNewRomanPSMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for PORWDO+TimesNewRomanPS-ItalicMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for XKRESK+Arial-BoldMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for FZGXCT+TimesNewRomanPS-BoldMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for LCWXZQ+TimesNewRomanPS-ItalicMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for TMLRCD+TimesNewRomanPSMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for XKBSDK+Arial-BoldMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for TELRZE+TimesNewRomanPSMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for XUCZZJ+Arial-BoldMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for JJBJES+TimesNewRomanPS-ItalicMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for HISKDD+TimesNewRomanPSMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for VTDQVK+Arial-BoldMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for DOYEBU+TimesNewRomanPS-ItalicMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for PUUXQY+TimesNewRomanPSMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for BVXYIL+Arial-BoldMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for RRFGTD+TimesNewRomanPS-BoldMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for XAERFL+ArialMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for VHPXUA+TimesNewRomanPS-ItalicMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for NTPZWH+TimesNewRomanPSMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for HCLNFL+Arial-BoldMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for ZLGSGK+TimesNewRomanPS-BoldMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for ZFLXKF+TimesNewRomanPS-ItalicMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for JHEQRD+TimesNewRomanPSMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for DMFOCK+Arial-BoldMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for VLXQTX+TimesNewRomanPS-BoldMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for FPRCAG+TimesNewRomanPS-ItalicMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for NZINKL+TimesNewRomanPSMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for DGMITK+Arial-BoldMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for BRDHYS+TimesNewRomanPS-BoldMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for NBSMFF+TimesNewRomanPS-ItalicMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for NLBGGL+Arial-BoldMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for FJMAYV+TimesNewRomanPS-BoldMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for JBBRBC+TimesNewRomanPSMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for BRJWJQ+TimesNewRomanPS-ItalicMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for NRADYG+TimesNewRomanPSMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for HMESCK+Arial-BoldMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for NHFPXM+TimesNewRomanPS-BoldMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for HOXSSF+TimesNewRomanPS-BoldMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for TILGOW+TimesNewRomanPSMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for FLRJPB+TimesNewRomanPS-ItalicMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for FTVZZV+TimesNewRomanPSMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for PGJCIU+TimesNewRomanPS-BoldMT</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Expecting namespace 'adobe:ns:meta/' and found 'http://www.w3.org/1999/02/22-rdf-syntax-ns#'</details>
+    </error>
+    <error count="14">
+      <code>1.2.5</code>
+      <details>Body Syntax error, Stream length is invalide</details>
+    </error>
+    <error count="1">
+      <code>1.4.6</code>
+      <details>Trailer Syntax error, ID is different in the first and the last trailer</details>
+    </error>
+  </errors>
+</preflight>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="332033.pdf">
+  <executionTimeMS>1672</executionTimeMS>
+  <isValid type="">false</isValid>
+  <exceptionThrown>
+    <message>Unable to check the ContentStream : Error: Could not find font(COSName{HeadingPaginationFont}) in map={}</message>
+    <stackTrace>org.apache.pdfbox.preflight.exception.ValidationException: Unable to check the ContentStream : Error: Could not find font(COSName{HeadingPaginationFont}) in map={}
+	at org.apache.pdfbox.preflight.process.reflect.ResourcesValidationProcess.validateXObjects(ResourcesValidationProcess.java:200)
+	at org.apache.pdfbox.preflight.process.reflect.ResourcesValidationProcess.validate(ResourcesValidationProcess.java:78)
+	at org.apache.pdfbox.preflight.utils.ContextHelper.callValidation(ContextHelper.java:73)
+	at org.apache.pdfbox.preflight.utils.ContextHelper.validateElement(ContextHelper.java:52)
+	at org.apache.pdfbox.preflight.process.reflect.SinglePageValidationProcess.validateResources(SinglePageValidationProcess.java:163)
+	at org.apache.pdfbox.preflight.process.reflect.SinglePageValidationProcess.validate(SinglePageValidationProcess.java:82)
+	at org.apache.pdfbox.preflight.utils.ContextHelper.callValidation(ContextHelper.java:73)
+	at org.apache.pdfbox.preflight.utils.ContextHelper.validateElement(ContextHelper.java:52)
+	at org.apache.pdfbox.preflight.process.PageTreeValidationProcess.validatePage(PageTreeValidationProcess.java:58)
+	at org.apache.pdfbox.preflight.process.PageTreeValidationProcess.validate(PageTreeValidationProcess.java:47)
+	at org.apache.pdfbox.preflight.utils.ContextHelper.callValidation(ContextHelper.java:73)
+	at org.apache.pdfbox.preflight.utils.ContextHelper.validateElement(ContextHelper.java:88)
+	at org.apache.pdfbox.preflight.PreflightDocument.validate(PreflightDocument.java:169)
+	at org.apache.pdfbox.preflight.parser.XmlResultParser.validate(XmlResultParser.java:68)
+	at org.apache.pdfbox.preflight.parser.XmlResultParser.validate(XmlResultParser.java:49)
+	at org.apache.pdfbox.preflight.Validator_A1b.main(Validator_A1b.java:131)
+Caused by: org.apache.pdfbox.preflight.exception.ValidationException: Unable to check the ContentStream : Error: Could not find font(COSName{HeadingPaginationFont}) in map={}
+	at org.apache.pdfbox.preflight.content.ContentStreamWrapper.validXObjContentStream(ContentStreamWrapper.java:109)
+	at org.apache.pdfbox.preflight.xobject.XObjFormValidator.validateXObjectContent(XObjFormValidator.java:113)
+	at org.apache.pdfbox.preflight.xobject.XObjFormValidator.validate(XObjFormValidator.java:76)
+	at org.apache.pdfbox.preflight.process.reflect.GraphicObjectPageValidationProcess.validate(GraphicObjectPageValidationProcess.java:77)
+	at org.apache.pdfbox.preflight.utils.ContextHelper.callValidation(ContextHelper.java:73)
+	at org.apache.pdfbox.preflight.utils.ContextHelper.validateElement(ContextHelper.java:52)
+	at org.apache.pdfbox.preflight.process.reflect.ResourcesValidationProcess.validateXObjects(ResourcesValidationProcess.java:191)
+	... 15 more
+Caused by: java.io.IOException: Error: Could not find font(COSName{HeadingPaginationFont}) in map={}
+	at org.apache.pdfbox.util.operator.SetTextFont.process(SetTextFont.java:57)
+	at org.apache.pdfbox.preflight.content.ContentStreamWrapper.processOperator(ContentStreamWrapper.java:163)
+	at org.apache.pdfbox.util.PDFStreamEngine.processSubStream(PDFStreamEngine.java:258)
+	at org.apache.pdfbox.util.PDFStreamEngine.processSubStream(PDFStreamEngine.java:234)
+	at org.apache.pdfbox.preflight.content.ContentStreamWrapper.validXObjContentStream(ContentStreamWrapper.java:101)
+	... 21 more
+</stackTrace>
+  </exceptionThrown>
+</preflight>

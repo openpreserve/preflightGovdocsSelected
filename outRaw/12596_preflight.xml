@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="160871.pdf">
+  <executionTimeMS>2629</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="2310">
+    <error count="9">
+      <code>1.2.5</code>
+      <details>Body Syntax error, Stream length is invalide</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Failed to parse</details>
+    </error>
+    <error count="2300">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+  </errors>
+</preflight>

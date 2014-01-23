@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="885047.pdf">
+  <executionTimeMS>544</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="10">
+    <error count="1">
+      <code>1.4.10</code>
+      <details>Trailer Syntax error, File contains data after the last %%EOF sequence</details>
+    </error>
+    <error count="7">
+      <code>1.2.5</code>
+      <details>Body Syntax error, Stream length is invalide</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+    <error count="1">
+      <code>1.4.1</code>
+      <details>Trailer Syntax error, The trailer dictionary doesn't contain ID</details>
+    </error>
+  </errors>
+</preflight>

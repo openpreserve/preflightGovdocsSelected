@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="112477.pdf">
+  <executionTimeMS>2547</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="2">
+    <error count="1">
+      <code>7.11</code>
+      <details>Error on MetaData</details>
+    </error>
+    <error count="1">
+      <code>3.1.2</code>
+      <details>Invalid Font definition, FontDescriptor is null or is a AFM Descriptor</details>
+    </error>
+  </errors>
+</preflight>

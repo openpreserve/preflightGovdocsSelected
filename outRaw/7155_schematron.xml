@@ -1,0 +1,120 @@
+<?xml version="1.0" standalone="yes"?>
+<svrl:schematron-output xmlns:svrl="http://purl.oclc.org/dsdl/svrl" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:schold="http://www.ascc.net/xml/schematron" xmlns:sch="http://www.ascc.net/xml/schematron" xmlns:iso="http://purl.oclc.org/dsdl/schematron" title="" schemaVersion="">
+  <!--   
+		   
+		   
+		 -->
+  <svrl:active-pattern/>
+  <svrl:fired-rule context="/"/>
+  <svrl:active-pattern/>
+  <svrl:fired-rule context="/preflight"/>
+  <svrl:active-pattern/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:active-pattern/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:active-pattern/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:active-pattern/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:active-pattern/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:failed-assert test="not(code = '3.1.1')" location="/preflight/errors/error[1]">
+    <svrl:text>Mandatory fields missing from font dictionary</svrl:text>
+  </svrl:failed-assert>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:failed-assert test="not(code = '3.1.2')" location="/preflight/errors/error[2]">
+    <svrl:text>Mandatory fields missing from font descriptor dictionary</svrl:text>
+  </svrl:failed-assert>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:active-pattern/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:active-pattern/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:failed-assert test="not(code = '3.3.1')" location="/preflight/errors/error[3]">
+    <svrl:text>Missing glyph</svrl:text>
+  </svrl:failed-assert>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:active-pattern/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:active-pattern/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:active-pattern/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+  <svrl:fired-rule context="/preflight/errors/error"/>
+</svrl:schematron-output>

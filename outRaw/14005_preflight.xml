@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="095305.pdf">
+  <executionTimeMS>1399</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="3">
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for TETZPK+TimesNewRomanPS-ItalicMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for BFVZWM+TimesNewRomanPSMT</details>
+    </error>
+  </errors>
+</preflight>

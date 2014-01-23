@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="019538.pdf">
+  <executionTimeMS>2137</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="596">
+    <error count="3">
+      <code>3.1.1</code>
+      <details>Invalid Font definition, Some required fields are missing from the Font dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.2</code>
+      <details>Invalid Font definition, FontDescriptor is null or is a AFM Descriptor</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+    <error count="13">
+      <code>1.2.12</code>
+      <details>Body Syntax error, This filter isn't defined in the PDF Reference Third Edition : LZWDecode</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 98</details>
+    </error>
+    <error count="3">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 61</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 97</details>
+    </error>
+    <error count="11">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 115</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 35</details>
+    </error>
+    <error count="10">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 46</details>
+    </error>
+    <error count="22">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 171</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 49</details>
+    </error>
+    <error count="29">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 33</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 54</details>
+    </error>
+    <error count="66">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 68</details>
+    </error>
+    <error count="7">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 109</details>
+    </error>
+    <error count="3">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 51</details>
+    </error>
+    <error count="44">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 53</details>
+    </error>
+    <error count="73">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 44</details>
+    </error>
+    <error count="65">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 50</details>
+    </error>
+    <error count="130">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 56</details>
+    </error>
+    <error count="13">
+      <code>1.2.7</code>
+      <details>Body Syntax error, LZWDecode is forbidden</details>
+    </error>
+    <error count="42">
+      <code>1.2.5</code>
+      <details>Body Syntax error, Stream length is invalide</details>
+    </error>
+    <error count="24">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="13">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "G" can't be used without Color Profile</details>
+    </error>
+    <error count="13">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "g" can't be used without Color Profile</details>
+    </error>
+  </errors>
+</preflight>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="650980.pdf">
+  <executionTimeMS>4206</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="17016">
+    <error count="1">
+      <code>4.1.2</code>
+      <details>Transparency error, ca entry in a ExtGState  is invalid.</details>
+    </error>
+    <error count="1">
+      <code>4.1.2</code>
+      <details>Transparency error, CA entry in a ExtGState is invalid</details>
+    </error>
+    <error count="1">
+      <code>1.4.6</code>
+      <details>Trailer Syntax error, ID is different in the first and the last trailer</details>
+    </error>
+    <error count="15246">
+      <code>1.2.1</code>
+      <details>Body Syntax error, Single space expected</details>
+    </error>
+    <error count="1">
+      <code>7.11</code>
+      <details>Error on MetaData</details>
+    </error>
+    <error count="1">
+      <code>2.2.2</code>
+      <details>Invalid Graphis transparency, Soft Mask must be null or None</details>
+    </error>
+    <error count="2">
+      <code>2.2.1</code>
+      <details>Invalid Graphis transparency, Group has a transparency S entry or the S entry is null.</details>
+    </error>
+    <error count="63">
+      <code>2.4.2</code>
+      <details>Invalid Color space, The operator "K" can't be used with RGB Profile</details>
+    </error>
+    <error count="572">
+      <code>2.4.2</code>
+      <details>Invalid Color space, The operator "k" can't be used with RGB Profile</details>
+    </error>
+    <error count="243">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="221">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="648">
+      <code>5.2.2</code>
+      <details>Forbidden field in an annotation definition, Flags of Link annotation are invalid</details>
+    </error>
+    <error count="14">
+      <code>3.1.11</code>
+      <details>Invalid Font definition, The CIDSet entry is missing for the Composite Subset</details>
+    </error>
+    <error count="1">
+      <code>7.2</code>
+      <details>Error on MetaData, Producer present in the document catalog dictionary can't be found in XMP information (Property is not defined)</details>
+    </error>
+    <error count="1">
+      <code>3.1.5</code>
+      <details>Invalid Font definition, The Encoding is invalid for the NonSymbolic TTF</details>
+    </error>
+  </errors>
+</preflight>

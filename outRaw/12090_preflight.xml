@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="421262.pdf">
+  <executionTimeMS>1909</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="515">
+    <error count="6">
+      <code>3.1.1</code>
+      <details>Invalid Font definition, Some required fields are missing from the Font dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.2</code>
+      <details>Invalid Font definition, FontDescriptor is null or is a AFM Descriptor</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+    <error count="12">
+      <code>1.2.12</code>
+      <details>Body Syntax error, This filter isn't defined in the PDF Reference Third Edition : LZWDecode</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 48</details>
+    </error>
+    <error count="6">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 51</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 56</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 54</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 44</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 80</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 79</details>
+    </error>
+    <error count="7">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 114</details>
+    </error>
+    <error count="7">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 101</details>
+    </error>
+    <error count="6">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 84</details>
+    </error>
+    <error count="12">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 49</details>
+    </error>
+    <error count="12">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 65</details>
+    </error>
+    <error count="12">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 82</details>
+    </error>
+    <error count="13">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 76</details>
+    </error>
+    <error count="14">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 77</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 52</details>
+    </error>
+    <error count="7">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 50</details>
+    </error>
+    <error count="12">
+      <code>1.2.7</code>
+      <details>Body Syntax error, LZWDecode is forbidden</details>
+    </error>
+    <error count="13">
+      <code>1.2.5</code>
+      <details>Body Syntax error, Stream length is invalide</details>
+    </error>
+    <error count="139">
+      <code>2.4.2</code>
+      <details>Invalid Color space, The operator "k" can't be used with RGB Profile</details>
+    </error>
+    <error count="4">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f*" can't be used without Color Profile</details>
+    </error>
+    <error count="40">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "B*" can't be used without Color Profile</details>
+    </error>
+    <error count="130">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="17">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "RG" can't be used with CMYK Profile</details>
+    </error>
+    <error count="31">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "rg" can't be used with CMYK Profile</details>
+    </error>
+  </errors>
+</preflight>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="422562.pdf">
+  <executionTimeMS>2184</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="51">
+    <error count="22">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "2" in the font program "JIPBCO+Symbol"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Expecting namespace 'adobe:ns:meta/' and found 'http://www.w3.org/1999/02/22-rdf-syntax-ns#'</details>
+    </error>
+    <error count="28">
+      <code>1.2.5</code>
+      <details>Body Syntax error, Stream length is invalide</details>
+    </error>
+  </errors>
+</preflight>

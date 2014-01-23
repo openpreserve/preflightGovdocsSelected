@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="345101.pdf">
+  <executionTimeMS>1924</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="1227">
+    <error count="1">
+      <code>7.11</code>
+      <details>Error on MetaData</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "BZVIFB+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="262">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "CHFJFB+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="32">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "SCJKFB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="802">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "TGYJFB+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "GETJFB+Palatino-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>1.4.6</code>
+      <details>Trailer Syntax error, ID is different in the first and the last trailer</details>
+    </error>
+    <error count="48">
+      <code>1.2.1</code>
+      <details>Body Syntax error, Single space expected</details>
+    </error>
+    <error count="27">
+      <code>2.4.2</code>
+      <details>Invalid Color space, The operator "k" can't be used with RGB Profile</details>
+    </error>
+    <error count="20">
+      <code>2.4.2</code>
+      <details>Invalid Color space, The operator "K" can't be used with RGB Profile</details>
+    </error>
+    <error count="1">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f*" can't be used without Color Profile</details>
+    </error>
+    <error count="20">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+  </errors>
+</preflight>

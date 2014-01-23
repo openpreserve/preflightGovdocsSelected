@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="628573.pdf">
+  <executionTimeMS>2970</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="16803">
+    <error count="9">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="10">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "G" can't be used without Color Profile</details>
+    </error>
+    <error count="99">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="110">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "g" can't be used without Color Profile</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {192:0} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {193:0} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {181:0} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {183:0} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {182:0} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {177:0} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {176:0} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {178:0} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {188:0} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {191:0} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {187:0} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {186:0} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {166:0} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {167:0} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {161:0} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {162:0} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {163:0} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {172:0} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {173:0} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {168:0} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {171:0} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {151:0} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {148:0} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {147:0} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {146:0} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {153:0} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.0.14</code>
+      <details>Syntax error, Object {152:0} has an offset of 0</details>
+    </error>
+    <error count="1">
+      <code>1.1</code>
+      <details>Body Syntax error, Second line must contains at least 4 bytes greater than 127</details>
+    </error>
+    <error count="1">
+      <code>1.1</code>
+      <details>Body Syntax error, First line must match %PDF-1.\d</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+    <error count="8">
+      <code>3.1.4</code>
+      <details>Invalid Font definition, The Charset entry is missing for the Type1 Subset</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "90" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "209" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "47" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "93" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "150" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "91" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "43" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "37" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "51" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="204">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "208" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "89" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "161" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "60" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="15">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "75" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "106" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "50" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="22">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "78" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="44">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "74" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="34">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "71" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="15">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "223" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="17">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "76" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "201" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="59">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="103">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "77" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="46">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "58" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="26">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "69" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="29">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "82" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "81" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "85" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "213" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="24">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "120" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="103">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "45" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="27">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "222" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="16">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "79" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "113" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="101">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="76">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "41" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "122" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="84">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "80" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "211" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "210" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "86" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="93">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="19">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "72" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="36">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "66" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="348">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "46" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="18">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "59" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="436">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "100" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="103">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "87" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="109">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "40" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="51">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "107" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="24">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "68" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="157">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "44" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="73">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "73" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="146">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "67" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="293">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "98" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="236">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "102" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="486">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "108" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="147">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "118" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="979">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "111" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="275">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "109" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="788">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "115" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="891">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "110" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1334">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="256">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "103" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="324">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "117" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="163">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "121" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="237">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "119" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1604">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="788">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "114" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="962">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="440">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "112" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="490">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "99" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1710">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="887">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "105" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="406">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "104" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="70">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "84" in the font program "AGaramond-Regular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+  </errors>
+</preflight>

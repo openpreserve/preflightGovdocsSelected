@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="627548.pdf">
+  <executionTimeMS>10079</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="859">
+    <error count="6">
+      <code>3.1.1</code>
+      <details>Invalid Font definition, Some required fields are missing from the Font dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.2</code>
+      <details>Invalid Font definition, FontDescriptor is null or is a AFM Descriptor</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Expecting namespace 'adobe:ns:meta/' and found 'http://www.w3.org/1999/02/22-rdf-syntax-ns#'</details>
+    </error>
+    <error count="1">
+      <code>1.4.2</code>
+      <details>Trailer Syntax error, The trailer dictionary contains Encrypt</details>
+    </error>
+    <error count="845">
+      <code>5.2.2</code>
+      <details>Forbidden field in an annotation definition, Flags of Link annotation are invalid</details>
+    </error>
+  </errors>
+</preflight>

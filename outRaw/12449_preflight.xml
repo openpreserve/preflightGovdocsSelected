@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="287177.pdf">
+  <executionTimeMS>2316</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="6567">
+    <error count="1">
+      <code>1.2.12</code>
+      <details>Body Syntax error, This filter isn't defined in the PDF Reference Third Edition : LZWDecode</details>
+    </error>
+    <error count="7">
+      <code>2.4.2</code>
+      <details>Invalid Color space, The operator "K" can't be used with RGB Profile</details>
+    </error>
+    <error count="9">
+      <code>2.4.2</code>
+      <details>Invalid Color space, The operator "k" can't be used with RGB Profile</details>
+    </error>
+    <error count="5">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="4">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="1">
+      <code>3.1.1</code>
+      <details>Invalid Font definition, Some required fields are missing from the Font dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.2</code>
+      <details>Invalid Font definition, FontDescriptor is null or is a AFM Descriptor</details>
+    </error>
+    <error count="1">
+      <code>1.2.7</code>
+      <details>Body Syntax error, LZWDecode is forbidden</details>
+    </error>
+    <error count="1">
+      <code>7.11</code>
+      <details>Error on MetaData</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 31</details>
+    </error>
+    <error count="13">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 30</details>
+    </error>
+    <error count="23">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 51</details>
+    </error>
+    <error count="3">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 44</details>
+    </error>
+    <error count="14">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 122</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 54</details>
+    </error>
+    <error count="6">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 109</details>
+    </error>
+    <error count="6">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 46</details>
+    </error>
+    <error count="4">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 35</details>
+    </error>
+    <error count="9">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 53</details>
+    </error>
+    <error count="6455">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 32</details>
+    </error>
+  </errors>
+</preflight>

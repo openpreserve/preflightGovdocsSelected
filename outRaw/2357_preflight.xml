@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="778721.pdf">
+  <executionTimeMS>2851</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="6462">
+    <error count="284">
+      <code>2.4.2</code>
+      <details>Invalid Color space, The operator "k" can't be used with RGB Profile</details>
+    </error>
+    <error count="29">
+      <code>2.4.2</code>
+      <details>Invalid Color space, The operator "K" can't be used with RGB Profile</details>
+    </error>
+    <error count="3">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "g" can't be used without Color Profile</details>
+    </error>
+    <error count="2">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "G" can't be used without Color Profile</details>
+    </error>
+    <error count="1697">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="4">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="16">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "DKLTYJ+Courier"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="25">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "YMWLOU+Symbol"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "ZPTJUC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="48">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "TWDYAN+Times-BoldItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "XUPDSD+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="409">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "BZJOMQ+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="122">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "NCEQCK+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3804">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "AXRSXM+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Expecting namespace 'adobe:ns:meta/' and found 'http://www.w3.org/1999/02/22-rdf-syntax-ns#'</details>
+    </error>
+  </errors>
+</preflight>

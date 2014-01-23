@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="958939.pdf">
+  <executionTimeMS>2210</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="5012">
+    <error count="1">
+      <code>1.4.6</code>
+      <details>Trailer Syntax error, ID is different in the first and the last trailer</details>
+    </error>
+    <error count="749">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="1">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "g" can't be used without Color Profile</details>
+    </error>
+    <error count="1">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "G" can't be used without Color Profile</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "169" in the font program "QMIFTF+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3858">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "QMIFTF+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="292">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "XYWETF+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="21">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="23">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "UAMFTF+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="60">
+      <code>1.2.1</code>
+      <details>Body Syntax error, Single space expected</details>
+    </error>
+    <error count="1">
+      <code>7.2</code>
+      <details>Error on MetaData, CreatorTool present in the document catalog dictionary can't be found in XMP information (Property is not defined)</details>
+    </error>
+    <error count="1">
+      <code>7.2</code>
+      <details>Error on MetaData, Producer present in the document catalog dictionary can't be found in XMP information (PDF schema not declared)</details>
+    </error>
+    <error count="1">
+      <code>7.2</code>
+      <details>Error on MetaData, Author present in the document catalog dictionary can't be found in XMP information (Property is not defined in XMP Metadata)</details>
+    </error>
+    <error count="1">
+      <code>7.2</code>
+      <details>Error on MetaData, Title present in the document catalog dictionary can't be found in XMP information (Property is not defined)</details>
+    </error>
+    <error count="1">
+      <code>7.11</code>
+      <details>Error on MetaData</details>
+    </error>
+  </errors>
+</preflight>

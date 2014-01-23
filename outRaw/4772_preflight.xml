@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="127440.pdf">
+  <executionTimeMS>4366</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="5945">
+    <error count="103">
+      <code>2.3.2</code>
+      <details>Unexpected key in Graphic object definition, The ColorSpace is unknown</details>
+    </error>
+    <error count="1">
+      <code>1.4.1</code>
+      <details>Trailer Syntax error, The trailer dictionary doesn't contain ID</details>
+    </error>
+    <error count="196">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="109">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "G" can't be used without Color Profile</details>
+    </error>
+    <error count="143">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="297">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f*" can't be used without Color Profile</details>
+    </error>
+    <error count="224">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "g" can't be used without Color Profile</details>
+    </error>
+    <error count="1063">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "rg" can't be used with CMYK Profile</details>
+    </error>
+    <error count="869">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "RG" can't be used with CMYK Profile</details>
+    </error>
+    <error count="9">
+      <code>3.1.5</code>
+      <details>Invalid Font definition, The Encoding should be missing for the Symbolic TTF</details>
+    </error>
+    <error count="34">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "HVIAAA+F12"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "TTIAAA+F10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="22">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "MCIAAA+F6"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="122">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "FLBAAA+F4"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2425">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "UJBAAA+F2"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="28">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "RJBAAA+F1"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="85">
+      <code>1.0.12</code>
+      <details>Syntax error, Hexa String must have only Hexadecimal Characters (found '
+')</details>
+    </error>
+    <error count="88">
+      <code>1.2.1</code>
+      <details>Body Syntax error, EOL expected before the 'endobj' keyword</details>
+    </error>
+    <error count="62">
+      <code>1.2.2</code>
+      <details>Body Syntax error, Expected 'EOL' before the endstream keyword</details>
+    </error>
+    <error count="63">
+      <code>1.2.5</code>
+      <details>Body Syntax error, Stream length is invalide</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+  </errors>
+</preflight>

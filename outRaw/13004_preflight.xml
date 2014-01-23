@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="161202.pdf">
+  <executionTimeMS>4795</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="1434">
+    <error count="1">
+      <code>7.11</code>
+      <details>Error on MetaData</details>
+    </error>
+    <error count="49">
+      <code>5.2.2</code>
+      <details>Forbidden field in an annotation definition, Flags of Link annotation are invalid</details>
+    </error>
+    <error count="1">
+      <code>3.1.1</code>
+      <details>Invalid Font definition, Some required fields are missing from the Font dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.2</code>
+      <details>Invalid Font definition, FontDescriptor is null or is a AFM Descriptor</details>
+    </error>
+    <error count="1">
+      <code>1.4.6</code>
+      <details>Trailer Syntax error, ID is different in the first and the last trailer</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 44924.3</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 46418.7</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 53558.3</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 55052.7</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 45528.3</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 47022.7</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 62794.3</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 64288.7</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 34684.3</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 36178.7</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 57479.2</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 59730.7</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 36880.2</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 39131.7</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 54161.3</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 55655.7</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 44041.2</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 46292.7</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 34518.2</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 36769.7</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 48533.2</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 50784.7</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 49650.2</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 51901.7</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 49241.3</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 50735.7</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 62401.3</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 63895.7</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 63184.7</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 62963.3</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 46239.3</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 47733.7</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 66718.3</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 68212.7</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 57232.2</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 59483.7</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 35363.3</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 36857.7</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 52552.2</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 54803.7</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 36737.2</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 38988.7</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 51451.2</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 53702.7</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 58478.3</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 59972.7</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 53578.3</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 55072.7</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 43286.3</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 44780.7</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 56479.3</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 57973.7</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 50556.3</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 52050.7</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 41922.3</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 43416.7</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 48548.2</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 50799.7</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 55635.2</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 57886.7</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 34264.7</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 49844.3</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 51338.7</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 57949.3</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 59443.7</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 41285.3</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 42779.7</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 35742.3</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 37236.7</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 33177.7</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 67185.3</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 68679.7</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 40607.3</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 42101.7</details>
+    </error>
+    <error count="352">
+      <code>1.2.1</code>
+      <details>Body Syntax error, Single space expected</details>
+    </error>
+    <error count="47">
+      <code>2.4.2</code>
+      <details>Invalid Color space, The operator "k" can't be used with RGB Profile</details>
+    </error>
+    <error count="47">
+      <code>2.4.2</code>
+      <details>Invalid Color space, The operator "K" can't be used with RGB Profile</details>
+    </error>
+    <error count="72">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "G" can't be used without Color Profile</details>
+    </error>
+    <error count="18">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f*" can't be used without Color Profile</details>
+    </error>
+    <error count="54">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "g" can't be used without Color Profile</details>
+    </error>
+    <error count="594">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="78">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "RG" can't be used with CMYK Profile</details>
+    </error>
+    <error count="45">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "rg" can't be used with CMYK Profile</details>
+    </error>
+  </errors>
+</preflight>

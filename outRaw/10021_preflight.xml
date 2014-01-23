@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="569037.pdf">
+  <executionTimeMS>2932</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="4">
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Expecting namespace 'adobe:ns:meta/' and found 'http://www.w3.org/1999/02/22-rdf-syntax-ns#'</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for RFLUIG+ArialMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for JFBQRE+TimesNewRomanPSMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for DUNSLV+TimesNewRomanPS-BoldMT</details>
+    </error>
+  </errors>
+</preflight>

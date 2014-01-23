@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="489900.pdf">
+  <executionTimeMS>3220</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="18388">
+    <error count="32">
+      <code>1.2.5</code>
+      <details>Body Syntax error, Stream length is invalide</details>
+    </error>
+    <error count="9">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "G" can't be used without Color Profile</details>
+    </error>
+    <error count="19">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="20">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "g" can't be used without Color Profile</details>
+    </error>
+    <error count="2">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "rg" can't be used with CMYK Profile</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "15" in the font program "IDPOIP+cmr100925099"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "30" in the font program "IDOKPI+cmmi100845087"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "12" in the font program "IDOHAI+cmmi1201005076"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "20" in the font program "IDOHAM+cmr1201005081"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "23" in the font program "IDODBM+cmsy100845071"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "7" in the font program "IDOHAI+cmmi1201005076"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "9" in the font program "IDOHAM+cmr1201005081"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "6" in the font program "IDOHAI+cmmi1201005076"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "24" in the font program "IDOHAI+cmmi1201005076"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "129" in the font program "IDOHAM+cmr1201005081"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "24" in the font program "IDOKPI+cmmi100845087"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "28" in the font program "IDOHAI+cmmi1201005076"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "4" in the font program "IDOHAI+cmmi1201005076"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="18">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "3" in the font program "IDODBM+cmsy100845071"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "23" in the font program "IDOHAI+cmmi1201005076"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "9" in the font program "IDOHAI+cmmi1201005076"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="42">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "28" in the font program "IDOHAM+cmr1201005081"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "26" in the font program "IDOHAI+cmmi1201005076"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "14" in the font program "IDOHAI+cmmi1201005076"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "5" in the font program "IDOHAI+cmmi1201005076"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="48">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "31" in the font program "IDODBK+dcr1001735069"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="18">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "15" in the font program "IDOHAI+cmmi1201005076"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "30" in the font program "IDODBK+dcr1001735069"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for TimesNewRoman</details>
+    </error>
+    <error count="6">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(84)</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(66)</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(32)</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(78)</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(93)</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(92)</details>
+    </error>
+    <error count="16">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(61)</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(40)</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(62)</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(45)</details>
+    </error>
+    <error count="5">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(65)</details>
+    </error>
+    <error count="5">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(33)</details>
+    </error>
+    <error count="26">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(109)</details>
+    </error>
+    <error count="4">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(46)</details>
+    </error>
+    <error count="16">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(99)</details>
+    </error>
+    <error count="18">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(42)</details>
+    </error>
+    <error count="25">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(39)</details>
+    </error>
+    <error count="29">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(64)</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(94)</details>
+    </error>
+    <error count="13">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(82)</details>
+    </error>
+    <error count="45">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(95)</details>
+    </error>
+    <error count="10">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(98)</details>
+    </error>
+    <error count="7">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(36)</details>
+    </error>
+    <error count="30">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(58)</details>
+    </error>
+    <error count="34">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(89)</details>
+    </error>
+    <error count="50">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(56)</details>
+    </error>
+    <error count="44">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(55)</details>
+    </error>
+    <error count="56">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(54)</details>
+    </error>
+    <error count="12">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(88)</details>
+    </error>
+    <error count="52">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(53)</details>
+    </error>
+    <error count="38">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(77)</details>
+    </error>
+    <error count="99">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(80)</details>
+    </error>
+    <error count="31">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(59)</details>
+    </error>
+    <error count="103">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(86)</details>
+    </error>
+    <error count="65">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(79)</details>
+    </error>
+    <error count="43">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(71)</details>
+    </error>
+    <error count="171">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(51)</details>
+    </error>
+    <error count="151">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(122)</details>
+    </error>
+    <error count="65">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(116)</details>
+    </error>
+    <error count="98">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(48)</details>
+    </error>
+    <error count="93">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(60)</details>
+    </error>
+    <error count="126">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(87)</details>
+    </error>
+    <error count="19">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(123)</details>
+    </error>
+    <error count="273">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(105)</details>
+    </error>
+    <error count="19">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(81)</details>
+    </error>
+    <error count="269">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(47)</details>
+    </error>
+    <error count="98">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(69)</details>
+    </error>
+    <error count="70">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(72)</details>
+    </error>
+    <error count="61">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(74)</details>
+    </error>
+    <error count="8">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(50)</details>
+    </error>
+    <error count="63">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(75)</details>
+    </error>
+    <error count="81">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(70)</details>
+    </error>
+    <error count="119">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(85)</details>
+    </error>
+    <error count="94">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(68)</details>
+    </error>
+    <error count="40">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(57)</details>
+    </error>
+    <error count="73">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(73)</details>
+    </error>
+    <error count="79">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(110)</details>
+    </error>
+    <error count="44">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(83)</details>
+    </error>
+    <error count="94">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(44)</details>
+    </error>
+    <error count="286">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(43)</details>
+    </error>
+    <error count="19">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(125)</details>
+    </error>
+    <error count="237">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(121)</details>
+    </error>
+    <error count="303">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(124)</details>
+    </error>
+    <error count="453">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(112)</details>
+    </error>
+    <error count="275">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(106)</details>
+    </error>
+    <error count="197">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(101)</details>
+    </error>
+    <error count="310">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(115)</details>
+    </error>
+    <error count="911">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(117)</details>
+    </error>
+    <error count="1065">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(118)</details>
+    </error>
+    <error count="1344">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(100)</details>
+    </error>
+    <error count="1852">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(104)</details>
+    </error>
+    <error count="642">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(111)</details>
+    </error>
+    <error count="466">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(107)</details>
+    </error>
+    <error count="24">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(90)</details>
+    </error>
+    <error count="348">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(49)</details>
+    </error>
+    <error count="880">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(113)</details>
+    </error>
+    <error count="1240">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(114)</details>
+    </error>
+    <error count="1038">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(108)</details>
+    </error>
+    <error count="496">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(102)</details>
+    </error>
+    <error count="388">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(120)</details>
+    </error>
+    <error count="629">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(103)</details>
+    </error>
+    <error count="1384">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(119)</details>
+    </error>
+    <error count="72">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(76)</details>
+    </error>
+    <error count="113">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(52)</details>
+    </error>
+  </errors>
+</preflight>

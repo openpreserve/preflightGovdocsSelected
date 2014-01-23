@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="488737.pdf">
+  <executionTimeMS>2392</executionTimeMS>
+  <isValid type="">false</isValid>
+  <exceptionThrown>
+    <message/>
+    <stackTrace>java.lang.NullPointerException
+	at org.apache.pdfbox.preflight.metadata.PDFAIdentificationValidation.checkConformanceLevel(PDFAIdentificationValidation.java:108)
+	at org.apache.pdfbox.preflight.metadata.PDFAIdentificationValidation.validatePDFAIdentifer(PDFAIdentificationValidation.java:84)
+	at org.apache.pdfbox.preflight.process.MetadataValidationProcess.validate(MetadataValidationProcess.java:86)
+	at org.apache.pdfbox.preflight.utils.ContextHelper.callValidation(ContextHelper.java:73)
+	at org.apache.pdfbox.preflight.utils.ContextHelper.validateElement(ContextHelper.java:88)
+	at org.apache.pdfbox.preflight.PreflightDocument.validate(PreflightDocument.java:169)
+	at org.apache.pdfbox.preflight.parser.XmlResultParser.validate(XmlResultParser.java:68)
+	at org.apache.pdfbox.preflight.parser.XmlResultParser.validate(XmlResultParser.java:49)
+	at org.apache.pdfbox.preflight.Validator_A1b.main(Validator_A1b.java:131)
+</stackTrace>
+  </exceptionThrown>
+</preflight>

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="157585.pdf">
+  <executionTimeMS>2118</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="716">
+    <error count="1">
+      <code>7.2</code>
+      <details>Error on MetaData, Author present in the document catalog dictionary can't be found in XMP information (In XMP metadata, Author(s) must be represented by a single entry in a text array (dc:creator) )</details>
+    </error>
+    <error count="27">
+      <code>1.2.12</code>
+      <details>Body Syntax error, This filter isn't defined in the PDF Reference Third Edition : LZWDecode</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 87</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 40</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 98</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 70</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 67</details>
+    </error>
+    <error count="3">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 49</details>
+    </error>
+    <error count="6">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 84</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 106</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 89</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 86</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 233</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 77</details>
+    </error>
+    <error count="4">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 65</details>
+    </error>
+    <error count="3">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 104</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 74</details>
+    </error>
+    <error count="4">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 118</details>
+    </error>
+    <error count="5">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 68</details>
+    </error>
+    <error count="6">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 161</details>
+    </error>
+    <error count="5">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 80</details>
+    </error>
+    <error count="5">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 191</details>
+    </error>
+    <error count="6">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 69</details>
+    </error>
+    <error count="19">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 44</details>
+    </error>
+    <error count="3">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 76</details>
+    </error>
+    <error count="16">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 113</details>
+    </error>
+    <error count="4">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 121</details>
+    </error>
+    <error count="24">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 100</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 82</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 45</details>
+    </error>
+    <error count="5">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 103</details>
+    </error>
+    <error count="6">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 117</details>
+    </error>
+    <error count="19">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 111</details>
+    </error>
+    <error count="9">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 108</details>
+    </error>
+    <error count="23">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 112</details>
+    </error>
+    <error count="16">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 99</details>
+    </error>
+    <error count="3">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 79</details>
+    </error>
+    <error count="14">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 115</details>
+    </error>
+    <error count="7">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 102</details>
+    </error>
+    <error count="23">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 116</details>
+    </error>
+    <error count="17">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 110</details>
+    </error>
+    <error count="10">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 109</details>
+    </error>
+    <error count="103">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 97</details>
+    </error>
+    <error count="17">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 32</details>
+    </error>
+    <error count="7">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 83</details>
+    </error>
+    <error count="4">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 78</details>
+    </error>
+    <error count="41">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 46</details>
+    </error>
+    <error count="23">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 114</details>
+    </error>
+    <error count="63">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 101</details>
+    </error>
+    <error count="11">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 105</details>
+    </error>
+    <error count="6">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 85</details>
+    </error>
+    <error count="1">
+      <code>7.11</code>
+      <details>Error on MetaData</details>
+    </error>
+    <error count="6">
+      <code>1.2.1</code>
+      <details>Body Syntax error, Single space expected</details>
+    </error>
+    <error count="27">
+      <code>1.2.7</code>
+      <details>Body Syntax error, LZWDecode is forbidden</details>
+    </error>
+    <error count="43">
+      <code>1.2.5</code>
+      <details>Body Syntax error, Stream length is invalide</details>
+    </error>
+    <error count="1">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "G" can't be used without Color Profile</details>
+    </error>
+    <error count="2">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="21">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "g" can't be used without Color Profile</details>
+    </error>
+    <error count="32">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+  </errors>
+</preflight>

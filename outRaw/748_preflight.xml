@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="357124.pdf">
+  <executionTimeMS>1634</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="398">
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "SNDABN+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "BYZXAR+Helvetica-BoldOblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="220">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "VFWDXS+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="48">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "BNTRZE+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="51">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "JMSSLI+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+    <error count="11">
+      <code>1.2.1</code>
+      <details>Body Syntax error, EOL expected before the 'endobj' keyword</details>
+    </error>
+    <error count="3">
+      <code>1.2.2</code>
+      <details>Body Syntax error, Expected 'EOL' before the endstream keyword</details>
+    </error>
+    <error count="3">
+      <code>1.2.5</code>
+      <details>Body Syntax error, Stream length is invalide</details>
+    </error>
+    <error count="4">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="20">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="9">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "rg" can't be used with CMYK Profile</details>
+    </error>
+    <error count="10">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "RG" can't be used with CMYK Profile</details>
+    </error>
+    <error count="10">
+      <code>1.0.12</code>
+      <details>Syntax error, Hexa String must have only Hexadecimal Characters (found '
+')</details>
+    </error>
+  </errors>
+</preflight>

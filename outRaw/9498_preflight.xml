@@ -1,0 +1,1847 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="339281.pdf">
+  <executionTimeMS>7369</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="83716">
+    <error count="1">
+      <code>7.11</code>
+      <details>Error on MetaData</details>
+    </error>
+    <error count="1">
+      <code>2.4.2</code>
+      <details>Invalid Color space, The operator "k" can't be used with RGB Profile</details>
+    </error>
+    <error count="357">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f*" can't be used without Color Profile</details>
+    </error>
+    <error count="5">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "g" can't be used without Color Profile</details>
+    </error>
+    <error count="433">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="2919">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="1">
+      <code>1.4.6</code>
+      <details>Trailer Syntax error, ID is different in the first and the last trailer</details>
+    </error>
+    <error count="1398">
+      <code>1.2.1</code>
+      <details>Body Syntax error, Single space expected</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "90" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "48" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "91" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "56" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "117" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "118" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "106" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "51" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "53" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "112" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "79" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="15">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "99" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "103" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "108" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "104" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "75" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="14">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "121" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "77" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "72" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="18">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "74" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "85" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "110" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "105" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="32">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "115" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "98" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="19">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "82" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "54" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="44">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "69" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "100" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="17">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="43">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "84" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "35" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "BHCJGJ+BookAntiqua-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "111" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "78" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "69" in the font program "BHBCGG+OfficinaSans-BoldItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "BHCJGJ+BookAntiqua-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "112" in the font program "BHCJGJ+BookAntiqua-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"81" should have a width equals to 0.0</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"85" should have a width equals to 0.0</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "89" in the font program "BHBCGG+OfficinaSans-BoldItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "37" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"50" should have a width equals to 0.0</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"51" should have a width equals to 0.0</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"113" should have a width equals to 0.0</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"45" should have a width equals to 0.0</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "42" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "48" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "105" in the font program "BHCJGJ+BookAntiqua-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "63" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "52" in the font program "BHCJGJ+BookAntiqua-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "51" in the font program "BHCJGJ+BookAntiqua-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "50" in the font program "BHCJGJ+BookAntiqua-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "BHCJGJ+BookAntiqua-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "47" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "93" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"71" should have a width equals to 0.0</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "41" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "211" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "122" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"49" should have a width equals to 0.0</details>
+    </error>
+    <error count="20">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "75" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "99" in the font program "BHCJGJ+BookAntiqua-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "115" in the font program "BHCJGJ+BookAntiqua-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="19">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "209" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "90" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "99" in the font program "BHBCGG+OfficinaSans-BoldItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "105" in the font program "BHBCGG+OfficinaSans-BoldItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "BHBCGG+OfficinaSans-BoldItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "52" in the font program "BHBCGG+OfficinaSans-BoldItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "213" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "213" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="15">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"79" should have a width equals to 0.0</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"35" should have a width equals to 0.0</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"107" should have a width equals to 0.0</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"80" should have a width equals to 0.0</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"109" should have a width equals to 0.0</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"103" should have a width equals to 0.0</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"66" should have a width equals to 0.0</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"44" should have a width equals to 0.0</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "55" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "107" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "58" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "141" in the font program "BHCJGJ+BookAntiqua-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "95" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"104" should have a width equals to 0.0</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"42" should have a width equals to 0.0</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"120" should have a width equals to 0.0</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"69" should have a width equals to 0.0</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "114" in the font program "BHBCGG+OfficinaSans-BoldItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "95" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="25">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "58" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"52" should have a width equals to 0.0</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"89" should have a width equals to 0.0</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "68" in the font program "BHBCGG+OfficinaSans-BoldItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="16">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "118" in the font program "BHBCGG+OfficinaSans-BoldItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="16">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "100" in the font program "BHBCGG+OfficinaSans-BoldItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "63" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "57" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "56" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "55" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"82" should have a width equals to 0.0</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"76" should have a width equals to 0.0</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"68" should have a width equals to 0.0</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"74" should have a width equals to 0.0</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"119" should have a width equals to 0.0</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"38" should have a width equals to 0.0</details>
+    </error>
+    <error count="14">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"77" should have a width equals to 0.0</details>
+    </error>
+    <error count="14">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "52" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="16">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "51" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="14">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"78" should have a width equals to 0.0</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"112" should have a width equals to 0.0</details>
+    </error>
+    <error count="24">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"114" should have a width equals to 0.0</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"108" should have a width equals to 0.0</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "54" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "84" in the font program "BHBCGG+OfficinaSans-BoldItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "121" in the font program "BHBCGG+OfficinaSans-BoldItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "BHBCGG+OfficinaSans-BoldItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "113" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "126" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "102" in the font program "BHCJGJ+BookAntiqua-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "40" in the font program "BHCJGJ+BookAntiqua-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "87" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="17">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="17">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "80" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "36" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "76" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="25">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "73" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "122" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="25">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "57" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="21">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "56" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="41">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "55" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "119" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "68" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="107">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "165" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "90" in the font program "BHCJGJ+BookAntiqua-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "87" in the font program "BHCJGJ+BookAntiqua-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "77" in the font program "BHCJGJ+BookAntiqua-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "86" in the font program "BHCJGJ+BookAntiqua-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "79" in the font program "BHCJGJ+BookAntiqua-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="21">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "74" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "74" in the font program "BHCJGJ+BookAntiqua-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "72" in the font program "BHCJGJ+BookAntiqua-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "66" in the font program "BHCJGJ+BookAntiqua-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "38" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "58" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="19">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "54" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "114" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "113" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "106" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "81" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="20">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "110" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="24">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "84" in the font program "BHCJGJ+BookAntiqua-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "71" in the font program "BHCJGJ+BookAntiqua-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "67" in the font program "BHBCGG+OfficinaSans-BoldItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="22">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "40" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "89" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "66" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "90" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="20">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "45" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "106" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="34">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "210" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="34">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "78" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "74" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="23">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "60" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "45" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "81" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="27">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"72" should have a width equals to 0.0</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"70" should have a width equals to 0.0</details>
+    </error>
+    <error count="45">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"83" should have a width equals to 0.0</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"46" should have a width equals to 0.0</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"60" should have a width equals to 0.0</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"86" should have a width equals to 0.0</details>
+    </error>
+    <error count="16">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"67" should have a width equals to 0.0</details>
+    </error>
+    <error count="20">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"73" should have a width equals to 0.0</details>
+    </error>
+    <error count="17">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"101" should have a width equals to 0.0</details>
+    </error>
+    <error count="25">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"84" should have a width equals to 0.0</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"87" should have a width equals to 0.0</details>
+    </error>
+    <error count="43">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"102" should have a width equals to 0.0</details>
+    </error>
+    <error count="19">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"100" should have a width equals to 0.0</details>
+    </error>
+    <error count="24">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"65" should have a width equals to 0.0</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "86" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="20">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "85" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="73">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "76" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="86">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "87" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1009">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "95" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="109">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "2" in the font program "BHNDPC+MonotypeSorts"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"98" should have a width equals to 0.0</details>
+    </error>
+    <error count="18">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"105" should have a width equals to 0.0</details>
+    </error>
+    <error count="20">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"115" should have a width equals to 0.0</details>
+    </error>
+    <error count="27">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"116" should have a width equals to 0.0</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"110" should have a width equals to 0.0</details>
+    </error>
+    <error count="55">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"111" should have a width equals to 0.0</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"117" should have a width equals to 0.0</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"121" should have a width equals to 0.0</details>
+    </error>
+    <error count="40">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"97" should have a width equals to 0.0</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"99" should have a width equals to 0.0</details>
+    </error>
+    <error count="17">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, The character with CID"40" should have a width equals to 0.0</details>
+    </error>
+    <error count="22">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "86" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "74" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="36">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "77" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="32">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "66" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="24">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "53" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="50">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="62">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "77" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="78">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "68" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "75" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="54">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "78" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="46">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "82" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="56">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "50" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "38" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="122">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="95">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "98" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="98">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "108" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="142">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "40" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="32">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "118" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="17">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "73" in the font program "BHCJGJ+BookAntiqua-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "85" in the font program "BHCJGJ+BookAntiqua-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "68" in the font program "BHCJGJ+BookAntiqua-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="21">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "86" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="27">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "80" in the font program "BHCJGJ+BookAntiqua-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="15">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "69" in the font program "BHCJGJ+BookAntiqua-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "48" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="23">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "82" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="24">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "210" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="17">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "98" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="23">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "108" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "75" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="59">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "68" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="25">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "66" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="83">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "103" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="24">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "104" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="25">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "109" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "40" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="50">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "117" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "82" in the font program "BHCJGJ+BookAntiqua-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "78" in the font program "BHCJGJ+BookAntiqua-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="78">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "60" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="33">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "BHCJGJ+BookAntiqua-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="16">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "109" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "85" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "41" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "52" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="30">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "67" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="154">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "100" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="24">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "141" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="31">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="48">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "BHBCGG+OfficinaSans-BoldItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "44" in the font program "BHBCGG+OfficinaSans-BoldItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="22">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "BHBCGG+OfficinaSans-BoldItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="242">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "109" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "59" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="14">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "89" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="24">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "76" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "38" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="121">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "104" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="291">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "121" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="142">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "119" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="196">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "112" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="48">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "107" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="40">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "69" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "73" in the font program "BHBCGG+OfficinaSans-BoldItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="342">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "105" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="277">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "165" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="861">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "46" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="754">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "110" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2544">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="316">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "120" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="811">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "117" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="96">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "73" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="115">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="24">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "71" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="148">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "69" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="25">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "107" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="28">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "53" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="28">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "52" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="52">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "51" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="33">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "50" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="14">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "113" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="220">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "46" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="59">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "112" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="258">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "44" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="179">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "114" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="123">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="21">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "102" in the font program "BHBCGG+OfficinaSans-BoldItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="24">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "111" in the font program "BHBCGG+OfficinaSans-BoldItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "71" in the font program "BHBCGG+OfficinaSans-BoldItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="123">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="16">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "106" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "47" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "54" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "53" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "52" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="16">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "51" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="250">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "67" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="370">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="903">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1106">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "102" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="58">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="181">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "98" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="62">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "73" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="33">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "144" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="53">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "76" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="76">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "120" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="23">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "102" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "BHCJGJ+BookAntiqua-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "89" in the font program "BHCJGJ+BookAntiqua-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "76" in the font program "BHCJGJ+BookAntiqua-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="24">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "BHCJGJ+BookAntiqua-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "132" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="42">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="49">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "67" in the font program "BHCJGJ+BookAntiqua-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="50">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "72" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="655">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "128" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "59" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="266">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "121" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="37">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "87" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="223">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "119" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="254">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "109" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="105">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "121" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="263">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "119" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="104">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "73" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="162">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "108" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="601">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "115" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="106">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "110" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="218">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "40" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="61">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "68" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="66">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "118" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="573">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "44" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="608">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "112" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="713">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "105" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="712">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="128">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "104" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "57" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "81" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="61">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "78" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="100">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "77" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="192">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "72" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="78">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "82" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="940">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="69">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "66" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "56" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "55" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "85" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "56" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "75" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "68" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="52">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "79" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "54" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "53" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "118" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="214">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "99" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "52" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "114" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "77" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "40" in the font program "BHBCGG+OfficinaSans-BoldItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="541">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "115" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="210">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "118" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="14">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "51" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "71" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "66" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "74" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "117" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="106">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "84" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="58">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "105" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="472">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "103" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="29">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "71" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="33">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "85" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="262">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "117" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="978">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "99" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="42">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "79" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="742">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "102" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="695">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "100" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="770">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1511">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="59">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="80">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "69" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="64">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="136">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "67" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="156">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="84">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "71" in the font program "BHALKN+BookAntiqua-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="107">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "89" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="127">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "87" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="42">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "50" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="54">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "45" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3203">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "111" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="352">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "114" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="256">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "84" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="353">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "102" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1138">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "111" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="119">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "67" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="125">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="61">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "80" in the font program "BHALCP+OfficinaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4768">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="89">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "80" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="739">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "46" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="676">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "BHALAP+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "105" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="24">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "79" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="45">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "82" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "80" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "69" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="15">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "73" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "98" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "103" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "112" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "44" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "76" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "40" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="15">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "89" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="31">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "67" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "100" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "60" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "78" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="361">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "46" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "119" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "45" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="21">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="18">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "102" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="81">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "111" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "87" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="51">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "99" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="16">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "84" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "72" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="71">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "JOPFEH+BookAntiqua"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "73" in the font program "JOPEPH+Univers-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="86">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "79" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="30">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "71" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="195">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "72" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="46">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "89" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3668">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "100" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="163">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "84" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1272">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "44" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2853">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "99" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2549">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "103" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="114">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "80" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6043">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "111" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4442">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="447">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "114" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1458">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "115" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10131">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="179">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "JOPCME+OfficinaSans-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+  </errors>
+</preflight>

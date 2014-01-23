@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="030148.pdf">
+  <executionTimeMS>1733</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="255">
+    <error count="3">
+      <code>3.1.1</code>
+      <details>Invalid Font definition, Some required fields are missing from the Font dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.2</code>
+      <details>Invalid Font definition, FontDescriptor is null or is a AFM Descriptor</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+    <error count="2">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 71673.9453</details>
+    </error>
+    <error count="2">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 73130.6953</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 53897.9453</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 55354.6953</details>
+    </error>
+    <error count="2">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 97125.0</details>
+    </error>
+    <error count="2">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 97014.3047</details>
+    </error>
+    <error count="2">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 45595.9453</details>
+    </error>
+    <error count="2">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 80620.0</details>
+    </error>
+    <error count="2">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 47052.6953</details>
+    </error>
+    <error count="2">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 80509.3047</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 46190.9414</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 47647.6914</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 39206.9453</details>
+    </error>
+    <error count="4">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 64115.0</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 40663.6953</details>
+    </error>
+    <error count="4">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 64004.3047</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 45888.3047</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 66788.6953</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 46109.6953</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 66567.3047</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 78891.0391</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 80108.6953</details>
+    </error>
+    <error count="2">
+      <code>1.2.1</code>
+      <details>Body Syntax error, EOL expected before the 'endobj' keyword</details>
+    </error>
+    <error count="19">
+      <code>1.2.2</code>
+      <details>Body Syntax error, Expected 'EOL' before the endstream keyword</details>
+    </error>
+    <error count="19">
+      <code>1.2.5</code>
+      <details>Body Syntax error, Stream length is invalide</details>
+    </error>
+    <error count="27">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f*" can't be used without Color Profile</details>
+    </error>
+    <error count="2">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="16">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "g" can't be used without Color Profile</details>
+    </error>
+    <error count="36">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "G" can't be used without Color Profile</details>
+    </error>
+    <error count="46">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="18">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "rg" can't be used with CMYK Profile</details>
+    </error>
+    <error count="18">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "RG" can't be used with CMYK Profile</details>
+    </error>
+    <error count="1">
+      <code>1.4.1</code>
+      <details>Trailer Syntax error, The trailer dictionary doesn't contain ID</details>
+    </error>
+  </errors>
+</preflight>

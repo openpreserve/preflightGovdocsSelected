@@ -1,0 +1,1831 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="302299.pdf">
+  <executionTimeMS>9071</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="237669">
+    <error count="1">
+      <code>1.4.6</code>
+      <details>Trailer Syntax error, ID is different in the first and the last trailer</details>
+    </error>
+    <error count="13">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="1">
+      <code>7.1.1</code>
+      <details>Error on MetaData, No type defined for {http://ns.adobe.com/xap/1.0/mm/}Manifest</details>
+    </error>
+    <error count="134">
+      <code>1.2.12</code>
+      <details>Body Syntax error, This filter isn't defined in the PDF Reference Third Edition : JPXDecode</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "51" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "52" in the font program "BLFLBC+Frutiger-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "53" in the font program "BLFLBC+Frutiger-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "148" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "106" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "109" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "98" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "77" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "71" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "59" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "79" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "58" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "67" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "50" in the font program "BLFLBC+Frutiger-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="17">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "59" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "133" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "89" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "57" in the font program "BLFLBC+Frutiger-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "186" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "188" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="16">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "79" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "122" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "86" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "189" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "4" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "35" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="53">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "40" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="28">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "132" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "148" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="55">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "74" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "147" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "142" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "84" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "144" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="27">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "108" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "102" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "48" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="18">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "103" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "46" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "54" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "51" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "53" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "56" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "119" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "45" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "147" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="77">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "107" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "44" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="46">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "110" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="15">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "78" in the font program "BLFKNC+FrutigerLTStd-Light"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "38" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "131" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "90" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "57" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "89" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "58" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "66" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "68" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "35" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="19">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "88" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "42" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "42" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "93" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="31">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "47" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "75" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "81" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "88" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "93" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "91" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "33" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="21">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "47" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="20">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "75" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="18">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "148" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "37" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="87">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "41" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "106" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "133" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "81" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "90" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "141" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "86" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="47">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "89" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="51">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "144" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="50">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "68" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="185">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "69" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "36" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="192">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "73" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "40" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="192">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "79" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="122">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "76" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="81">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "106" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="62">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "72" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="174">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "78" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="261">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "84" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="462">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "48" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="30">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "40" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="151">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "57" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="87">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="203">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "53" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="17">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "74" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "3" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="193">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "52" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="268">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "45" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="199">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "51" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="90">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "77" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="325">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "132" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="151">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "55" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="65">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "66" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="63">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "71" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="243">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "56" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="53">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "85" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="205">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "54" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="390">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "118" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="213">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "50" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="117">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "120" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="219">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="14">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "59" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="480">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "98" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="342">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "119" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="91">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "147" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="235">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "58" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="58">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "113" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="284">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "82" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="673">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1582">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "46" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="271">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "102" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="68">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "122" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1131">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "112" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="132">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "41" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="21">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "2" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="67">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "87" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="46">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "142" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3744">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="118">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "67" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1478">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "117" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="153">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "80" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2177">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "100" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="714">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "44" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3878">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "115" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1634">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "99" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4332">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7450">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="336">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "107" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2322">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "108" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="665">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "121" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4843">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4738">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "110" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1204">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "109" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3474">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "111" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5298">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "114" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2453">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "104" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1149">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "103" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3992">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "105" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="290">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "BLGKLG+NPSRawlinsonOTOld-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "113" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "142" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "141" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "73" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="46">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "36" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "75" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="23">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "77" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "89" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "133" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "BLFLBC+Frutiger-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "BLFLBC+Frutiger-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="41">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "55" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="51">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "132" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="45">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "3" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "41" in the font program "BLFOAC+NPSRawlinsonOT-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "71" in the font program "BLFOAC+NPSRawlinsonOT-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "BLFOAC+NPSRawlinsonOT-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "82" in the font program "BLFOAC+NPSRawlinsonOT-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "103" in the font program "BLFOAC+NPSRawlinsonOT-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "77" in the font program "BLFOAC+NPSRawlinsonOT-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "109" in the font program "BLFOAC+NPSRawlinsonOT-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "100" in the font program "BLFOAC+NPSRawlinsonOT-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "48" in the font program "BLFOAC+NPSRawlinsonOT-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "74" in the font program "BLFOAC+NPSRawlinsonOT-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="51">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "2" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "85" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="35">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "87" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="82">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "113" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="105">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "58" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="37">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "128" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "46" in the font program "BLFOAC+NPSRawlinsonOT-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "121" in the font program "BLFOAC+NPSRawlinsonOT-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "67" in the font program "BLFOAC+NPSRawlinsonOT-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "58" in the font program "BLFOAC+NPSRawlinsonOT-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "72" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="18">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "104" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="28">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "121" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "104" in the font program "BLFOAC+NPSRawlinsonOT-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "71" in the font program "BLFOEB+FrutigerLTStd-BoldItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "100" in the font program "BLFOEB+FrutigerLTStd-BoldItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "108" in the font program "BLFOEB+FrutigerLTStd-BoldItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "104" in the font program "BLFOEB+FrutigerLTStd-BoldItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "121" in the font program "BLFOEB+FrutigerLTStd-BoldItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "BLFOEB+FrutigerLTStd-BoldItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "59" in the font program "BLFOEB+FrutigerLTStd-BoldItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "110" in the font program "BLFOEB+FrutigerLTStd-BoldItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "105" in the font program "BLFOEB+FrutigerLTStd-BoldItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "BLFOEB+FrutigerLTStd-BoldItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "BLFOEB+FrutigerLTStd-BoldItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "114" in the font program "BLFOEB+FrutigerLTStd-BoldItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "111" in the font program "BLFOEB+FrutigerLTStd-BoldItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "BLFOEB+FrutigerLTStd-BoldItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "118" in the font program "BLFOAC+NPSRawlinsonOT-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "BLFOAC+NPSRawlinsonOT-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "108" in the font program "BLFOAC+NPSRawlinsonOT-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "59" in the font program "BLFOAC+NPSRawlinsonOT-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "112" in the font program "BLFOAC+NPSRawlinsonOT-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "117" in the font program "BLFOAC+NPSRawlinsonOT-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "72" in the font program "BLFOAC+NPSRawlinsonOT-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="17">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "114" in the font program "BLFOAC+NPSRawlinsonOT-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "44" in the font program "BLFOAC+NPSRawlinsonOT-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "110" in the font program "BLFOAC+NPSRawlinsonOT-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="14">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "BLFOAC+NPSRawlinsonOT-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "BLFOAC+NPSRawlinsonOT-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="16">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "BLFOAC+NPSRawlinsonOT-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "99" in the font program "BLFOAC+NPSRawlinsonOT-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="18">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "111" in the font program "BLFOAC+NPSRawlinsonOT-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="23">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "BLFOAC+NPSRawlinsonOT-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "115" in the font program "BLFOAC+NPSRawlinsonOT-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="20">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "105" in the font program "BLFOAC+NPSRawlinsonOT-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "51" in the font program "BLFOAC+NPSRawlinsonOT-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "55" in the font program "BLFOAC+NPSRawlinsonOT-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "57" in the font program "BLFOAC+NPSRawlinsonOT-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "BLFOAC+NPSRawlinsonOT-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="59">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "68" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "141" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="254">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "144" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="63">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "79" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="231">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "142" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="173">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="148">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "122" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="64">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "73" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="312">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "120" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="23">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "76" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "120" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="30">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "69" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="177">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "82" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="15">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "74" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="72">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "66" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="83">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "71" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="374">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "56" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="37">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "69" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="113">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "80" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="52">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "77" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="60">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "106" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="92">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "41" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="243">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "51" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="225">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "53" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="500">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="88">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "67" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="251">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "54" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="289">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "52" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="785">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "119" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="18">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "112" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="140">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "59" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="349">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "84" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="56">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "99" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="71">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "72" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="56">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "148" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="685">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "102" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "82" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="31">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "117" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="79">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "115" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="65">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "105" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="108">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="95">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "114" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="83">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "111" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="119">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="31">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "100" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "118" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="109">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "BLFNOC+NPSRawlinsonOT-BookItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="718">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "107" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="145">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "147" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2767">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "103" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1860">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "44" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3099">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "46" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="242">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "50" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="856">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "45" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="76">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "78" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1759">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "121" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="488">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "48" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="246">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "55" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="567">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "57" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1156">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "118" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5532">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "108" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6816">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "104" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2474">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "109" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="101">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="26">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "80" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="51">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "107" in the font program "BLFKNC+FrutigerLTStd-Light"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="20">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "BLFKNC+FrutigerLTStd-Light"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "55" in the font program "BLFLBC+Frutiger-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="20">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "87" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="68">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "45" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="17">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "76" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="94">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "53" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="67">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "51" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="163">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "103" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "84" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "53" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "41" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "79" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "113" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "82" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "144" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "69" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="50">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "50" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "55" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "112" in the font program "BLFKNC+FrutigerLTStd-Light"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="52">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "99" in the font program "BLFKNC+FrutigerLTStd-Light"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="67">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "117" in the font program "BLFKNC+FrutigerLTStd-Light"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "102" in the font program "BLFKNC+FrutigerLTStd-Light"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "98" in the font program "BLFKNC+FrutigerLTStd-Light"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "100" in the font program "BLFKNC+FrutigerLTStd-Light"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "119" in the font program "BLFKNC+FrutigerLTStd-Light"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="70">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "118" in the font program "BLFKNC+FrutigerLTStd-Light"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="447">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "BLFKNC+FrutigerLTStd-Light"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "52" in the font program "BLFKNC+FrutigerLTStd-Light"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "121" in the font program "BLFKNC+FrutigerLTStd-Light"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "109" in the font program "BLFKNC+FrutigerLTStd-Light"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "73" in the font program "BLFKNC+FrutigerLTStd-Light"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "87" in the font program "BLFKNC+FrutigerLTStd-Light"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="212">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "BLFKNC+FrutigerLTStd-Light"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "57" in the font program "BLFKNC+FrutigerLTStd-Light"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="278">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "114" in the font program "BLFKNC+FrutigerLTStd-Light"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "104" in the font program "BLFKNC+FrutigerLTStd-Light"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "48" in the font program "BLFKNC+FrutigerLTStd-Light"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "51" in the font program "BLFKNC+FrutigerLTStd-Light"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "46" in the font program "BLFKNC+FrutigerLTStd-Light"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="124">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "110" in the font program "BLFKNC+FrutigerLTStd-Light"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="260">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "111" in the font program "BLFKNC+FrutigerLTStd-Light"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="71">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "108" in the font program "BLFKNC+FrutigerLTStd-Light"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="127">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "105" in the font program "BLFKNC+FrutigerLTStd-Light"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="481">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "BLFKNC+FrutigerLTStd-Light"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "115" in the font program "BLFKNC+FrutigerLTStd-Light"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="167">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "BLFKNC+FrutigerLTStd-Light"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "58" in the font program "BLFKNC+FrutigerLTStd-Light"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "50" in the font program "BLFKNC+FrutigerLTStd-Light"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "53" in the font program "BLFKNC+FrutigerLTStd-Light"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "56" in the font program "BLFKNC+FrutigerLTStd-Light"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "45" in the font program "BLFKNC+FrutigerLTStd-Light"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "54" in the font program "BLFKNC+FrutigerLTStd-Light"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "55" in the font program "BLFKNC+FrutigerLTStd-Light"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="21">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "BLFKNC+FrutigerLTStd-Light"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "50" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "112" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "52" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="59">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "52" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="134">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "121" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "68" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="59">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "56" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="28">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "73" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="164">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "117" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="21">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "144" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="240">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "48" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="150">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="57">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "84" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="19">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "66" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="65">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "82" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "86" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="74">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "67" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="33">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "72" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="129">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "57" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="49">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "54" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="154">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "44" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="107">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "119" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="112">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "58" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "54" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "98" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "67" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "87" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "46" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "85" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "78" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "118" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "109" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "104" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "121" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "80" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "102" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "48" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "103" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "100" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "117" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "44" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "71" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="54">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="17">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "99" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="34">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "115" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="15">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "108" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="33">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="40">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "110" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="36">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "105" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="43">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="41">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="35">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "114" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="35">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "111" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "BLFIMO+FrutigerLTStd-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2124">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "112" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3267">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "117" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3641">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "99" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8814">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "115" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11144">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "110" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12381">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7709">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "111" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4947">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "100" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11605">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10160">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10568">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "105" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="17731">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11755">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "114" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1079">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "98" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="179">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "BLFILN+NPSRawlinsonOT-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="243">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "99" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="63">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "71" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="56">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="406">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "104" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="160">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "102" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="622">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "110" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="120">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "109" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="214">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "46" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="77">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "85" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="700">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "105" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="82">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "107" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="360">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "108" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="755">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="26">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "78" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="120">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "112" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="557">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "115" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="960">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="811">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "111" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1830">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="293">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "100" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="81">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "118" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1103">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="760">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "114" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="52">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "98" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="41">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "BLFHMC+FrutigerLTStd-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for TimesNewRomanPSMT</details>
+    </error>
+  </errors>
+</preflight>

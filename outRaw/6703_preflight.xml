@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="983620.pdf">
+  <executionTimeMS>2071</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="2444">
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "136" in the font program "KKHADA+AdvP4C4E74"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "24" in the font program "KKHADA+AdvP4C4E74"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "2" in the font program "KKHADA+AdvP4C4E74"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "135" in the font program "KKHADA+AdvP4C4E74"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.2</code>
+      <details>Invalid Font definition, FontDescriptor is null or is a AFM Descriptor</details>
+    </error>
+    <error count="91">
+      <code>1.2.1</code>
+      <details>Body Syntax error, Single space expected</details>
+    </error>
+    <error count="1">
+      <code>7.11</code>
+      <details>Error on MetaData</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(113)</details>
+    </error>
+    <error count="5">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(120)</details>
+    </error>
+    <error count="8">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(255)</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(106)</details>
+    </error>
+    <error count="7">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(122)</details>
+    </error>
+    <error count="9">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(41)</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(86)</details>
+    </error>
+    <error count="4">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(174)</details>
+    </error>
+    <error count="4">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(45)</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(177)</details>
+    </error>
+    <error count="3">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(47)</details>
+    </error>
+    <error count="10">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(48)</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(58)</details>
+    </error>
+    <error count="11">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(87)</details>
+    </error>
+    <error count="7">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(107)</details>
+    </error>
+    <error count="12">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(75)</details>
+    </error>
+    <error count="61">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(109)</details>
+    </error>
+    <error count="27">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(104)</details>
+    </error>
+    <error count="15">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(175)</details>
+    </error>
+    <error count="22">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(103)</details>
+    </error>
+    <error count="10">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(72)</details>
+    </error>
+    <error count="12">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(79)</details>
+    </error>
+    <error count="10">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(74)</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(54)</details>
+    </error>
+    <error count="53">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(100)</details>
+    </error>
+    <error count="9">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(66)</details>
+    </error>
+    <error count="6">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(55)</details>
+    </error>
+    <error count="76">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(114)</details>
+    </error>
+    <error count="11">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(70)</details>
+    </error>
+    <error count="9">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(69)</details>
+    </error>
+    <error count="16">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(77)</details>
+    </error>
+    <error count="8">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(73)</details>
+    </error>
+    <error count="7">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(56)</details>
+    </error>
+    <error count="37">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(110)</details>
+    </error>
+    <error count="9">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(51)</details>
+    </error>
+    <error count="10">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(52)</details>
+    </error>
+    <error count="13">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(76)</details>
+    </error>
+    <error count="11">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(78)</details>
+    </error>
+    <error count="23">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(117)</details>
+    </error>
+    <error count="11">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(85)</details>
+    </error>
+    <error count="9">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(71)</details>
+    </error>
+    <error count="45">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(118)</details>
+    </error>
+    <error count="35">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(46)</details>
+    </error>
+    <error count="28">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(98)</details>
+    </error>
+    <error count="15">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(121)</details>
+    </error>
+    <error count="17">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(68)</details>
+    </error>
+    <error count="35">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(44)</details>
+    </error>
+    <error count="13">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(80)</details>
+    </error>
+    <error count="36">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(65)</details>
+    </error>
+    <error count="48">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(108)</details>
+    </error>
+    <error count="104">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(119)</details>
+    </error>
+    <error count="32">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(50)</details>
+    </error>
+    <error count="49">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(67)</details>
+    </error>
+    <error count="160">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(115)</details>
+    </error>
+    <error count="53">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(112)</details>
+    </error>
+    <error count="104">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(111)</details>
+    </error>
+    <error count="61">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(102)</details>
+    </error>
+    <error count="127">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(101)</details>
+    </error>
+    <error count="167">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(116)</details>
+    </error>
+    <error count="109">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(99)</details>
+    </error>
+    <error count="55">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(49)</details>
+    </error>
+    <error count="52">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(40)</details>
+    </error>
+    <error count="8">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(53)</details>
+    </error>
+    <error count="40">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(82)</details>
+    </error>
+    <error count="108">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(105)</details>
+    </error>
+    <error count="37">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(84)</details>
+    </error>
+    <error count="3">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(38)</details>
+    </error>
+    <error count="36">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(83)</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(42)</details>
+    </error>
+    <error count="193">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(97)</details>
+    </error>
+    <error count="3">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="6">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "g" can't be used without Color Profile</details>
+    </error>
+    <error count="3">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+  </errors>
+</preflight>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="422035.pdf">
+  <executionTimeMS>2568</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="467">
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "104" in the font program "OLMHEI+ChemBats2"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "238" in the font program "OLMLDH+TimesTenGreek-Inclined"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "230" in the font program "OLMLDH+TimesTenGreek-Inclined"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "231" in the font program "OLMLDH+TimesTenGreek-Inclined"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "25" in the font program "OLMLBB+MTSY"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "246" in the font program "OLMLDH+TimesTenGreek-Inclined"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "82" in the font program "OLMHEI+ChemBats2"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "228" in the font program "OLMLDH+TimesTenGreek-Inclined"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="21">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "243" in the font program "OLMLDH+TimesTenGreek-Inclined"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "17" in the font program "OLMLBB+MTSY"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "43" in the font program "OLMHEI+ChemBats2"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "44" in the font program "OLMHEI+ChemBats2"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "2" in the font program "OLMLBB+MTSY"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "24" in the font program "OLMLBB+MTSY"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "46" in the font program "OLMHEI+ChemBats2"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "226" in the font program "OLMHEI+ChemBats2"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "240" in the font program "OLMLDH+TimesTenGreek-Inclined"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "226" in the font program "OLMLDH+TimesTenGreek-Inclined"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="85">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "41" in the font program "OLMHEI+ChemBats2"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="23">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "106" in the font program "OLMHEI+ChemBats2"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="35">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "237" in the font program "OLMLDH+TimesTenGreek-Inclined"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="139">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "45" in the font program "OLMHEI+ChemBats2"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.1</code>
+      <details>Invalid Font definition, Some required fields are missing from the Font dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.2</code>
+      <details>Invalid Font definition, FontDescriptor is null or is a AFM Descriptor</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for NewCenturySchlbk-Roman</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for NewCenturySchlbk-Italic</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for NewCenturySchlbk-BoldItalic</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for NewCenturySchlbk-Bold</details>
+    </error>
+    <error count="1">
+      <code>7.11</code>
+      <details>Error on MetaData</details>
+    </error>
+    <error count="1">
+      <code>5.2.3</code>
+      <details>Forbidden field in an annotation definition, Annotation uses a Color profile which isn't the same than the profile contained by the OutputIntent</details>
+    </error>
+    <error count="4">
+      <code>2.4.2</code>
+      <details>Invalid Color space, The operator "K" can't be used with RGB Profile</details>
+    </error>
+    <error count="13">
+      <code>2.4.2</code>
+      <details>Invalid Color space, The operator "k" can't be used with RGB Profile</details>
+    </error>
+    <error count="1">
+      <code>1.4.6</code>
+      <details>Trailer Syntax error, ID is different in the first and the last trailer</details>
+    </error>
+    <error count="1">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "G" can't be used without Color Profile</details>
+    </error>
+    <error count="2">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "g" can't be used without Color Profile</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(227)</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(120)</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(234)</details>
+    </error>
+    <error count="6">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(232)</details>
+    </error>
+    <error count="20">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(64)</details>
+    </error>
+    <error count="8">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(249)</details>
+    </error>
+    <error count="18">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(115)</details>
+    </error>
+  </errors>
+</preflight>

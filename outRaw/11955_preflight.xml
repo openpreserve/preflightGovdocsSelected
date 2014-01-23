@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="480210.pdf">
+  <executionTimeMS>1669</executionTimeMS>
+  <isValid type="">false</isValid>
+  <exceptionThrown>
+    <message>java.io.IOException: Error: Expected operator 'ID' actual='I!'</message>
+    <stackTrace>java.lang.RuntimeException: java.io.IOException: Error: Expected operator 'ID' actual='I!'
+	at org.apache.pdfbox.pdfparser.PDFStreamParser$1.tryNext(PDFStreamParser.java:186)
+	at org.apache.pdfbox.pdfparser.PDFStreamParser$1.hasNext(PDFStreamParser.java:193)
+	at org.apache.pdfbox.util.PDFStreamEngine.processSubStream(PDFStreamEngine.java:245)
+	at org.apache.pdfbox.util.PDFStreamEngine.processSubStream(PDFStreamEngine.java:225)
+	at org.apache.pdfbox.util.PDFStreamEngine.processStream(PDFStreamEngine.java:205)
+	at org.apache.pdfbox.preflight.content.ContentStreamWrapper.validPageContentStream(ContentStreamWrapper.java:76)
+	at org.apache.pdfbox.preflight.process.reflect.SinglePageValidationProcess.validateContent(SinglePageValidationProcess.java:179)
+	at org.apache.pdfbox.preflight.process.reflect.SinglePageValidationProcess.validate(SinglePageValidationProcess.java:87)
+	at org.apache.pdfbox.preflight.utils.ContextHelper.callValidation(ContextHelper.java:73)
+	at org.apache.pdfbox.preflight.utils.ContextHelper.validateElement(ContextHelper.java:52)
+	at org.apache.pdfbox.preflight.process.PageTreeValidationProcess.validatePage(PageTreeValidationProcess.java:58)
+	at org.apache.pdfbox.preflight.process.PageTreeValidationProcess.validate(PageTreeValidationProcess.java:47)
+	at org.apache.pdfbox.preflight.utils.ContextHelper.callValidation(ContextHelper.java:73)
+	at org.apache.pdfbox.preflight.utils.ContextHelper.validateElement(ContextHelper.java:88)
+	at org.apache.pdfbox.preflight.PreflightDocument.validate(PreflightDocument.java:169)
+	at org.apache.pdfbox.preflight.parser.XmlResultParser.validate(XmlResultParser.java:68)
+	at org.apache.pdfbox.preflight.parser.XmlResultParser.validate(XmlResultParser.java:49)
+	at org.apache.pdfbox.preflight.Validator_A1b.main(Validator_A1b.java:131)
+Caused by: java.io.IOException: Error: Expected operator 'ID' actual='I!'
+	at org.apache.pdfbox.pdfparser.PDFStreamParser.parseNextToken(PDFStreamParser.java:380)
+	at org.apache.pdfbox.pdfparser.PDFStreamParser.access$000(PDFStreamParser.java:46)
+	at org.apache.pdfbox.pdfparser.PDFStreamParser$1.tryNext(PDFStreamParser.java:181)
+	... 17 more
+</stackTrace>
+  </exceptionThrown>
+</preflight>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="633307.pdf">
+  <executionTimeMS>3290</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="5501">
+    <error count="1">
+      <code>1.4.2</code>
+      <details>Trailer Syntax error, The trailer dictionary contains Encrypt</details>
+    </error>
+    <error count="1833">
+      <code>1.2.12</code>
+      <details>Body Syntax error, This filter isn't defined in the PDF Reference Third Edition : LZWDecode</details>
+    </error>
+    <error count="1833">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="1833">
+      <code>1.2.7</code>
+      <details>Body Syntax error, LZWDecode is forbidden</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+  </errors>
+</preflight>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="816518.pdf">
+  <executionTimeMS>2344</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="41">
+    <error count="24">
+      <code>5.3.1</code>
+      <details>Invalid field value in an annotation definition, Only the N Appearance is authorized</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "164" in the font program "HelveticaNeue-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "39" in the font program "Helvetica-Condensed-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>7.11</code>
+      <details>Error on MetaData</details>
+    </error>
+    <error count="1">
+      <code>6.2.4</code>
+      <details>Action is forbidden, "A" must not be used in a widget annotation</details>
+    </error>
+    <error count="6">
+      <code>2.4.2</code>
+      <details>Invalid Color space, The operator "K" can't be used with RGB Profile</details>
+    </error>
+    <error count="6">
+      <code>2.4.2</code>
+      <details>Invalid Color space, The operator "k" can't be used with RGB Profile</details>
+    </error>
+    <error count="1">
+      <code>1.4.6</code>
+      <details>Trailer Syntax error, ID is different in the first and the last trailer</details>
+    </error>
+  </errors>
+</preflight>

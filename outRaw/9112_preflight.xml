@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="196503.pdf">
+  <executionTimeMS>4451</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="107776">
+    <error count="1">
+      <code>7.11</code>
+      <details>Error on MetaData</details>
+    </error>
+    <error count="11">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="364">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f*" can't be used without Color Profile</details>
+    </error>
+    <error count="154">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "G" can't be used without Color Profile</details>
+    </error>
+    <error count="65654">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="431">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "g" can't be used without Color Profile</details>
+    </error>
+    <error count="40471">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "rg" can't be used with CMYK Profile</details>
+    </error>
+    <error count="387">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "RG" can't be used with CMYK Profile</details>
+    </error>
+    <error count="1">
+      <code>7.2</code>
+      <details>Error on MetaData, ModificationDate present in the document catalog dictionary doesn't match with XMP information</details>
+    </error>
+    <error count="1">
+      <code>7.2</code>
+      <details>Error on MetaData, CreationDate present in the document catalog dictionary doesn't match with XMP information</details>
+    </error>
+    <error count="1">
+      <code>7.2</code>
+      <details>Error on MetaData, CreatorTool present in the document catalog dictionary doesn't match with XMP information</details>
+    </error>
+    <error count="1">
+      <code>7.2</code>
+      <details>Error on MetaData, Keywords present in the document catalog dictionary can't be found in XMP information (Property is not defined)</details>
+    </error>
+    <error count="1">
+      <code>7.2</code>
+      <details>Error on MetaData, Subject present in the document catalog dictionary can't be found in XMP information (Property is defined as null)</details>
+    </error>
+    <error count="1">
+      <code>7.2</code>
+      <details>Error on MetaData, Author present in the document catalog dictionary doesn't match with XMP information</details>
+    </error>
+    <error count="1">
+      <code>7.2</code>
+      <details>Error on MetaData, Title present in the document catalog dictionary doesn't match with XMP information</details>
+    </error>
+    <error count="3">
+      <code>1.2.1</code>
+      <details>Body Syntax error, EOL expected before the 'endobj' keyword</details>
+    </error>
+    <error count="45">
+      <code>1.2.2</code>
+      <details>Body Syntax error, Expected 'EOL' before the endstream keyword</details>
+    </error>
+    <error count="46">
+      <code>1.2.5</code>
+      <details>Body Syntax error, Stream length is invalide</details>
+    </error>
+    <error count="46">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 45888.3047</details>
+    </error>
+    <error count="46">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 66788.6953</details>
+    </error>
+    <error count="46">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 46109.6953</details>
+    </error>
+    <error count="46">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 66567.3047</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 78891.0391</details>
+    </error>
+    <error count="1">
+      <code>1.0.6</code>
+      <details>Syntax error, Float is too long or too small: 80108.6953</details>
+    </error>
+    <error count="8">
+      <code>3.1.1</code>
+      <details>Invalid Font definition, Some required fields are missing from the Font dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.2</code>
+      <details>Invalid Font definition, FontDescriptor is null or is a AFM Descriptor</details>
+    </error>
+  </errors>
+</preflight>

@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="502438.pdf">
+  <executionTimeMS>6649</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="40325">
+    <error count="424">
+      <code>1.2.5</code>
+      <details>Body Syntax error, Stream length is invalide</details>
+    </error>
+    <error count="56">
+      <code>2.4.2</code>
+      <details>Invalid Color space, The operator "k" can't be used with RGB Profile</details>
+    </error>
+    <error count="8">
+      <code>2.4.2</code>
+      <details>Invalid Color space, The operator "K" can't be used with RGB Profile</details>
+    </error>
+    <error count="66">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "B*" can't be used without Color Profile</details>
+    </error>
+    <error count="172">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "b*" can't be used without Color Profile</details>
+    </error>
+    <error count="10882">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f*" can't be used without Color Profile</details>
+    </error>
+    <error count="247">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="86">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "RG" can't be used with CMYK Profile</details>
+    </error>
+    <error count="200">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "rg" can't be used with CMYK Profile</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "147" in the font program "EINGDA+MSTT31c650"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "150" in the font program "EINGDA+MSTT31c650"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "134" in the font program "EINGDA+MSTT31c650"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "135" in the font program "EGGFDA+MSTT31c5cb"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "134" in the font program "EGGFDA+MSTT31c5cb"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "150" in the font program "EGGFDA+MSTT31c5cb"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "147" in the font program "EFHKNA+MSTT31c5cb"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "135" in the font program "EEJAHA+MSTT31c5cc"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "150" in the font program "EDMJDI+MSTT31c624"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "135" in the font program "EDMJDI+MSTT31c624"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "134" in the font program "EDMJDI+MSTT31c624"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "135" in the font program "ECJEKA+MSTT31c5c7"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "134" in the font program "ECJEKA+MSTT31c5c7"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "134" in the font program "EBNBFA+MSTT31c630"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "147" in the font program "BPHIFI+MSTT31c3c9"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "147" in the font program "BNKLGI+MSTT31c3ae"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "134" in the font program "BNKLGI+MSTT31c3ae"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "147" in the font program "PKBCCA+MSTT31c83d"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "150" in the font program "OPGHKI+MSTT31c83f"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "150" in the font program "OPGDMA+MSTT31c832"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "147" in the font program "OPGDMA+MSTT31c832"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "134" in the font program "OPGDMA+MSTT31c832"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "135" in the font program "OMFCJI+MSTT31c7fb"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "134" in the font program "OMFCJI+MSTT31c7fb"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "151" in the font program "OJEJEA+MSTT31c7fb"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "134" in the font program "FJPELA+MSTT31c701"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "150" in the font program "FDHFHI+MSTT31ca66"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "151" in the font program "MMODLI+MSTT31c640"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "69" in the font program "MMNPNA+FuturaBT-MediumCondensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.1</code>
+      <details>Invalid Font definition, Some required fields are missing from the Font dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.2</code>
+      <details>Invalid Font definition, FontDescriptor is null or is a AFM Descriptor</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(177)</details>
+    </error>
+    <error count="6">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(93)</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(167)</details>
+    </error>
+    <error count="3">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(38)</details>
+    </error>
+    <error count="15">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(90)</details>
+    </error>
+    <error count="5">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(62)</details>
+    </error>
+    <error count="47">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(120)</details>
+    </error>
+    <error count="28">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(88)</details>
+    </error>
+    <error count="34">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(43)</details>
+    </error>
+    <error count="34">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(61)</details>
+    </error>
+    <error count="29">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(47)</details>
+    </error>
+    <error count="18">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(91)</details>
+    </error>
+    <error count="6">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(36)</details>
+    </error>
+    <error count="6">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(60)</details>
+    </error>
+    <error count="14">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(37)</details>
+    </error>
+    <error count="73">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(75)</details>
+    </error>
+    <error count="122">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(79)</details>
+    </error>
+    <error count="304">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(48)</details>
+    </error>
+    <error count="27">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(113)</details>
+    </error>
+    <error count="28">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(59)</details>
+    </error>
+    <error count="16">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(122)</details>
+    </error>
+    <error count="138">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(117)</details>
+    </error>
+    <error count="394">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(102)</details>
+    </error>
+    <error count="51">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(106)</details>
+    </error>
+    <error count="485">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(119)</details>
+    </error>
+    <error count="837">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(99)</details>
+    </error>
+    <error count="580">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(100)</details>
+    </error>
+    <error count="323">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(110)</details>
+    </error>
+    <error count="620">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(109)</details>
+    </error>
+    <error count="385">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(98)</details>
+    </error>
+    <error count="928">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(112)</details>
+    </error>
+    <error count="15">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(81)</details>
+    </error>
+    <error count="966">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(116)</details>
+    </error>
+    <error count="22">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(107)</details>
+    </error>
+    <error count="43">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(121)</details>
+    </error>
+    <error count="493">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(77)</details>
+    </error>
+    <error count="874">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(46)</details>
+    </error>
+    <error count="622">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(114)</details>
+    </error>
+    <error count="147">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(41)</details>
+    </error>
+    <error count="400">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(103)</details>
+    </error>
+    <error count="637">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(40)</details>
+    </error>
+    <error count="312">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(66)</details>
+    </error>
+    <error count="921">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(115)</details>
+    </error>
+    <error count="23">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(42)</details>
+    </error>
+    <error count="205">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(70)</details>
+    </error>
+    <error count="163">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(56)</details>
+    </error>
+    <error count="106">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(45)</details>
+    </error>
+    <error count="184">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(55)</details>
+    </error>
+    <error count="165">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(71)</details>
+    </error>
+    <error count="191">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(54)</details>
+    </error>
+    <error count="471">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(104)</details>
+    </error>
+    <error count="314">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(82)</details>
+    </error>
+    <error count="234">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(53)</details>
+    </error>
+    <error count="245">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(108)</details>
+    </error>
+    <error count="263">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(52)</details>
+    </error>
+    <error count="107">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(85)</details>
+    </error>
+    <error count="18">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(58)</details>
+    </error>
+    <error count="353">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(51)</details>
+    </error>
+    <error count="453">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(50)</details>
+    </error>
+    <error count="56">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(89)</details>
+    </error>
+    <error count="549">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(80)</details>
+    </error>
+    <error count="457">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(68)</details>
+    </error>
+    <error count="410">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(69)</details>
+    </error>
+    <error count="386">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(73)</details>
+    </error>
+    <error count="160">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(87)</details>
+    </error>
+    <error count="287">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(78)</details>
+    </error>
+    <error count="439">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(84)</details>
+    </error>
+    <error count="713">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(83)</details>
+    </error>
+    <error count="861">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(105)</details>
+    </error>
+    <error count="454">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(65)</details>
+    </error>
+    <error count="198">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(44)</details>
+    </error>
+    <error count="3009">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(32)</details>
+    </error>
+    <error count="168">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(57)</details>
+    </error>
+    <error count="160">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(76)</details>
+    </error>
+    <error count="227">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(118)</details>
+    </error>
+    <error count="302">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(72)</details>
+    </error>
+    <error count="1124">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(49)</details>
+    </error>
+    <error count="499">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(101)</details>
+    </error>
+    <error count="1277">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(97)</details>
+    </error>
+    <error count="120">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(74)</details>
+    </error>
+    <error count="813">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(111)</details>
+    </error>
+    <error count="287">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(86)</details>
+    </error>
+    <error count="679">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(67)</details>
+    </error>
+  </errors>
+</preflight>

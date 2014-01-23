@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="485663.pdf">
+  <executionTimeMS>2601</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="2">
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "0" in the font program "PGLDHD+TimesNewRomanPSMT"is missing from the Charater Encoding.</details>
+    </error>
+  </errors>
+</preflight>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="663027.pdf">
+  <executionTimeMS>709</executionTimeMS>
+  <isValid type="">false</isValid>
+  <exceptionThrown>
+    <message>String index out of range: 0</message>
+    <stackTrace>java.lang.StringIndexOutOfBoundsException: String index out of range: 0
+	at java.lang.String.charAt(String.java:658)
+	at org.apache.pdfbox.util.DateConverter.parseDate(DateConverter.java:680)
+	at org.apache.pdfbox.util.DateConverter.toCalendar(DateConverter.java:808)
+	at org.apache.pdfbox.util.DateConverter.toCalendar(DateConverter.java:780)
+	at org.apache.pdfbox.util.DateConverter.toCalendar(DateConverter.java:754)
+	at org.apache.pdfbox.cos.COSDictionary.getDate(COSDictionary.java:797)
+	at org.apache.pdfbox.pdmodel.PDDocumentInformation.getCreationDate(PDDocumentInformation.java:210)
+	at org.apache.pdfbox.preflight.metadata.SynchronizedMetaDataValidation.analyzeCreationDateProperty(SynchronizedMetaDataValidation.java:347)
+	at org.apache.pdfbox.preflight.metadata.SynchronizedMetaDataValidation.validateMetadataSynchronization(SynchronizedMetaDataValidation.java:482)
+	at org.apache.pdfbox.preflight.process.MetadataValidationProcess.validate(MetadataValidationProcess.java:82)
+	at org.apache.pdfbox.preflight.utils.ContextHelper.callValidation(ContextHelper.java:73)
+	at org.apache.pdfbox.preflight.utils.ContextHelper.validateElement(ContextHelper.java:88)
+	at org.apache.pdfbox.preflight.PreflightDocument.validate(PreflightDocument.java:169)
+	at org.apache.pdfbox.preflight.parser.XmlResultParser.validate(XmlResultParser.java:68)
+	at org.apache.pdfbox.preflight.parser.XmlResultParser.validate(XmlResultParser.java:49)
+	at org.apache.pdfbox.preflight.Validator_A1b.main(Validator_A1b.java:131)
+</stackTrace>
+  </exceptionThrown>
+</preflight>

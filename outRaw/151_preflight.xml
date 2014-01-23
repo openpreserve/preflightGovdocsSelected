@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="317669.pdf">
+  <executionTimeMS>2328</executionTimeMS>
+  <isValid type="">false</isValid>
+  <exceptionThrown>
+    <message/>
+    <stackTrace>java.lang.NullPointerException
+	at org.apache.pdfbox.pdfparser.BaseParser.parseCOSDictionaryValue(BaseParser.java:240)
+	at org.apache.pdfbox.pdfparser.BaseParser.parseCOSDictionary(BaseParser.java:352)
+	at org.apache.pdfbox.pdfparser.PDFStreamParser.parseNextToken(PDFStreamParser.java:246)
+	at org.apache.pdfbox.pdfparser.PDFStreamParser.access$000(PDFStreamParser.java:46)
+	at org.apache.pdfbox.pdfparser.PDFStreamParser$1.tryNext(PDFStreamParser.java:181)
+	at org.apache.pdfbox.pdfparser.PDFStreamParser$1.hasNext(PDFStreamParser.java:193)
+	at org.apache.pdfbox.util.PDFStreamEngine.processSubStream(PDFStreamEngine.java:245)
+	at org.apache.pdfbox.util.PDFStreamEngine.processSubStream(PDFStreamEngine.java:225)
+	at org.apache.pdfbox.util.PDFStreamEngine.processStream(PDFStreamEngine.java:205)
+	at org.apache.pdfbox.preflight.content.ContentStreamWrapper.validPageContentStream(ContentStreamWrapper.java:76)
+	at org.apache.pdfbox.preflight.process.reflect.SinglePageValidationProcess.validateContent(SinglePageValidationProcess.java:179)
+	at org.apache.pdfbox.preflight.process.reflect.SinglePageValidationProcess.validate(SinglePageValidationProcess.java:87)
+	at org.apache.pdfbox.preflight.utils.ContextHelper.callValidation(ContextHelper.java:73)
+	at org.apache.pdfbox.preflight.utils.ContextHelper.validateElement(ContextHelper.java:52)
+	at org.apache.pdfbox.preflight.process.PageTreeValidationProcess.validatePage(PageTreeValidationProcess.java:58)
+	at org.apache.pdfbox.preflight.process.PageTreeValidationProcess.validate(PageTreeValidationProcess.java:47)
+	at org.apache.pdfbox.preflight.utils.ContextHelper.callValidation(ContextHelper.java:73)
+	at org.apache.pdfbox.preflight.utils.ContextHelper.validateElement(ContextHelper.java:88)
+	at org.apache.pdfbox.preflight.PreflightDocument.validate(PreflightDocument.java:169)
+	at org.apache.pdfbox.preflight.parser.XmlResultParser.validate(XmlResultParser.java:68)
+	at org.apache.pdfbox.preflight.parser.XmlResultParser.validate(XmlResultParser.java:49)
+	at org.apache.pdfbox.preflight.Validator_A1b.main(Validator_A1b.java:131)
+</stackTrace>
+  </exceptionThrown>
+</preflight>

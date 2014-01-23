@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="376474.pdf">
+  <executionTimeMS>2331</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="3633">
+    <error count="28">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "1" in the font program "REGIAW+GillSansStd-Identity-H"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="35">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "1" in the font program "YBWBJD+Arial"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="31">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "10" in the font program "PPMMCL+Verdana"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3372">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "1" in the font program "HWNDJR+Verdana"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="70">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "7" in the font program "GXQVTB+Verdana"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="29">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "1" in the font program "ZRSKVS+TimesNewRoman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Expecting namespace 'adobe:ns:meta/' and found 'http://www.w3.org/1999/02/22-rdf-syntax-ns#'</details>
+    </error>
+    <error count="6">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "g" can't be used without Color Profile</details>
+    </error>
+    <error count="7">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "G" can't be used without Color Profile</details>
+    </error>
+    <error count="3">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="7">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="22">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "rg" can't be used with CMYK Profile</details>
+    </error>
+    <error count="22">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "RG" can't be used with CMYK Profile</details>
+    </error>
+  </errors>
+</preflight>

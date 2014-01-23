@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="721538.pdf">
+  <executionTimeMS>188</executionTimeMS>
+  <isValid type="">false</isValid>
+  <errors count="3">
+    <error count="1">
+      <code>1.0</code>
+      <details>Syntax error, Error: Expected a long type at offset 3472063</details>
+    </error>
+    <error count="1">
+      <code>1.3</code>
+      <details>CrossRef Syntax error, Cross reference subsection header is invalid</details>
+    </error>
+    <error count="1">
+      <code>1.1</code>
+      <details>Body Syntax error, Second line must contains at least 4 bytes greater than 127</details>
+    </error>
+  </errors>
+</preflight>

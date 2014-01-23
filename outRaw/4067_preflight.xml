@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="096913.pdf">
+  <executionTimeMS>1629</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="2436">
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "58" in the font program "MDMWAE+CMSL10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "71" in the font program "MDMWAE+CMSL10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "86" in the font program "MDMWAE+CMSL10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "MDMWAE+CMSL10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "98" in the font program "MDMWAE+CMSL10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "75" in the font program "MDMWAE+CMSL10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "100" in the font program "MDMWAE+CMSL10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "77" in the font program "MDMWAE+CMSL10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "69" in the font program "MDMWAE+CMSL10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "117" in the font program "MDMWAE+CMSL10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "76" in the font program "MDMWAE+CMSL10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "66" in the font program "MDMWAE+CMSL10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "66" in the font program "IDIBPL+CMMI10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "80" in the font program "MDMWAE+CMSL10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "104" in the font program "MDMWAE+CMSL10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "69" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "74" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "107" in the font program "MDMWAE+CMSL10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "99" in the font program "MDMWAE+CMSL10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "108" in the font program "MDMWAE+CMSL10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "85" in the font program "MDMWAE+CMSL10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "105" in the font program "MDMWAE+CMSL10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="15">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "102" in the font program "MDMWAE+CMSL10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "79" in the font program "MDMWAE+CMSL10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "115" in the font program "MDMWAE+CMSL10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="14">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "110" in the font program "MDMWAE+CMSL10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "118" in the font program "MDMWAE+CMSL10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "121" in the font program "MDMWAE+CMSL10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="16">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "MDMWAE+CMSL10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "12" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "0" in the font program "WMGCLZ+CMSY7"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "53" in the font program "HFIBIY+CMR7"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "39" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "120" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "87" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="15">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "82" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "59" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="42">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "MDMWAE+CMSL10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="19">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "MDMWAE+CMSL10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "72" in the font program "MDMWAE+CMSL10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "13" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "66" in the font program "WPLWMY+CMMI7"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "77" in the font program "IDIBPL+CMMI10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "38" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "75" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "12" in the font program "WMGCLZ+CMSY7"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "57" in the font program "HFIBIY+CMR7"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "124" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "HFIBIY+CMR7"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "113" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="17">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "71" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "23" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="36">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "117" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "56" in the font program "HFIBIY+CMR7"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "2" in the font program "RIRBAJ+CMSY10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "60" in the font program "IDIBPL+CMMI10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "24" in the font program "RIRBAJ+CMSY10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "72" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "107" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="89">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "99" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="69">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "108" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "41" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="33">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "40" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="133">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "115" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="100">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "100" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="111">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "105" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="97">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "98" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="43">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "118" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="71">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "112" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="118">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "104" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="50">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "44" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "76" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "78" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "79" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "85" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="108">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "110" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="80">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "121" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="18">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "80" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="114">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "102" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="307">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="342">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "66" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="51">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "86" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="46">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "89" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="23">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "46" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "77" in the font program "GFCUGB+CMR10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>1.2.1</code>
+      <details>Body Syntax error, EOL expected before the 'endobj' keyword</details>
+    </error>
+    <error count="6">
+      <code>1.2.2</code>
+      <details>Body Syntax error, Expected 'EOL' before the endstream keyword</details>
+    </error>
+    <error count="6">
+      <code>1.2.5</code>
+      <details>Body Syntax error, Stream length is invalide</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+    <error count="1">
+      <code>1.4.1</code>
+      <details>Trailer Syntax error, The trailer dictionary doesn't contain ID</details>
+    </error>
+  </errors>
+</preflight>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="215309.pdf">
+  <executionTimeMS>398</executionTimeMS>
+  <isValid type="">false</isValid>
+  <errors count="1">
+    <error count="1">
+      <code>1.0</code>
+      <details>Syntax error, Invalid object stream xref object reference: null</details>
+    </error>
+  </errors>
+</preflight>

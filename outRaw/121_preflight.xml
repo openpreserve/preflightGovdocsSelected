@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="578601.pdf">
+  <executionTimeMS>547</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="28">
+    <error count="4">
+      <code>5.2.2</code>
+      <details>Forbidden field in an annotation definition, Flags of Widget annotation are invalid</details>
+    </error>
+    <error count="1">
+      <code>6.2.4</code>
+      <details>Action is forbidden, "A" must not be used in a widget annotation</details>
+    </error>
+    <error count="10">
+      <code>6.2.5</code>
+      <details>Action is forbidden, The action Launch is forbidden</details>
+    </error>
+    <error count="12">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+  </errors>
+</preflight>

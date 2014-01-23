@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="545535.pdf">
+  <executionTimeMS>449</executionTimeMS>
+  <isValid type="">false</isValid>
+  <errors count="3">
+    <error count="1">
+      <code>1.0</code>
+      <details>Syntax error, XREF for 32:0 points to wrong object: 27:0</details>
+    </error>
+    <error count="2">
+      <code>1.2.2</code>
+      <details>Body Syntax error, Expected 'EOL' before the endstream keyword</details>
+    </error>
+  </errors>
+</preflight>

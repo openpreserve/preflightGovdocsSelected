@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="468239.pdf">
+  <executionTimeMS>820</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="449">
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+    <error count="29">
+      <code>1.2.1</code>
+      <details>Body Syntax error, EOL expected after the 'endobj' keyword</details>
+    </error>
+    <error count="29">
+      <code>1.2.1</code>
+      <details>Body Syntax error, Single space expected</details>
+    </error>
+    <error count="6">
+      <code>1.2.2</code>
+      <details>Body Syntax error, Expected 'EOL' before the endstream keyword</details>
+    </error>
+    <error count="6">
+      <code>1.2.5</code>
+      <details>Body Syntax error, Stream length is invalide</details>
+    </error>
+    <error count="30">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f*" can't be used without Color Profile</details>
+    </error>
+    <error count="2">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "RG" can't be used with CMYK Profile</details>
+    </error>
+    <error count="2">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "rg" can't be used with CMYK Profile</details>
+    </error>
+    <error count="1">
+      <code>1.4.1</code>
+      <details>Trailer Syntax error, The trailer dictionary doesn't contain ID</details>
+    </error>
+    <error count="1">
+      <code>1.3</code>
+      <details>CrossRef Syntax error, Cross reference subsection header is invalid</details>
+    </error>
+    <error count="1">
+      <code>1.3</code>
+      <details>CrossRef Syntax error, xref must be followed by EOL</details>
+    </error>
+    <error count="1">
+      <code>1.1</code>
+      <details>Body Syntax error, Second line must contains at least 4 bytes greater than 127</details>
+    </error>
+    <error count="1">
+      <code>1.1</code>
+      <details>Body Syntax error, First line must match %PDF-1.\d</details>
+    </error>
+    <error count="12">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "63" in the font program "Arial+0"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="14">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "68" in the font program "Arial+0"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="9">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "54" in the font program "Arial-Bold+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "68" in the font program "Arial-Bold+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "81" in the font program "Arial-Bold+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "80" in the font program "Arial-Bold+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="4">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "74" in the font program "Arial-Bold+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "43" in the font program "Arial-Bold+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "77" in the font program "Arial-Bold+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "75" in the font program "Arial-Bold+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "69" in the font program "Arial-Bold+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "66" in the font program "Arial-Bold+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "65" in the font program "Arial-Bold+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="5">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "64" in the font program "Arial-Bold+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "63" in the font program "Arial-Bold+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "61" in the font program "Arial-Bold+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="3">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "49" in the font program "Arial-Bold+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "45" in the font program "Arial-Bold+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="4">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "44" in the font program "Arial-Bold+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "56" in the font program "Arial+0"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "46" in the font program "Arial+0"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="5">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "58" in the font program "Arial+0"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="5">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "57" in the font program "Arial+0"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="4">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "42" in the font program "Arial+0"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="6">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "53" in the font program "Arial+0"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="14">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "52" in the font program "Arial+0"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="6">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "48" in the font program "Arial+0"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="6">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "51" in the font program "Arial+0"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="124">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "44" in the font program "Arial+0"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="3">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "43" in the font program "Arial+0"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="3">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "40" in the font program "Arial+0"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "39" in the font program "Arial+0"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "42" in the font program "Arial-Bold+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "38" in the font program "Arial-Bold+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "39" in the font program "Arial-Bold+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "41" in the font program "Arial-Bold+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "40" in the font program "Arial-Bold+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "37" in the font program "Arial-Bold+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "35" in the font program "Arial-Bold+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="15">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "34" in the font program "Arial-Bold+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="12">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "33" in the font program "Arial-Bold+1"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="5">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "38" in the font program "Arial+0"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="7">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "37" in the font program "Arial+0"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="36">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "36" in the font program "Arial+0"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "35" in the font program "Arial+0"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "34" in the font program "Arial+0"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "33" in the font program "Arial+0"is missing from the Charater Encoding.</details>
+    </error>
+  </errors>
+</preflight>

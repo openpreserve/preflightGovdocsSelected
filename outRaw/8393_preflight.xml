@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="425892.pdf">
+  <executionTimeMS>1663</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="1334">
+    <error count="1">
+      <code>7.11</code>
+      <details>Error on MetaData</details>
+    </error>
+    <error count="1">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for Arial</details>
+    </error>
+    <error count="5">
+      <code>3.1.3</code>
+      <details>Invalid Font definition, FontFile entry is missing from FontDescriptor for TimesNewRoman</details>
+    </error>
+    <error count="1">
+      <code>1.4.6</code>
+      <details>Trailer Syntax error, ID is different in the first and the last trailer</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "117" in the font program "AAAAAB+TimesNewRoman"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="4">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "118" in the font program "AAAAAB+TimesNewRoman"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "81" in the font program "AAAAAB+TimesNewRoman"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="3">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "86" in the font program "AAAAAB+TimesNewRoman"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "104" in the font program "AAAAAB+TimesNewRoman"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="10">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "115" in the font program "AAAAAB+TimesNewRoman"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="4">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "101" in the font program "AAAAAB+TimesNewRoman"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="4">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "119" in the font program "AAAAAB+TimesNewRoman"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "50" in the font program "AAAAAB+TimesNewRoman"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="5">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "71" in the font program "AAAAAB+TimesNewRoman"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "68" in the font program "AAAAAB+TimesNewRoman"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "40" in the font program "AAAAAB+TimesNewRoman"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="4">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "112" in the font program "AAAAAB+TimesNewRoman"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="13">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "32" in the font program "AAAAAB+TimesNewRoman"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="7">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "79" in the font program "AAAAAB+TimesNewRoman"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="14">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "87" in the font program "AAAAAB+TimesNewRoman"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "78" in the font program "AAAAAA+TimesNewRoman,Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "34" in the font program "AAAAAB+TimesNewRoman"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="8">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "111" in the font program "AAAAAB+TimesNewRoman"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "99" in the font program "AAAAAB+TimesNewRoman"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="15">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "84" in the font program "AAAAAB+TimesNewRoman"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="45">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "48" in the font program "AAAAAB+TimesNewRoman"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="3">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "75" in the font program "AAAAAB+TimesNewRoman"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="10">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "116" in the font program "AAAAAB+TimesNewRoman"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="44">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "49" in the font program "AAAAAB+TimesNewRoman"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "89" in the font program "AAAAAB+TimesNewRoman"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="42">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "83" in the font program "AAAAAB+TimesNewRoman"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="13">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "98" in the font program "AAAAAB+TimesNewRoman"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="8">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "65" in the font program "AAAAAB+TimesNewRoman"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="21">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "76" in the font program "AAAAAB+TimesNewRoman"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="12">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "67" in the font program "AAAAAA+TimesNewRoman,Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="55">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "73" in the font program "AAAAAB+TimesNewRoman"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="33">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "82" in the font program "AAAAAB+TimesNewRoman"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="62">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "67" in the font program "AAAAAB+TimesNewRoman"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="25">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "69" in the font program "AAAAAB+TimesNewRoman"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="12">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "78" in the font program "AAAAAD+Tahoma"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="24">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "83" in the font program "AAAAAD+Tahoma"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="12">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "79" in the font program "AAAAAD+Tahoma"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="12">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "70" in the font program "AAAAAD+Tahoma"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="12">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "65" in the font program "AAAAAD+Tahoma"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="12">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "112" in the font program "AAAAAD+Tahoma"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="12">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "105" in the font program "AAAAAD+Tahoma"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="12">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "119" in the font program "AAAAAD+Tahoma"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="36">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "84" in the font program "AAAAAD+Tahoma"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="12">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "65" in the font program "AAAAAC+Arial,Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="75">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "42" in the font program "AAAAAB+TimesNewRoman"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="10">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "72" in the font program "AAAAAB+TimesNewRoman"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="26">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "97" in the font program "AAAAAB+TimesNewRoman"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="29">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "80" in the font program "AAAAAB+TimesNewRoman"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="8">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "105" in the font program "AAAAAB+TimesNewRoman"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="16">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "77" in the font program "AAAAAB+TimesNewRoman"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="41">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "66" in the font program "AAAAAB+TimesNewRoman"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="3">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "52" in the font program "AAAAAB+TimesNewRoman"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="101">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "70" in the font program "AAAAAB+TimesNewRoman"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="139">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "78" in the font program "AAAAAB+TimesNewRoman"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="14">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "69" in the font program "AAAAAA+TimesNewRoman,Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="82">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "70" in the font program "AAAAAA+TimesNewRoman,Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="26">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "68" in the font program "AAAAAA+TimesNewRoman,Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="1">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="53">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "RG" can't be used with CMYK Profile</details>
+    </error>
+    <error count="68">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "rg" can't be used with CMYK Profile</details>
+    </error>
+  </errors>
+</preflight>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="752829.pdf">
+  <executionTimeMS>2989</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="8135">
+    <error count="1">
+      <code>1.4.8</code>
+      <details>Trailer Syntax error, A Catalog shall not contain the OCPProperties entry.</details>
+    </error>
+    <error count="1">
+      <code>1.4.6</code>
+      <details>Trailer Syntax error, ID is different in the first and the last trailer</details>
+    </error>
+    <error count="7973">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "B*" can't be used without Color Profile</details>
+    </error>
+    <error count="1">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "RG" can't be used with CMYK Profile</details>
+    </error>
+    <error count="1">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "rg" can't be used with CMYK Profile</details>
+    </error>
+    <error count="6">
+      <code>5.2.2</code>
+      <details>Forbidden field in an annotation definition, Flags of Widget annotation are invalid</details>
+    </error>
+    <error count="147">
+      <code>1.2.1</code>
+      <details>Body Syntax error, Single space expected</details>
+    </error>
+    <error count="3">
+      <code>6.2.6</code>
+      <details>Action is forbidden, The action SetOCGState is undefined</details>
+    </error>
+    <error count="1">
+      <code>6.2.3</code>
+      <details>Action is forbidden, "AA" must not be used in a Field dictionary</details>
+    </error>
+    <error count="1">
+      <code>7.11</code>
+      <details>Error on MetaData</details>
+    </error>
+  </errors>
+</preflight>

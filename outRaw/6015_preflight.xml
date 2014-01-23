@@ -1,0 +1,1379 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="217015.pdf">
+  <executionTimeMS>5835</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="111896">
+    <error count="1">
+      <code>7.11</code>
+      <details>Error on MetaData</details>
+    </error>
+    <error count="42">
+      <code>5.2.2</code>
+      <details>Forbidden field in an annotation definition, Flags of Link annotation are invalid</details>
+    </error>
+    <error count="1">
+      <code>1.4.6</code>
+      <details>Trailer Syntax error, ID is different in the first and the last trailer</details>
+    </error>
+    <error count="2358">
+      <code>1.2.1</code>
+      <details>Body Syntax error, Single space expected</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "36" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "75" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "59" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "57" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "151" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "53" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="27">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "55" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "52" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "48" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "56" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "54" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="46">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "50" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "121" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "120" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "58" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="23">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "76" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "78" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "90" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "88" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "72" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "119" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "87" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="14">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "45" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "72" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "117" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "113" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "109" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "67" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "81" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "119" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "74" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "108" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "84" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="19">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "37" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "89" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "148" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "66" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "61" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "90" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "79" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "106" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "81" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "91" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="111">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "53" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="99">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "151" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="109">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "42" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "73" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "68" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="64">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "74" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "47" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="19">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "81" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="119">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "57" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="38">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "48" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="111">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "55" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "78" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "44" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="17">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "148" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "86" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "76" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "113" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="19">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "147" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="103">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "36" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="43">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "84" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="20">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "110" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "118" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "102" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "112" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "69" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "93" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "103" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "66" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="36">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "82" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="35">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "111" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="18">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "80" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="69">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "69" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="42">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "58" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "89" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="29">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "121" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="154">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "52" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "146" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "53" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="30">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "86" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "75" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="18">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "122" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "145" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "91" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="158">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "113" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="26">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "88" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "51" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "59" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="124">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "56" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="120">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "51" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "122" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="27">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "120" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="16">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "150" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="26">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "122" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="21">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "75" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="169">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "69" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="42">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "71" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="73">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "107" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "146" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="35">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "73" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="18">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "85" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="42">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "106" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="141">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "112" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="32">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "119" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="314">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="415">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "55" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "107" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="67">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "104" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="47">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "103" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="255">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="180">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "146" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="24">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "89" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="50">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "87" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="138">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "59" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="481">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "118" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="28">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "45" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="587">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "51" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="46">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "82" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="19">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "87" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="35">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "68" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="53">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "80" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="73">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="768">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "41" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="246">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "85" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="589">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "56" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="774">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "52" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="467">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "53" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="328">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "78" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="69">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "76" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="404">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "57" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="314">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "66" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="141">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "79" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="432">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "80" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1698">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "40" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="66">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "72" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="216">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "68" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1184">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "119" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="39">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "147" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="943">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "121" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1094">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "44" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="25">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "77" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="325">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "63" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="291">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "167" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="656">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "45" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="196">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "120" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="499">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="580">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="716">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "73" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="326">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "150" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1031">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "48" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1569">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "46" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="837">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "82" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="470">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "67" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1407">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "50" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="664">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "54" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1820">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2286">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "117" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2956">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "102" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4561">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "115" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2780">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "100" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4607">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "110" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1511">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "109" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2795">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "99" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7711">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1414">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "98" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3458">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "112" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8080">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="162">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "77" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8909">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6622">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "111" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="941">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "103" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1836">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "108" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4898">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "114" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5966">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "105" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3002">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "104" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="611">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "84" in the font program "JKMEAC+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "46" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="18">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "115" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="18">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "98" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="56">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="24">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "114" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="17">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "99" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="17">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "105" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "100" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "77" in the font program "JKMDPB+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "41" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="162">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "54" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="21">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "167" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="126">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "108" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="20">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="16">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "40" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="96">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "117" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="32">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "98" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="131">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "102" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="45">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "118" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="123">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "100" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="403">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="80">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "109" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="147">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "99" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="206">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "110" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="282">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "105" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="199">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "115" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="271">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "111" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="208">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "114" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "71" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "58" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="79">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "46" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="159">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="44">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "67" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="123">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "50" in the font program "JKMDPC+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "54" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "85" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "68" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "87" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "71" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "41" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "106" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "44" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "120" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="17">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "67" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "58" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "69" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="15">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "66" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "34" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "78" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "68" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "52" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "56" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "54" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "86" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "107" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "120" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="15">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "80" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "74" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "76" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "40" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "53" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "122" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "113" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "79" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "76" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "71" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="21">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "72" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="15">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "103" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "87" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="18">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "69" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "74" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "40" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "57" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "147" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="30">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "80" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="15">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "73" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="40">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "48" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="41">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "52" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "48" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "55" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "85" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="27">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "121" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="16">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "50" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "46" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="25">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "82" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "77" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="14">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "100" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="23">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "67" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "51" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="94">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "112" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="87">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "104" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="37">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "98" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="64">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "102" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "44" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="48">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "109" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="22">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "118" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "45" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="63">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "108" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="105">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "99" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="31">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "103" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="253">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "111" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="287">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="27">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "119" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="272">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="187">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "105" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="230">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="73">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "117" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="86">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "100" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="177">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "110" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="152">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "114" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="151">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "115" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="34">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "84" in the font program "JKMDFD+NewsGothic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "51" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="22">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="28">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "57" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="87">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "46" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="69">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "82" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="16">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "88" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="31">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "118" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="14">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "117" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "98" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="17">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "99" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "109" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="17">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "102" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="42">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "108" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="38">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "110" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="54">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "105" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="31">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "114" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="102">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="22">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "112" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="61">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "121" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="27">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "115" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="67">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "104" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="100">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "73" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="43">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "84" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "79" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "72" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="38">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "55" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="68">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "77" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "56" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="196">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "50" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="82">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "111" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "78" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="31">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "66" in the font program "JKMDCE+NewsGothic-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+  </errors>
+</preflight>

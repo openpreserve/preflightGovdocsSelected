@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="400786.pdf">
+  <executionTimeMS>3754</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="40213">
+    <error count="54">
+      <code>1.2.5</code>
+      <details>Body Syntax error, Stream length is invalide</details>
+    </error>
+    <error count="51">
+      <code>2.4.2</code>
+      <details>Invalid Color space, The operator "K" can't be used with RGB Profile</details>
+    </error>
+    <error count="2050">
+      <code>2.4.2</code>
+      <details>Invalid Color space, The operator "k" can't be used with RGB Profile</details>
+    </error>
+    <error count="1041">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f*" can't be used without Color Profile</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Expecting namespace 'adobe:ns:meta/' and found 'http://www.w3.org/1999/02/22-rdf-syntax-ns#'</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "50" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "48" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "51" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "41" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "31" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "42" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "30" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "53" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "2" in the font program "Times.New.Roman01502443"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "47" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "72" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "18" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "38" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "28" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "46" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "9" in the font program "Times.New.Roman01502443"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "71" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "19" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "8" in the font program "Times.New.Roman01502443"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "64" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "68" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "29" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "20" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "34" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "45" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "22" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "36" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "7" in the font program "Times.New.Roman01502443"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "35" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "63" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="17">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "33" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "55" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "6" in the font program "Times.New.Roman01502443"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="29">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "52" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="76">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "3" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="36">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "44" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "2" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="14">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "24" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "40" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "4" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1743">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "17" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="22">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "26" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1365">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "21" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="20">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "25" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="420">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "23" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "1" in the font program "Times.New.Roman01502443"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="897">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "9" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="814">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "16" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1802">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "13" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "5" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3197">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "11" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1442">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "8" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1105">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "7" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2686">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "15" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2323">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "10" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1586">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "14" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4462">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "12" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9634">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "6" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "1" in the font program "Arial01502446"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="55">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "3" in the font program "Arial.Bold01502441"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="55">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "13" in the font program "Arial.Bold01502441"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="52">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "1" in the font program "Arial.Bold01502441"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="51">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "12" in the font program "Century.Gothic01502449"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="51">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "26" in the font program "Century.Gothic01502449"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="51">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "23" in the font program "Century.Gothic01502449"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="102">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "19" in the font program "Century.Gothic01502449"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="102">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "2" in the font program "Century.Gothic01502449"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="24">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "34" in the font program "Century.Gothic01502449"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="204">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "Century.Gothic01502449"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="306">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "29" in the font program "Century.Gothic01502449"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="204">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "17" in the font program "Century.Gothic01502449"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="153">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "20" in the font program "Century.Gothic01502449"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="153">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "3" in the font program "Century.Gothic01502449"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="102">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "18" in the font program "Century.Gothic01502449"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="435">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "16" in the font program "Century.Gothic01502449"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="357">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "14" in the font program "Century.Gothic01502449"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="612">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "5" in the font program "Century.Gothic01502449"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="51">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "1" in the font program "Century.Gothic01502449"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+  </errors>
+</preflight>

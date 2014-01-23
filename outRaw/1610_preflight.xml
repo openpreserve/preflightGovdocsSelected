@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="694282.pdf">
+  <executionTimeMS>2170</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="2459">
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "0" in the font program "XPWMSG+MTSYN~106"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "61" in the font program "YZIRZR+RMTMI"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "14" in the font program "LHHLKB+MTSYN~46"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "2" in the font program "YWFNOL+MTSYN"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "LHHLKB+MTSYN~46"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="684">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "103" in the font program "YWFNOL+MTSYN"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="685">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "102" in the font program "YWFNOL+MTSYN"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="296">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "15" in the font program "YWFNOL+MTSYN"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.1</code>
+      <details>Invalid Font definition, Some required fields are missing from the Font dictionary.</details>
+    </error>
+    <error count="18">
+      <code>3.1.2</code>
+      <details>Invalid Font definition, FontDescriptor is null or is a AFM Descriptor</details>
+    </error>
+    <error count="1">
+      <code>1.2.1</code>
+      <details>Body Syntax error, EOL expected before the 'endobj' keyword</details>
+    </error>
+    <error count="54">
+      <code>1.2.2</code>
+      <details>Body Syntax error, Expected 'EOL' before the endstream keyword</details>
+    </error>
+    <error count="59">
+      <code>1.2.5</code>
+      <details>Body Syntax error, Stream length is invalide</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+    <error count="1">
+      <code>1.4.1</code>
+      <details>Trailer Syntax error, The trailer dictionary doesn't contain ID</details>
+    </error>
+    <error count="642">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+  </errors>
+</preflight>

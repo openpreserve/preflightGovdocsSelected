@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="870282.pdf">
+  <executionTimeMS>3693</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="14097">
+    <error count="1">
+      <code>1.4.6</code>
+      <details>Trailer Syntax error, ID is different in the first and the last trailer</details>
+    </error>
+    <error count="176">
+      <code>1.2.1</code>
+      <details>Body Syntax error, Single space expected</details>
+    </error>
+    <error count="1">
+      <code>7.2</code>
+      <details>Error on MetaData, Title present in the document catalog dictionary doesn't match with XMP information</details>
+    </error>
+    <error count="1">
+      <code>7.11</code>
+      <details>Error on MetaData</details>
+    </error>
+    <error count="11">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f*" can't be used without Color Profile</details>
+    </error>
+    <error count="1009">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="199">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "g" can't be used without Color Profile</details>
+    </error>
+    <error count="69">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "G" can't be used without Color Profile</details>
+    </error>
+    <error count="6">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="1">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "rg" can't be used with CMYK Profile</details>
+    </error>
+    <error count="1">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "RG" can't be used with CMYK Profile</details>
+    </error>
+    <error count="1">
+      <code>3.1.5</code>
+      <details>Invalid Font definition, The Encoding should be missing for the Symbolic TTF</details>
+    </error>
+    <error count="46">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "WWWGMR+Symbol"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "BOMGMR+Times-BoldItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "VTIHMR+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="21">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "FYEGMR+Helvetica-BoldOblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="473">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "JVSGMR+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="179">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11242">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="178">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "WXXGMR+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="469">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "TZMHMR+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+  </errors>
+</preflight>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="703396.pdf">
+  <executionTimeMS>2309</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="108">
+    <error count="1">
+      <code>2.1.7</code>
+      <details>Invalid Graphis object</details>
+    </error>
+    <error count="1">
+      <code>7.11</code>
+      <details>Error on MetaData</details>
+    </error>
+    <error count="105">
+      <code>1.2.1</code>
+      <details>Body Syntax error, Single space expected</details>
+    </error>
+    <error count="1">
+      <code>1.4.6</code>
+      <details>Trailer Syntax error, ID is different in the first and the last trailer</details>
+    </error>
+  </errors>
+</preflight>

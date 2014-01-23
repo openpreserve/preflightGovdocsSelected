@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="916511.pdf">
+  <executionTimeMS>1875</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="623">
+    <error count="142">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "NPCWEB+NewCenturySchlbk-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="472">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "FWDXEB+MIonic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+    <error count="1">
+      <code>1.4.1</code>
+      <details>Trailer Syntax error, The trailer dictionary doesn't contain ID</details>
+    </error>
+    <error count="1">
+      <code>1.2.1</code>
+      <details>Body Syntax error, EOL expected before the 'endobj' keyword</details>
+    </error>
+    <error count="3">
+      <code>1.2.2</code>
+      <details>Body Syntax error, Expected 'EOL' before the endstream keyword</details>
+    </error>
+    <error count="3">
+      <code>1.2.5</code>
+      <details>Body Syntax error, Stream length is invalide</details>
+    </error>
+  </errors>
+</preflight>

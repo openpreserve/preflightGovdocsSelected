@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="732688.pdf">
+  <executionTimeMS>1453</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="28">
+    <error count="7">
+      <code>3.1.5</code>
+      <details>Invalid Font definition, The Encoding is invalid for the NonSymbolic TTF</details>
+    </error>
+    <error count="20">
+      <code>1.2.1</code>
+      <details>Body Syntax error, EOL expected before the 'endobj' keyword</details>
+    </error>
+    <error count="1">
+      <code>7.2</code>
+      <details>Error on MetaData, CreationDate present in the document catalog dictionary doesn't match with XMP information</details>
+    </error>
+  </errors>
+</preflight>

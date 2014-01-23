@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="486549.pdf">
+  <executionTimeMS>1377</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="1423">
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+    <error count="34">
+      <code>8.1</code>
+      <details>Unknown error, Unable to process an element if it is null.</details>
+    </error>
+    <error count="1286">
+      <code>3.3.2</code>
+      <details>Glyph error, Courier is unknown wasn't found by the FontHelperValdiator</details>
+    </error>
+    <error count="34">
+      <code>1.2.2</code>
+      <details>Body Syntax error, Expected 'EOL' before the endstream keyword</details>
+    </error>
+    <error count="34">
+      <code>1.2.5</code>
+      <details>Body Syntax error, Stream length is invalide</details>
+    </error>
+    <error count="34">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "rg" can't be used with CMYK Profile</details>
+    </error>
+  </errors>
+</preflight>

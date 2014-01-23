@@ -1,0 +1,1271 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="780678.pdf">
+  <executionTimeMS>5964</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="49775">
+    <error count="1">
+      <code>1.4.6</code>
+      <details>Trailer Syntax error, ID is different in the first and the last trailer</details>
+    </error>
+    <error count="857">
+      <code>1.2.1</code>
+      <details>Body Syntax error, Single space expected</details>
+    </error>
+    <error count="1">
+      <code>7.11</code>
+      <details>Error on MetaData</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "118" in the font program "Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "119" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "103" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "115" in the font program "Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "40" in the font program "Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "79" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "52" in the font program "LucidaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "74" in the font program "LucidaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "59" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "54" in the font program "LucidaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "174" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "119" in the font program "LucidaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "102" in the font program "Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "51" in the font program "LucidaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "146" in the font program "Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "145" in the font program "Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "61" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "76" in the font program "LucidaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "117" in the font program "LucidaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "87" in the font program "Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "44" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "118" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "58" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "71" in the font program "LucidaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "102" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "86" in the font program "Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="18">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "106" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "86" in the font program "LucidaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="14">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "107" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="18">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "105" in the font program "Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "66" in the font program "Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "45" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "98" in the font program "Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "111" in the font program "Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "121" in the font program "Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="27">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "89" in the font program "LucidaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="14">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "87" in the font program "LucidaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="17">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "84" in the font program "Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="43">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "36" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "40" in the font program "LucidaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "LucidaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "43" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="202">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "41" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "41" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "88" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="36">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "90" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="55">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "75" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "85" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "74" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="16">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "47" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="20">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "113" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="83">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "88" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "105" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="17">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "121" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "66" in the font program "LucidaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "44" in the font program "Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="17">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "69" in the font program "Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "81" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "118" in the font program "LucidaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "76" in the font program "Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "77" in the font program "Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "82" in the font program "Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "68" in the font program "Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "61" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="16">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "73" in the font program "LucidaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="70">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="23">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "85" in the font program "Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="39">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "72" in the font program "Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="125">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "76" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="39">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "LucidaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "85" in the font program "LucidaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="32">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "50" in the font program "Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "73" in the font program "Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "80" in the font program "Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="25">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "67" in the font program "Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="14">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="21">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "78" in the font program "Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "68" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="24">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "66" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "82" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "77" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "93" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="15">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "82" in the font program "LucidaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "104" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "78" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="15">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "115" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="29">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "72" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "91" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="41">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "111" in the font program "LucidaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="42">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "109" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "102" in the font program "LucidaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "99" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="118">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "51" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "110" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="36">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "74" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="83">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "67" in the font program "LucidaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="242">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "119" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="24">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "79" in the font program "LucidaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="148">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "117" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="319">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "98" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="16">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "122" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="85">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "86" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="235">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "68" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="536">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "40" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="125">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "87" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="72">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "21" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="85">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "54" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="30">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "57" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="46">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "56" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="64">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "53" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="90">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "52" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="14">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "80" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="100">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "103" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="50">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "55" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="147">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "46" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="41">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "84" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="448">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "50" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="397">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="323">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "121" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="38">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "112" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="22">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "121" in the font program "LucidaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "84" in the font program "LucidaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="50">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "98" in the font program "LucidaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="87">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "60" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="65">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "146" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="86">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "71" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="74">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "145" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="90">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "44" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="14">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "38" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="418">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "77" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="280">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "110" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="538">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "102" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="432">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "114" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="350">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "109" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1416">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "55" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1965">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "52" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="868">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "48" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1272">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "57" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1750">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "53" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1635">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "54" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1314">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "56" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="361">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "104" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="396">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "78" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="84">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "118" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="556">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "99" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2317">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "51" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="170">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "108" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="186">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="344">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "73" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="712">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "112" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="220">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "79" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="730">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "115" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="298">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "72" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5366">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="457">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "100" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="318">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "84" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="334">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="52">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "89" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="482">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "105" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1368">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="221">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "82" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="386">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "80" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="174">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "69" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4199">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "46" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "36" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="53">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "114" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="57">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "40" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="22">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "100" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="72">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "111" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "98" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="38">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "73" in the font program "Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="78">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "91" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="71">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "80" in the font program "LucidaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="106">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "50" in the font program "LucidaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="54">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "LucidaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="43">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "LucidaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "44" in the font program "LucidaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="23">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "69" in the font program "LucidaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "55" in the font program "OEEFOG+LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "52" in the font program "OEEFOG+LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "57" in the font program "OEEFOG+LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "54" in the font program "OEEFOG+LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "56" in the font program "OEEFOG+LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "51" in the font program "OEEFOG+LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "OEEFOG+LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "50" in the font program "OEEFOG+LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "51" in the font program "Myriad-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "50" in the font program "Myriad-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "Myriad-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "53" in the font program "Myriad-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "48" in the font program "Myriad-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "114" in the font program "OEEFOG+LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "84" in the font program "OEEFOG+LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "73" in the font program "OEEFOG+LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "100" in the font program "OEEFOG+LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "OEEFOH+LucidaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "78" in the font program "OEEFOH+LucidaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "OEEFOG+LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "OEEFOG+LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "OEEFOG+LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "99" in the font program "OEEFOG+LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "OEEFOG+LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "77" in the font program "OEEFOG+LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "LucidaSans-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "87" in the font program "LucidaSans-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "45" in the font program "LucidaSans-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "71" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="24">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "105" in the font program "LucidaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="33">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "68" in the font program "LucidaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "LucidaSans-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "73" in the font program "LucidaSans-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "78" in the font program "LucidaSans-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "102" in the font program "LucidaSans-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "111" in the font program "LucidaSans-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "68" in the font program "LucidaSans-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "122" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "69" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "53" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "121" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "144" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "114" in the font program "LucidaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "73" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3511">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "50" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="933">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1381">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "111" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="584">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="671">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="340">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "66" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="463">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "67" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="248">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "85" in the font program "Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "57" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "79" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "50" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "54" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "74" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="69">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "LucidaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="22">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "77" in the font program "LucidaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "71" in the font program "LucidaSans-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "103" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="15">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "119" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "86" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "45" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "118" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "132" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="14">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "LucidaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "104" in the font program "LucidaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "108" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "69" in the font program "LucidaSans-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "80" in the font program "LucidaSans-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "80" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "LucidaSans-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "44" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "76" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "117" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "66" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "105" in the font program "LucidaSans-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "86" in the font program "LucidaSans-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="126">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "46" in the font program "LucidaSans-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "82" in the font program "LucidaSans-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "LucidaSans-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "67" in the font program "LucidaSans-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "LucidaSans-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "77" in the font program "LucidaSans-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "47" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "46" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "60" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "87" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="17">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "38" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="14">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "68" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "LucidaSans-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "85" in the font program "LucidaSans-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "72" in the font program "LucidaSans-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="17">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "40" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="55">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "72" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "67" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="56">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "78" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "85" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="36">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "98" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="34">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "114" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="84">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="40">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "100" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="48">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "102" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="26">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "110" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="33">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "109" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="21">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "77" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="81">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "99" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="63">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "105" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="284">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="47">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "104" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="123">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "111" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="157">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="79">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "112" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="65">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "115" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="97">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "84" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="17">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "78" in the font program "LucidaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="69">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "LucidaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="46">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "72" in the font program "LucidaSans-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "51" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="27">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "LucidaSans"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+  </errors>
+</preflight>

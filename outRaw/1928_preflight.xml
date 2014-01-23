@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="624366.pdf">
+  <executionTimeMS>3940</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="14495">
+    <error count="2">
+      <code>1.2.1</code>
+      <details>Body Syntax error, EOL expected before the 'endobj' keyword</details>
+    </error>
+    <error count="18">
+      <code>1.2.2</code>
+      <details>Body Syntax error, Expected 'EOL' before the endstream keyword</details>
+    </error>
+    <error count="18">
+      <code>1.2.5</code>
+      <details>Body Syntax error, Stream length is invalide</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+    <error count="107">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f*" can't be used without Color Profile</details>
+    </error>
+    <error count="1309">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="570">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "rg" can't be used with CMYK Profile</details>
+    </error>
+    <error count="173">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "RG" can't be used with CMYK Profile</details>
+    </error>
+    <error count="8">
+      <code>3.1.5</code>
+      <details>Invalid Font definition, The Encoding should be missing for the Symbolic TTF</details>
+    </error>
+    <error count="33">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "OGFWAA+Times-BoldItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="393">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "FXZQPE+Courier"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="47">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "VEBRXE+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="162">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "EDAFJC+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="80">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "QQNUHP+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="336">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "UMETOG+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11237">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "FULARF+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.9</code>
+      <details>Invalid Font definition</details>
+    </error>
+  </errors>
+</preflight>

@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="909407.pdf">
+  <executionTimeMS>16312</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="652554">
+    <error count="1">
+      <code>1.4.6</code>
+      <details>Trailer Syntax error, ID is different in the first and the last trailer</details>
+    </error>
+    <error count="1660">
+      <code>1.2.1</code>
+      <details>Body Syntax error, Single space expected</details>
+    </error>
+    <error count="1">
+      <code>7.11</code>
+      <details>Error on MetaData</details>
+    </error>
+    <error count="3">
+      <code>2.4.2</code>
+      <details>Invalid Color space, The operator "k" can't be used with RGB Profile</details>
+    </error>
+    <error count="36">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="3">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="333">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "rg" can't be used with CMYK Profile</details>
+    </error>
+    <error count="7">
+      <code>3.1.4</code>
+      <details>Invalid Font definition, The Charset entry is missing for the Type1 Subset</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "47" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "150" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "58" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "145" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="38">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "91" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "38" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="29">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "47" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="232">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "74" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "63" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "93" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="160">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "151" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="250">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "90" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="301">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "146" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2624">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "51" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1082">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "81" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2960">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "150" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3785">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "66" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3548">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "55" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="548">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "41" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="530">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "40" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2851">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "50" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5407">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "86" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1437">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "75" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="16515">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "76" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="26883">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "73" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7204">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "77" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3166">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "58" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="14155">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "67" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="21573">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "78" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9990">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "72" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12472">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "68" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12864">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "57" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5112">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "89" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="15868">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "80" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="59755">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "69" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8834">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "88" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="41280">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="46297">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8586">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "87" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="38531">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "79" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="41886">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "82" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11212">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "71" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10014">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "85" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "90" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "89" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="15">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "87" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "86" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "82" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "78" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="21">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "77" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "79" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="16">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "76" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "75" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "73" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="23">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "72" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "68" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="16">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "98" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="47">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "56" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "122" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "113" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "120" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="22">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "121" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "112" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="46">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "57" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="53">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "55" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="59">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "54" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="20">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "104" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="24">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "99" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="49">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "52" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="71">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "51" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "119" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="206">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "110" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="137">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "102" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "106" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="26">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "59" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5953">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "120" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "119" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "121" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "112" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5761">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "46" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8650">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3806">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "48" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="25">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "100" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3367">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "54" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3527">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "56" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3328">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "52" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3163">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "53" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "118" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="47">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "110" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "102" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="67">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7284">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "45" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="22">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "117" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="37">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="29">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "99" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11934">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "44" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="39">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "109" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="43">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "114" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="21">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "104" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="21">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "103" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="44">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "111" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="49">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "105" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="22">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "108" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "98" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="92369">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="33">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "115" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="44066">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "84" in the font program "CIONDE+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "69" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="69">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "108" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "111" in the font program "CIONCE+Univers-CondensedLightOblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "CIONCE+Univers-CondensedLightOblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "CIONCE+Univers-CondensedLightOblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "105" in the font program "CIONCE+Univers-CondensedLightOblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "CIONCE+Univers-CondensedLightOblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "100" in the font program "CIONCE+Univers-CondensedLightOblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "CIONCE+Univers-CondensedLightOblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "103" in the font program "CIONCE+Univers-CondensedLightOblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "CIONCE+Univers-CondensedLightOblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="54">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "53" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="43">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "48" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="126">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "50" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="25">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "103" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="66">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "115" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "118" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="171">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "117" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "85" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "80" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="122">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="23">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="289">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="119">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "111" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="15">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "71" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "74" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "44" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="86">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "114" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="14">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "107" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="92">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8555">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "84" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7578">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "46" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="20">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "66" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="32">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "100" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="65">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "105" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="27">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "109" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="108">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "67" in the font program "CIOMPD+Univers-Condensed"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+  </errors>
+</preflight>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="911541.pdf">
+  <executionTimeMS>5135</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="140679">
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+    <error count="1">
+      <code>1.4.1</code>
+      <details>Trailer Syntax error, The trailer dictionary doesn't contain ID</details>
+    </error>
+    <error count="1">
+      <code>1.2.1</code>
+      <details>Body Syntax error, EOL expected before the 'endobj' keyword</details>
+    </error>
+    <error count="536">
+      <code>1.2.2</code>
+      <details>Body Syntax error, Expected 'EOL' before the endstream keyword</details>
+    </error>
+    <error count="539">
+      <code>1.2.5</code>
+      <details>Body Syntax error, Stream length is invalide</details>
+    </error>
+    <error count="1">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "VUULMR+NewCenturySchlbk-BoldItalic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "LQYMMR+Gpospec5"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="225">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "MUNMMR+MIonic-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6879">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "ZRIMMR+NewCenturySchlbk-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="132492">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "RKCMMR+MIonic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+  </errors>
+</preflight>

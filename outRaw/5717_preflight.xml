@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="453958.pdf">
+  <executionTimeMS>1082</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="3">
+    <error count="3">
+      <code>7.1</code>
+      <details>Error on MetaData, No type defined for {http://ns.adobe.com/xap/1.0/}Title</details>
+    </error>
+  </errors>
+</preflight>

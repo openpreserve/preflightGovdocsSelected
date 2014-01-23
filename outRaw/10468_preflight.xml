@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="025977.pdf">
+  <executionTimeMS>1197</executionTimeMS>
+  <isValid type="">false</isValid>
+  <exceptionThrown>
+    <message>For input string: "/bullet"</message>
+    <stackTrace>java.lang.NumberFormatException: For input string: "/bullet"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:481)
+	at java.lang.Integer.parseInt(Integer.java:527)
+	at org.apache.pdfbox.preflight.font.util.Type1Parser.parseCharStringArray(Type1Parser.java:321)
+	at org.apache.pdfbox.preflight.font.util.Type1Parser.parseEExecPart(Type1Parser.java:297)
+	at org.apache.pdfbox.preflight.font.util.Type1Parser.decodeAndParseEExecPart(Type1Parser.java:203)
+	at org.apache.pdfbox.preflight.font.util.Type1Parser.parse(Type1Parser.java:188)
+	at org.apache.pdfbox.preflight.font.descriptor.Type1DescriptorHelper.processFontFile1(Type1DescriptorHelper.java:155)
+	at org.apache.pdfbox.preflight.font.descriptor.Type1DescriptorHelper.processFontFile(Type1DescriptorHelper.java:124)
+	at org.apache.pdfbox.preflight.font.descriptor.FontDescriptorHelper.validate(FontDescriptorHelper.java:97)
+	at org.apache.pdfbox.preflight.font.SimpleFontValidator.processFontDescriptorValidation(SimpleFontValidator.java:82)
+	at org.apache.pdfbox.preflight.font.SimpleFontValidator.validate(SimpleFontValidator.java:55)
+	at org.apache.pdfbox.preflight.process.reflect.FontValidationProcess.validate(FontValidationProcess.java:69)
+	at org.apache.pdfbox.preflight.utils.ContextHelper.callValidation(ContextHelper.java:73)
+	at org.apache.pdfbox.preflight.utils.ContextHelper.validateElement(ContextHelper.java:52)
+	at org.apache.pdfbox.preflight.process.reflect.ResourcesValidationProcess.validateFonts(ResourcesValidationProcess.java:96)
+	at org.apache.pdfbox.preflight.process.reflect.ResourcesValidationProcess.validate(ResourcesValidationProcess.java:74)
+	at org.apache.pdfbox.preflight.utils.ContextHelper.callValidation(ContextHelper.java:73)
+	at org.apache.pdfbox.preflight.utils.ContextHelper.validateElement(ContextHelper.java:52)
+	at org.apache.pdfbox.preflight.process.reflect.SinglePageValidationProcess.validateResources(SinglePageValidationProcess.java:163)
+	at org.apache.pdfbox.preflight.process.reflect.SinglePageValidationProcess.validate(SinglePageValidationProcess.java:82)
+	at org.apache.pdfbox.preflight.utils.ContextHelper.callValidation(ContextHelper.java:73)
+	at org.apache.pdfbox.preflight.utils.ContextHelper.validateElement(ContextHelper.java:52)
+	at org.apache.pdfbox.preflight.process.PageTreeValidationProcess.validatePage(PageTreeValidationProcess.java:58)
+	at org.apache.pdfbox.preflight.process.PageTreeValidationProcess.validate(PageTreeValidationProcess.java:47)
+	at org.apache.pdfbox.preflight.utils.ContextHelper.callValidation(ContextHelper.java:73)
+	at org.apache.pdfbox.preflight.utils.ContextHelper.validateElement(ContextHelper.java:88)
+	at org.apache.pdfbox.preflight.PreflightDocument.validate(PreflightDocument.java:169)
+	at org.apache.pdfbox.preflight.parser.XmlResultParser.validate(XmlResultParser.java:68)
+	at org.apache.pdfbox.preflight.parser.XmlResultParser.validate(XmlResultParser.java:49)
+	at org.apache.pdfbox.preflight.Validator_A1b.main(Validator_A1b.java:131)
+</stackTrace>
+  </exceptionThrown>
+</preflight>

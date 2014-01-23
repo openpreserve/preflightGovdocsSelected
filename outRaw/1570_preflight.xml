@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="869772.pdf">
+  <executionTimeMS>115</executionTimeMS>
+  <isValid type="">false</isValid>
+  <errors count="3">
+    <error count="1">
+      <code>1.0</code>
+      <details>Syntax error, Error: Expected a long type at offset 173</details>
+    </error>
+    <error count="1">
+      <code>1.1</code>
+      <details>Body Syntax error, Second line must contains at least 4 bytes greater than 127</details>
+    </error>
+    <error count="1">
+      <code>1.1</code>
+      <details>Body Syntax error, First line must match %PDF-1.\d</details>
+    </error>
+  </errors>
+</preflight>

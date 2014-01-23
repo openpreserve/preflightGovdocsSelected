@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="181842.pdf">
+  <executionTimeMS>2841</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="559">
+    <error count="1">
+      <code>2.1.3</code>
+      <details>Invalid Graphis object, The S entry of the OutputIntent isn't GTS_PDFA1</details>
+    </error>
+    <error count="537">
+      <code>2.4.2</code>
+      <details>Invalid Color space, The operator "K" can't be used with RGB Profile</details>
+    </error>
+    <error count="10">
+      <code>2.4.2</code>
+      <details>Invalid Color space, The operator "k" can't be used with RGB Profile</details>
+    </error>
+    <error count="9">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="1">
+      <code>2.4.1</code>
+      <details>Invalid Color space, DestOutputProfile isn't RGB ColorSpace</details>
+    </error>
+    <error count="1">
+      <code>7.1.1</code>
+      <details>Error on MetaData, No type defined for {http://ns.adobe.com/pdf/1.3/}Trapped</details>
+    </error>
+  </errors>
+</preflight>

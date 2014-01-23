@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="302896.pdf">
+  <executionTimeMS>2127</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="38">
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for VXVQUP+TimesNewRomanPS-BoldMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for NVKJQA+TimesNewRomanPSMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for RLUSNR+TimesNewRomanPS-BoldMT</details>
+    </error>
+    <error count="2">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for NZOQJT+TimesNewRomanPSMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for XKRSNR+TimesNewRomanPS-BoldMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for RPOQJT+TimesNewRomanPSMT</details>
+    </error>
+    <error count="2">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for VDPSNR+TimesNewRomanPS-BoldMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for XMAYJT+TimesNewRomanPSMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for XIYFLM+TimesNewRomanPS-BoldMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for DIXEBE+TimesNewRomanPSMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for RNBJBS+TimesNewRomanPS-BoldItalicMT</details>
+    </error>
+    <error count="2">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for LAZQHI+TimesNewRomanPS-BoldMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for NXBJBS+TimesNewRomanPS-BoldItalicMT</details>
+    </error>
+    <error count="2">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for FLZNFC+TimesNewRomanPSMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for PCHWXF+TimesNewRomanPS-BoldItalicMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for ZDMNGS+TimesNewRomanPSMT</details>
+    </error>
+    <error count="1">
+      <code>3.2.2</code>
+      <details>Font damaged, The FontFile can't be read for FPRCKF+TimesNewRomanPS-BoldMT</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Expecting namespace 'adobe:ns:meta/' and found 'http://www.w3.org/1999/02/22-rdf-syntax-ns#'</details>
+    </error>
+    <error count="5">
+      <code>2.2.2</code>
+      <details>Invalid Graphis transparency, Soft Mask must be null or None</details>
+    </error>
+    <error count="5">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="6">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+  </errors>
+</preflight>

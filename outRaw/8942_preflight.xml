@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="136675.pdf">
+  <executionTimeMS>266</executionTimeMS>
+  <isValid type="">false</isValid>
+  <errors count="2">
+    <error count="1">
+      <code>1.0</code>
+      <details>Syntax error, Object (7:0) at offset 993 does not end with 'endobj'.</details>
+    </error>
+    <error count="1">
+      <code>1.1</code>
+      <details>Body Syntax error, Second line must contains at least 4 bytes greater than 127</details>
+    </error>
+  </errors>
+</preflight>

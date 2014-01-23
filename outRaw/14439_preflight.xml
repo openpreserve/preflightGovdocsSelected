@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="717864.pdf">
+  <executionTimeMS>2670</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="26667">
+    <error count="1">
+      <code>1.4.1</code>
+      <details>Trailer Syntax error, The trailer dictionary doesn't contain ID</details>
+    </error>
+    <error count="1">
+      <code>1.2.1</code>
+      <details>Body Syntax error, EOL expected before the 'endobj' keyword</details>
+    </error>
+    <error count="106">
+      <code>1.2.2</code>
+      <details>Body Syntax error, Expected 'EOL' before the endstream keyword</details>
+    </error>
+    <error count="107">
+      <code>1.2.5</code>
+      <details>Body Syntax error, Stream length is invalide</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+    <error count="121">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "KPARUP+MIonic-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2119">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "UTWPUP+NewCenturySchlbk-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="24211">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "LTPQUP+MIonic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+  </errors>
+</preflight>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="414814.pdf">
+  <executionTimeMS>154</executionTimeMS>
+  <isValid type="">false</isValid>
+  <exceptionThrown>
+    <message/>
+    <stackTrace>java.lang.NullPointerException
+	at org.apache.pdfbox.preflight.parser.PreflightParser.checkPdfHeader(PreflightParser.java:287)
+	at org.apache.pdfbox.preflight.parser.PreflightParser.parse(PreflightParser.java:194)
+	at org.apache.pdfbox.preflight.parser.PreflightParser.parse(PreflightParser.java:179)
+	at org.apache.pdfbox.preflight.parser.PreflightParser.parse(PreflightParser.java:167)
+	at org.apache.pdfbox.preflight.parser.XmlResultParser.validate(XmlResultParser.java:66)
+	at org.apache.pdfbox.preflight.parser.XmlResultParser.validate(XmlResultParser.java:49)
+	at org.apache.pdfbox.preflight.Validator_A1b.main(Validator_A1b.java:131)
+</stackTrace>
+  </exceptionThrown>
+</preflight>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="058679.pdf">
+  <executionTimeMS>1430</executionTimeMS>
+  <isValid type="">false</isValid>
+  <exceptionThrown>
+    <message>Unable to parse font metadata due to : Excepted xpacket 'end' attribute (must be present and placed in first)</message>
+    <stackTrace>org.apache.pdfbox.preflight.exception.ValidationException: Unable to parse font metadata due to : Excepted xpacket 'end' attribute (must be present and placed in first)
+	at org.apache.pdfbox.preflight.process.MetadataValidationProcess.validate(MetadataValidationProcess.java:135)
+	at org.apache.pdfbox.preflight.utils.ContextHelper.callValidation(ContextHelper.java:73)
+	at org.apache.pdfbox.preflight.utils.ContextHelper.validateElement(ContextHelper.java:88)
+	at org.apache.pdfbox.preflight.PreflightDocument.validate(PreflightDocument.java:169)
+	at org.apache.pdfbox.preflight.parser.XmlResultParser.validate(XmlResultParser.java:68)
+	at org.apache.pdfbox.preflight.parser.XmlResultParser.validate(XmlResultParser.java:49)
+	at org.apache.pdfbox.preflight.Validator_A1b.main(Validator_A1b.java:131)
+Caused by: org.apache.xmpbox.xml.XmpParsingException: Excepted xpacket 'end' attribute (must be present and placed in first)
+	at org.apache.xmpbox.xml.DomXmpParser.parseEndPacket(DomXmpParser.java:662)
+	at org.apache.xmpbox.xml.DomXmpParser.parse(DomXmpParser.java:165)
+	at org.apache.xmpbox.xml.DomXmpParser.parse(DomXmpParser.java:106)
+	at org.apache.pdfbox.preflight.process.MetadataValidationProcess.validate(MetadataValidationProcess.java:66)
+	... 6 more
+</stackTrace>
+  </exceptionThrown>
+</preflight>

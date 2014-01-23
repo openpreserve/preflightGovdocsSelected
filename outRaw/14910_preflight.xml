@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="141327.pdf">
+  <executionTimeMS>2938</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="26510">
+    <error count="1">
+      <code>1.4.6</code>
+      <details>Trailer Syntax error, ID is different in the first and the last trailer</details>
+    </error>
+    <error count="1">
+      <code>7.11</code>
+      <details>Error on MetaData</details>
+    </error>
+    <error count="2256">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="188">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "rg" can't be used with CMYK Profile</details>
+    </error>
+    <error count="188">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "RG" can't be used with CMYK Profile</details>
+    </error>
+    <error count="8">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "93" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "60" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "86" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="4">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "61" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="14">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "97" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "62" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="3">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "65" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "76" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="5">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "80" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="21">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "91" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "82" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "83" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "73" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="4">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "75" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="9">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "49" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="6">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "77" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="6">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "92" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="9">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "74" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="25">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "96" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "79" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "64" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="13">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "48" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="31">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "78" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="27">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "57" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="7">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "72" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="10">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "63" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="13">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "66" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="11">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "50" in the font program "AAAAAB+Arial"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="11">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "49" in the font program "AAAAAB+Arial"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="7">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "89" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="11">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "48" in the font program "AAAAAB+Arial"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="297">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "44" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="11">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "47" in the font program "AAAAAB+Arial"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="11">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "46" in the font program "AAAAAB+Arial"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="11">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "45" in the font program "AAAAAB+Arial"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="11">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "44" in the font program "AAAAAB+Arial"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="309">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "59" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="111">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "41" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="11">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "43" in the font program "AAAAAB+Arial"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="121">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "95" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="508">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "43" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="385">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "37" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="1152">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "40" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="155">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "58" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="3021">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "36" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="1920">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "45" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="100">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "42" in the font program "AAAAAB+Arial"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="188">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "33" in the font program "AAAAAB+Arial"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="1411">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "38" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="330">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "54" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="263">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "34" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="2479">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "42" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="442">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "46" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="387">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "39" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="233">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "56" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="1388">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "35" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="763">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "53" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="6324">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "52" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="188">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "47" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+    <error count="1077">
+      <code>3.3.1</code>
+      <details>Glyph error, The character "33" in the font program "AAAAAA+Courier-New-Bold"is missing from the Charater Encoding.</details>
+    </error>
+  </errors>
+</preflight>

@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="146354.pdf">
+  <executionTimeMS>2609</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="8374">
+    <error count="1">
+      <code>1.4.6</code>
+      <details>Trailer Syntax error, ID is different in the first and the last trailer</details>
+    </error>
+    <error count="8">
+      <code>1.2.12</code>
+      <details>Body Syntax error, This filter isn't defined in the PDF Reference Third Edition : LZWDecode</details>
+    </error>
+    <error count="8">
+      <code>1.2.7</code>
+      <details>Body Syntax error, LZWDecode is forbidden</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+    <error count="7">
+      <code>2.4.2</code>
+      <details>Invalid Color space, The operator "K" can't be used with RGB Profile</details>
+    </error>
+    <error count="19">
+      <code>2.4.2</code>
+      <details>Invalid Color space, The operator "k" can't be used with RGB Profile</details>
+    </error>
+    <error count="6">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "g" can't be used without Color Profile</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "89" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "54" in the font program "GNKLMC+NewCenturySchlbk-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "53" in the font program "GNKLMC+NewCenturySchlbk-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "52" in the font program "GNKLMC+NewCenturySchlbk-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "51" in the font program "GNKLMC+NewCenturySchlbk-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "GNNABA+OurOwn-CJS"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "140" in the font program "GNNABA+OurOwn-CJS"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "106" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "120" in the font program "GNKLDI+NewCenturySchlbk-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "69" in the font program "GNNABA+OurOwn-CJS"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "GNKLMC+NewCenturySchlbk-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "GNKLMC+NewCenturySchlbk-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "105" in the font program "GNKLDI+NewCenturySchlbk-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "86" in the font program "GNKLDI+NewCenturySchlbk-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "GNKLDI+NewCenturySchlbk-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "73" in the font program "GNKLDI+NewCenturySchlbk-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "113" in the font program "GNKLDI+NewCenturySchlbk-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="17">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "37" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "90" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "133" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="19">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "78" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "208" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "119" in the font program "GNKLDI+NewCenturySchlbk-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "103" in the font program "GNKLDI+NewCenturySchlbk-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "110" in the font program "GNKLDI+NewCenturySchlbk-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "73" in the font program "GNKLMC+NewCenturySchlbk-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "84" in the font program "GNKLMC+NewCenturySchlbk-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "39" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "115" in the font program "GNKLDI+NewCenturySchlbk-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "122" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "81" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "113" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="16">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "174" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "93" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "91" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "76" in the font program "GNKLDI+NewCenturySchlbk-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "77" in the font program "GNKLDI+NewCenturySchlbk-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "98" in the font program "GNKLDI+NewCenturySchlbk-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="24">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "78" in the font program "GNKLDI+NewCenturySchlbk-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "112" in the font program "GNKLDI+NewCenturySchlbk-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "84" in the font program "GNKLDI+NewCenturySchlbk-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "47" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "66" in the font program "GNKLDI+NewCenturySchlbk-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "201" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="14">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "50" in the font program "GNKLMC+NewCenturySchlbk-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "GNKLDI+NewCenturySchlbk-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "67" in the font program "GNKLDI+NewCenturySchlbk-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "120" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "179" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="21">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "56" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="18">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "75" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="21">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "69" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "178" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="35">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "82" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "85" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "58" in the font program "GNKLDI+NewCenturySchlbk-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "80" in the font program "GNKLDI+NewCenturySchlbk-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "42" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="53">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "77" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "79" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "55" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="63">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "67" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="67">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "54" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="59">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "68" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="46">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "53" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="30">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "45" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="40">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "52" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "59" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "58" in the font program "GNKLMC+NewCenturySchlbk-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "75" in the font program "GNKLMC+NewCenturySchlbk-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "177" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "57" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="64">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "51" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "58" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="104">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "80" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="38">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "73" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "38" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="44">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "87" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="47">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "74" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "157" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "107" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="16">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "48" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="43">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "117" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="141">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "50" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="275">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="38">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "66" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="70">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="36">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "76" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="55">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="51">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "44" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="68">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="59">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "72" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="54">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "71" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "175" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="89">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "118" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="25">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "46" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="14">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "121" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="121">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "84" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="48">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "103" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="148">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "104" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="177">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "109" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="312">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "119" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="621">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="331">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "99" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="218">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "100" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="193">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "108" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="368">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "98" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="42">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "41" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="104">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "40" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="131">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "114" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="192">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "112" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="130">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "110" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="406">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "105" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="227">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="860">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="291">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "102" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="431">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "111" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="509">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "115" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "86" in the font program "GNKLGG+NewCenturySchlbk-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "GNKLDI+NewCenturySchlbk-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "GNKLDI+NewCenturySchlbk-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "GNKLDI+NewCenturySchlbk-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "121" in the font program "GNKLDI+NewCenturySchlbk-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "74" in the font program "GNKLDI+NewCenturySchlbk-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "48" in the font program "GNKLDI+NewCenturySchlbk-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "51" in the font program "GNKLDI+NewCenturySchlbk-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "114" in the font program "GNKLDI+NewCenturySchlbk-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "59" in the font program "GNKLDI+NewCenturySchlbk-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "50" in the font program "GNKLDI+NewCenturySchlbk-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "108" in the font program "GNKLDI+NewCenturySchlbk-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "GNKLDI+NewCenturySchlbk-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "54" in the font program "GNKLDI+NewCenturySchlbk-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "100" in the font program "GNKLDI+NewCenturySchlbk-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "82" in the font program "GNKLDI+NewCenturySchlbk-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.1</code>
+      <details>Invalid Font definition, Some required fields are missing from the Font dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.2</code>
+      <details>Invalid Font definition, FontDescriptor is null or is a AFM Descriptor</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(38)</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(94)</details>
+    </error>
+    <error count="10">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(51)</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(104)</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(71)</details>
+    </error>
+    <error count="3">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(83)</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(70)</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(117)</details>
+    </error>
+    <error count="8">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(68)</details>
+    </error>
+    <error count="7">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(108)</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(116)</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(109)</details>
+    </error>
+    <error count="6">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(54)</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(46)</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(59)</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(44)</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(206)</details>
+    </error>
+    <error count="2">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(112)</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(60)</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(171)</details>
+    </error>
+    <error count="3">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(64)</details>
+    </error>
+    <error count="22">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(50)</details>
+    </error>
+    <error count="4">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(101)</details>
+    </error>
+    <error count="6">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(49)</details>
+    </error>
+    <error count="9">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(102)</details>
+    </error>
+    <error count="16">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(33)</details>
+    </error>
+    <error count="4">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(110)</details>
+    </error>
+    <error count="16">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(126)</details>
+    </error>
+    <error count="23">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(53)</details>
+    </error>
+    <error count="10">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(97)</details>
+    </error>
+    <error count="69">
+      <code>3.3.1</code>
+      <details>Glyph error, Unknown character CID(120)</details>
+    </error>
+    <error count="1">
+      <code>3.3.1</code>
+      <details>Glyph error, Missing glyph for the CID 32</details>
+    </error>
+  </errors>
+</preflight>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="450870.pdf">
+  <executionTimeMS>18736</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="106598">
+    <error count="32">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f*" can't be used without Color Profile</details>
+    </error>
+    <error count="1631">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+    <error count="1">
+      <code>1.4.1</code>
+      <details>Trailer Syntax error, The trailer dictionary doesn't contain ID</details>
+    </error>
+    <error count="1">
+      <code>1.2.1</code>
+      <details>Body Syntax error, EOL expected before the 'endobj' keyword</details>
+    </error>
+    <error count="262">
+      <code>1.2.2</code>
+      <details>Body Syntax error, Expected 'EOL' before the endstream keyword</details>
+    </error>
+    <error count="263">
+      <code>1.2.5</code>
+      <details>Body Syntax error, Stream length is invalide</details>
+    </error>
+    <error count="5">
+      <code>3.1.5</code>
+      <details>Invalid Font definition, The Encoding should be missing for the Symbolic TTF</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "VHCAAA+F14"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "OUAAAA+F10"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="133">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "VOAAAA+F7"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="25">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "KOAAAA+F6"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="15236">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "VNAAAA+F4"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="57">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "EOAAAA+F5"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="864">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "SNAAAA+F3"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2021">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "ONAAAA+F2"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5424">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "GNAAAA+F1"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="80629">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "BNAAAA+F0"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+  </errors>
+</preflight>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="933730.pdf">
+  <executionTimeMS>1659</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="103">
+    <error count="4">
+      <code>5.3.1</code>
+      <details>Invalid field value in an annotation definition, Only the N Appearance is authorized</details>
+    </error>
+    <error count="3">
+      <code>5.2.5</code>
+      <details>Forbidden field in an annotation definition</details>
+    </error>
+    <error count="1">
+      <code>6.2.3</code>
+      <details>Action is forbidden, "AA" must not be used in a Field dictionary</details>
+    </error>
+    <error count="6">
+      <code>6.2.2</code>
+      <details>Action is forbidden, Additional Action are forbidden</details>
+    </error>
+    <error count="1">
+      <code>7.11</code>
+      <details>Error on MetaData</details>
+    </error>
+    <error count="17">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f*" can't be used without Color Profile</details>
+    </error>
+    <error count="71">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "rg" can't be used with CMYK Profile</details>
+    </error>
+  </errors>
+</preflight>

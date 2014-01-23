@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="034603.pdf">
+  <executionTimeMS>2985</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="14158">
+    <error count="1">
+      <code>1.4.6</code>
+      <details>Trailer Syntax error, ID is different in the first and the last trailer</details>
+    </error>
+    <error count="697">
+      <code>1.2.1</code>
+      <details>Body Syntax error, Single space expected</details>
+    </error>
+    <error count="1">
+      <code>7.11</code>
+      <details>Error on MetaData</details>
+    </error>
+    <error count="2">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "g" can't be used without Color Profile</details>
+    </error>
+    <error count="37">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="4">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "RG" can't be used with CMYK Profile</details>
+    </error>
+    <error count="19">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "rg" can't be used with CMYK Profile</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "PCBEGF+TimesTen-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "81" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "55" in the font program "PCBCFM+TimesTen-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "57" in the font program "PCBCFM+TimesTen-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "76" in the font program "PCBEGF+TimesTen-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "54" in the font program "PCBCFM+TimesTen-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "56" in the font program "PCBCFM+TimesTen-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="34">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "151" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "81" in the font program "PCBEGF+TimesTen-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "79" in the font program "PCBEGF+TimesTen-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="16">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "82" in the font program "PCBEGF+TimesTen-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "87" in the font program "PCBEGF+TimesTen-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="57">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "PCBEGF+TimesTen-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="17">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "53" in the font program "PCBCFM+TimesTen-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "80" in the font program "PCBEGF+TimesTen-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "PCBEGF+TimesTen-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "72" in the font program "PCBEGF+TimesTen-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "100" in the font program "PCBEGF+TimesTen-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "57" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "6" in the font program "PCBDOG+Universal-GreekwithMathPi"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "90" in the font program "PCBEGF+TimesTen-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "106" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "41" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "114" in the font program "PCBEGF+TimesTen-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "122" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "5" in the font program "PCBDOG+Universal-GreekwithMathPi"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "82" in the font program "PCBCFM+TimesTen-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="16">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "52" in the font program "PCBCFM+TimesTen-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "56" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="43">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "4" in the font program "PCBDOG+Universal-GreekwithMathPi"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "112" in the font program "PCBEGF+TimesTen-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "99" in the font program "PCBEGF+TimesTen-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "115" in the font program "PCBEGF+TimesTen-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "98" in the font program "PCBEGF+TimesTen-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "115" in the font program "PCBCFM+TimesTen-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "109" in the font program "PCBCFM+TimesTen-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "71" in the font program "PCBCFM+TimesTen-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "84" in the font program "PCBCFM+TimesTen-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "51" in the font program "PCBCFM+TimesTen-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="20">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "176" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="14">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "3" in the font program "PCBDOG+Universal-GreekwithMathPi"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="57">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "48" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "91" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="15">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "55" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "100" in the font program "PCBCFM+TimesTen-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "50" in the font program "PCBCFM+TimesTen-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="53">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "53" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="51">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "51" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "2" in the font program "PCBDOG+Universal-GreekwithMathPi"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="23">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "86" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "148" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "147" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="25">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "113" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="112">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "150" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="18">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "146" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="84">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "74" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "169" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="58">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "52" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="37">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "46" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="23">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "85" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="30">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "54" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="62">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "68" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="342">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="23">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "78" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="55">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "107" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="20">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "PCBCFM+TimesTen-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="240">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "119" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="228">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "108" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="81">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "103" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="195">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "104" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "121" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="85">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "110" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "47" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="311">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="339">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "100" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="296">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "98" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="659">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "111" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="42">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "66" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="114">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "118" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="649">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "99" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="459">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "109" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="85">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "69" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1323">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="112">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "117" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="796">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "115" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="445">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "112" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1231">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="65">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="404">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "102" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="558">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "105" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="204">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "50" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="575">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "114" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="248">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "40" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "64" in the font program "PCBEGF+TimesTen-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "109" in the font program "PCBEGF+TimesTen-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "102" in the font program "PCBEGF+TimesTen-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="64">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "74" in the font program "PCBEGF+TimesTen-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "PCBEGF+TimesTen-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "78" in the font program "PCBEGF+TimesTen-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "66" in the font program "PCBEGF+TimesTen-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="39">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "77" in the font program "PCBEGF+TimesTen-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "111" in the font program "PCBEGF+TimesTen-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "85" in the font program "PCBEGF+TimesTen-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="18">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "67" in the font program "PCBEGF+TimesTen-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "84" in the font program "PCBEGF+TimesTen-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "PCBEGF+TimesTen-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="51">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "PCBEGF+TimesTen-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "69" in the font program "PCBEGF+TimesTen-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "71" in the font program "PCBEGF+TimesTen-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "42" in the font program "PCBEGF+TimesTen-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "42" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="63">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "82" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="202">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "71" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="91">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "73" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="18">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "88" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "64" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="115">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "77" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="43">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "75" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="183">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "67" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "35" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="59">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "76" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="170">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="83">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "79" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "1" in the font program "PCBDOG+Universal-GreekwithMathPi"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="111">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="406">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "84" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="65">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "87" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="57">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "44" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="50">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "72" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="20">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "90" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="153">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "80" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="15">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "89" in the font program "PCBDLF+TimesTen-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "73" in the font program "PCBCFM+TimesTen-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "77" in the font program "PCBCFM+TimesTen-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "102" in the font program "PCBCFM+TimesTen-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "105" in the font program "PCBCFM+TimesTen-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "80" in the font program "PCBCFM+TimesTen-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "PCBCFM+TimesTen-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "67" in the font program "PCBCFM+TimesTen-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "69" in the font program "PCBCFM+TimesTen-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "PCBCFM+TimesTen-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "79" in the font program "PCBCFM+TimesTen-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "PCBCFM+TimesTen-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "72" in the font program "PCBCFM+TimesTen-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "111" in the font program "PCBCFM+TimesTen-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "85" in the font program "PCBCFM+TimesTen-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+  </errors>
+</preflight>

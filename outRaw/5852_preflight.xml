@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="508190.pdf">
+  <executionTimeMS>1575</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="1">
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+  </errors>
+</preflight>

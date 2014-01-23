@@ -1,0 +1,1455 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="366847.pdf">
+  <executionTimeMS>6066</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="62676">
+    <error count="2764">
+      <code>1.2.1</code>
+      <details>Body Syntax error, Single space expected</details>
+    </error>
+    <error count="1">
+      <code>7.11</code>
+      <details>Error on MetaData</details>
+    </error>
+    <error count="71">
+      <code>1.2.12</code>
+      <details>Body Syntax error, This filter isn't defined in the PDF Reference Third Edition : JPXDecode</details>
+    </error>
+    <error count="1">
+      <code>2.4.2</code>
+      <details>Invalid Color space, The operator "k" can't be used with RGB Profile</details>
+    </error>
+    <error count="230">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="189">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "g" can't be used without Color Profile</details>
+    </error>
+    <error count="1969">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="1">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "rg" can't be used with CMYK Profile</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "40" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "27" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "66" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "14" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "24" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "48" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "82" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "77" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "79" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "28" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "39" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "39" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "39" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "3" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "28" in the font program "NewBaskerville-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "14" in the font program "NewBaskerville-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "39" in the font program "NewBaskerville-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "3" in the font program "NewBaskerville-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "11" in the font program "NewBaskerville-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "1" in the font program "Avenir-MediumOblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "26" in the font program "Avenir-MediumOblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "27" in the font program "Avenir-MediumOblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "28" in the font program "Avenir-MediumOblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "22" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "29" in the font program "NewBaskerville-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "9" in the font program "NewBaskerville-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "7" in the font program "NewBaskerville-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "31" in the font program "NewBaskerville-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "5" in the font program "NewBaskerville-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "18" in the font program "NewBaskerville-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "2" in the font program "Avenir-MediumOblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "15" in the font program "Avenir-MediumOblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "9" in the font program "Avenir-MediumOblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "11" in the font program "Avenir-MediumOblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "8" in the font program "Avenir-MediumOblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "5" in the font program "Avenir-MediumOblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "22" in the font program "Avenir-MediumOblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "6" in the font program "Avenir-MediumOblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "10" in the font program "Avenir-MediumOblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "13" in the font program "Avenir-MediumOblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "21" in the font program "Avenir-MediumOblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "4" in the font program "Avenir-MediumOblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "25" in the font program "Avenir-MediumOblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "23" in the font program "Avenir-MediumOblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "14" in the font program "Avenir-MediumOblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "18" in the font program "Avenir-MediumOblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "24" in the font program "Avenir-MediumOblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "17" in the font program "Avenir-MediumOblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "3" in the font program "Avenir-MediumOblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "12" in the font program "Avenir-MediumOblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "20" in the font program "Avenir-MediumOblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "16" in the font program "Avenir-MediumOblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "19" in the font program "Avenir-MediumOblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "7" in the font program "Avenir-MediumOblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "33" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "56" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "16" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "41" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "15" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "2" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "29" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "3" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "67" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="24">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "37" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "2" in the font program "Avenir-Black"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "3" in the font program "Avenir-Black"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "11" in the font program "Avenir-Black"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="24">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "38" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="16">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "12" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="14">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "11" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "13" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "27" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "10" in the font program "Avenir-Black"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "9" in the font program "Avenir-Black"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "34" in the font program "NewBaskerville-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "15" in the font program "NewBaskerville-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "6" in the font program "NewBaskerville-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "20" in the font program "NewBaskerville-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "13" in the font program "NewBaskerville-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "22" in the font program "NewBaskerville-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "38" in the font program "NewBaskerville-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "10" in the font program "NewBaskerville-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "25" in the font program "NewBaskerville-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "17" in the font program "NewBaskerville-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "2" in the font program "NewBaskerville-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "46" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="14">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "4" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "10" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "3" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "50" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="24">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "26" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "22" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="20">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "34" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="22">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "36" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "25" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "31" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="106">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "80" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "78" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "20" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "67" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "8" in the font program "Avenir-Black"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "7" in the font program "Avenir-Black"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "15" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "10" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "19" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "2" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "47" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="49">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "45" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "16" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "58" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "17" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "51" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="48">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "64" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "19" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="27">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "8" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "21" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="39">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "6" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="39">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "5" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="54">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "36" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="21">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "43" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "1" in the font program "NewBaskerville-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "36" in the font program "NewBaskerville-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "30" in the font program "NewBaskerville-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="14">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "NewBaskerville-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "4" in the font program "NewBaskerville-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "40" in the font program "NewBaskerville-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "24" in the font program "NewBaskerville-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "16" in the font program "NewBaskerville-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="20">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "23" in the font program "NewBaskerville-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "27" in the font program "NewBaskerville-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "8" in the font program "NewBaskerville-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "26" in the font program "NewBaskerville-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="14">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "19" in the font program "NewBaskerville-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="14">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "21" in the font program "NewBaskerville-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="14">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "35" in the font program "NewBaskerville-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="17">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "37" in the font program "NewBaskerville-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="26">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "33" in the font program "NewBaskerville-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "12" in the font program "NewBaskerville-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="51">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "9" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="27">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "43" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="31">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "7" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "6" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "5" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="56">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "18" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="43">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "35" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="42">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "20" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="30">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "30" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="135">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "54" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="126">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "48" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="15">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "52" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="80">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "66" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="134">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "62" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="209">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "44" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="483">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "61" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="67">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "63" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="462">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "55" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="120">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "47" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="161">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "57" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="198">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "45" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="435">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "42" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="605">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "46" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="218">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "53" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="322">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "60" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="474">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "50" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="170">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="408">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "59" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="451">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "56" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="64">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "23" in the font program "Avenir-Medium"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "6" in the font program "Avenir-Black"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "5" in the font program "Avenir-Black"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "62" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "36" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="74">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "55" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "64" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="35">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "50" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="53">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "46" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="75">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "42" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="29">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "45" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="14">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "29" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="15">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "31" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="109">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "24" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="72">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "74" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "63" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="292">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "54" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="110">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "52" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="192">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "57" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="110">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "43" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="33">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "61" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="225">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "51" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="65">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "59" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="413">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "53" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="45">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "60" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="558">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "44" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="136">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "63" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="272">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "58" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="381">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "56" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="283">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "48" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="150">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "47" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="14">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "4" in the font program "Avenir-Black"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "41" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="42">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "46" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "50" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="25">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "33" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="18">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "28" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="37">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "45" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="20">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="84">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "42" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "38" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="85">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "30" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="275">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "41" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="60">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "67" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="126">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "34" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="69">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "33" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="72">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "29" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="115">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "28" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="115">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "40" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="164">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "26" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="80">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "43" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="32">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "62" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="48">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "60" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="21">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "61" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="70">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "52" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="38">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "64" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="42">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "34" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="130">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "58" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="257">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "57" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="45">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "35" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="190">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "48" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="198">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "59" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="228">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "40" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "30" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="327">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "44" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="49">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "55" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="96">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "51" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="24">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "37" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="216">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "53" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="36">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "47" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="198">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "54" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "26" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="56">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "37" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "21" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "18" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="215">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "35" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="25">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "12" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="66">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "11" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="32">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "13" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="106">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "38" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "14" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "17" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "81" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="58">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "31" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="68">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "60" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="65">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "76" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="98">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "27" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="216">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "61" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="731">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "57" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="290">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "7" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="793">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "56" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="504">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "72" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="397">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "9" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="146">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "8" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="945">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "71" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="322">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "52" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1021">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "63" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1310">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "53" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1411">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "54" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="377">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "73" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="267">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "23" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3330">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3178">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "64" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="250">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "25" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="829">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "66" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1668">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "62" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2829">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="70">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "44" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="74">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "4" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2727">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "68" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3448">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "51" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4875">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "55" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="710">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "75" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2374">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "69" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3090">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "59" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1361">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "58" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="206">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "42" in the font program "NewBaskerville-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="90">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "16" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "14" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="27">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "41" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="492">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "40" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "13" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="32">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "17" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="50">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "27" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="138">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "18" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="61">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "4" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="56">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "20" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="22">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "8" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="60">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "5" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="150">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "7" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="152">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "9" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "6" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "12" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="15">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "24" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="25">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "37" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "15" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "2" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="78">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "28" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="21">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "23" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="59">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "22" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="48">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="15">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "30" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="49">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "25" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "39" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="16">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "10" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="34">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "36" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="22">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "38" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="136">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "33" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "11" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "35" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="34">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "31" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="112">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "34" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="22">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "21" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="48">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "26" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="32">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "29" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="52">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "19" in the font program "Avenir-Book"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "5" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="22">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "3" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "4" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="16">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "18" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "16" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "7" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="36">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "20" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="15">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "11" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "24" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "15" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "10" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "22" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "6" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="76">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "17" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "23" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "12" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "8" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "2" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="14">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "25" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="21">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "21" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="58">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "19" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "14" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "13" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="34">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "9" in the font program "Avenir-Heavy"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+  </errors>
+</preflight>

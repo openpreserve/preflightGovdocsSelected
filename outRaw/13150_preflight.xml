@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="997745.pdf">
+  <executionTimeMS>1418</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="3426">
+    <error count="1">
+      <code>7.1</code>
+      <details>Error on MetaData, Missing Metadata Key in catalog</details>
+    </error>
+    <error count="2">
+      <code>8.1</code>
+      <details>Unknown error, Unable to process an element if it is null.</details>
+    </error>
+    <error count="618">
+      <code>3.3.2</code>
+      <details>Glyph error, Courier is unknown wasn't found by the FontHelperValdiator</details>
+    </error>
+    <error count="4">
+      <code>3.3.2</code>
+      <details>Glyph error, Times-Roman is unknown wasn't found by the FontHelperValdiator</details>
+    </error>
+    <error count="330">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "G" can't be used without Color Profile</details>
+    </error>
+    <error count="2">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "g" can't be used without Color Profile</details>
+    </error>
+    <error count="2">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="8">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "RG" can't be used with CMYK Profile</details>
+    </error>
+    <error count="2459">
+      <code>2.4.1</code>
+      <details>Invalid Color space, The operator "rg" can't be used with CMYK Profile</details>
+    </error>
+  </errors>
+</preflight>

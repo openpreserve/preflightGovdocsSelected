@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="040108.pdf">
+  <executionTimeMS>4784</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="19338">
+    <error count="1">
+      <code>1.4.6</code>
+      <details>Trailer Syntax error, ID is different in the first and the last trailer</details>
+    </error>
+    <error count="1">
+      <code>7.11</code>
+      <details>Error on MetaData</details>
+    </error>
+    <error count="1">
+      <code>2.3.2</code>
+      <details>Unexpected key in Graphic object definition, Unexpected 'true' value for 'Interpolate' Key</details>
+    </error>
+    <error count="37">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="10">
+      <code>2.4.3</code>
+      <details>Invalid Color space, DestOutputProfile is missing</details>
+    </error>
+    <error count="113">
+      <code>5.2.2</code>
+      <details>Forbidden field in an annotation definition, Flags of Link annotation are invalid</details>
+    </error>
+    <error count="18">
+      <code>3.1.5</code>
+      <details>Invalid Font definition, The Encoding should be missing for the Symbolic TTF</details>
+    </error>
+    <error count="23">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "29" in the font program "IBLBDI+Courier-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "31" in the font program "IBLBDI+Courier-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="41">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "31" in the font program "BKEDTY+Courier-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="58">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "30" in the font program "BKEDTY+Courier-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="108">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "31" in the font program "FTDHZU+Courier"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="348">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "FTDHZU+Courier"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "31" in the font program "QSYNUO+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "30" in the font program "QIBQZV+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="58">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "30" in the font program "KKJBKL+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="25">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "31" in the font program "QIBQZV+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="288">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "BKEDTY+Courier-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="889">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "QIBQZV+Times-Italic"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="256">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "QSYNUO+Times-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "31" in the font program "RFEIWW+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="271">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "IBLBDI+Courier-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="225">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "31" in the font program "KKJBKL+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="14818">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "KKJBKL+Times-Roman"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="171">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "31" in the font program "TUMRNA+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="813">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "TUMRNA+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="746">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "RFEIWW+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.2</code>
+      <details>Invalid Font definition, FontDescriptor is null or is a AFM Descriptor</details>
+    </error>
+  </errors>
+</preflight>

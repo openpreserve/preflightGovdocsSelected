@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="613471.pdf">
+  <executionTimeMS>11362</executionTimeMS>
+  <isValid type="PDF/A1-b">false</isValid>
+  <errors count="480107">
+    <error count="1">
+      <code>7.3</code>
+      <details>Error on MetaData, Cannot find a definition for the namespace http://ns.adobe.com/pdfx/1.3/</details>
+    </error>
+    <error count="1">
+      <code>1.4.6</code>
+      <details>Trailer Syntax error, ID is different in the first and the last trailer</details>
+    </error>
+    <error count="11483">
+      <code>1.2.1</code>
+      <details>Body Syntax error, Single space expected</details>
+    </error>
+    <error count="36">
+      <code>2.3.2</code>
+      <details>Unexpected key in Graphic object definition, Unexpected 'PS' value for 'Subtype2' Key</details>
+    </error>
+    <error count="36">
+      <code>2.3.2</code>
+      <details>Unexpected key in Graphic object definition, No Postscript Xobject allowed in PDF/A (Subtype2)</details>
+    </error>
+    <error count="223">
+      <code>2.4.2</code>
+      <details>Invalid Color space, The operator "K" can't be used with RGB Profile</details>
+    </error>
+    <error count="600">
+      <code>2.4.2</code>
+      <details>Invalid Color space, The operator "k" can't be used with RGB Profile</details>
+    </error>
+    <error count="4">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "B*" can't be used without Color Profile</details>
+    </error>
+    <error count="2">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f" can't be used without Color Profile</details>
+    </error>
+    <error count="80">
+      <code>2.4.3</code>
+      <details>Invalid Color space, The operator "f*" can't be used without Color Profile</details>
+    </error>
+    <error count="2947">
+      <code>5.2.2</code>
+      <details>Forbidden field in an annotation definition, Flags of Link annotation are invalid</details>
+    </error>
+    <error count="1">
+      <code>1.2.12</code>
+      <details>Body Syntax error, This filter isn't defined in the PDF Reference Third Edition : hclxSCAM</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "90" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "64" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "57" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "BONGKF+ArialMT"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "111" in the font program "BONGKF+ArialMT"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "87" in the font program "BONGKF+ArialMT"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "73" in the font program "BONGKF+ArialMT"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "115" in the font program "BONGKF+ArialMT"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "BONGKF+ArialMT"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "66" in the font program "BONGKF+ArialMT"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "80" in the font program "BONGKF+ArialMT"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "BONGKF+ArialMT"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "82" in the font program "BONGKF+ArialMT"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "75" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "113" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "56" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "47" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "55" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "121" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "104" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "43" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="45">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "44" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "46" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "78" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "150" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "114" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "48" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="14">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "103" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="273">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "21" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="61">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "21" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="758">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "121" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="119">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "151" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "107" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "119" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "90" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "48" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "107" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "54" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "42" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="37">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "58" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "45" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "53" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "81" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "81" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "117" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "91" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="20">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "148" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "110" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "59" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "109" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "124" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "66" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="49">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "46" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "51" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "118" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="190">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "98" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "98" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "38" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="26">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "84" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "57" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "88" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "56" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="42">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "95" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "47" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="19">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "41" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "50" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="51">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "61" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="79">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "48" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "112" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "89" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="168">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "110" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="14">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "40" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "108" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="182">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "40" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="28">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "115" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="26">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "99" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "146" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="14">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="14">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "55" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="24">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "111" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "86" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="14">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "105" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "88" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="236">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "74" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "52" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "102" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "72" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "72" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "62" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="14">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "68" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="173">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="38">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "58" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="846">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "76" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="29">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "106" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "120" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="656">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "82" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "104" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="181">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "85" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "122" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="55">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "45" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "75" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="15">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "73" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="173">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "67" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="158">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "85" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="13">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "71" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "79" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "45" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "76" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "69" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="50">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "82" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="360">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="44">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="57">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "80" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="134">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "77" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="188">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "122" in the font program "BOCKJN+Helvetica-Oblique"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "174" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="39">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "117" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="36">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "87" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "120" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="19">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "75" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="11">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "64" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="25">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "119" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="35">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "108" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="62">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "68" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="163">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="104">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "109" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="257">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "113" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="23">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "81" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="222">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "107" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="209">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "79" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="26">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "54" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="276">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "112" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="86">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "53" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="523">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "118" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="122">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "86" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="116">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "52" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="486">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "151" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="114">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "51" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="603">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "69" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="88">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "105" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="19">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "169" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="636">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "51" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="56">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "57" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="200">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "56" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="317">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "54" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1197">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "79" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="558">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "52" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="269">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "115" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="223">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "102" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="249">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "80" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="23">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "71" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="150">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "99" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="403">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "111" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="292">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="66">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "72" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="559">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "76" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2990">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "118" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1017">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "104" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="62">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "100" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="271">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="362">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="873">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "84" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="33">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "120" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="240">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="213">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "150" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="112">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "71" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="106">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "114" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="138">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="134">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "77" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="279">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "66" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="175">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "73" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="161">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "67" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "169" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="573">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "44" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1724">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "108" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6122">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "46" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="281">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "87" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "43" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="49">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "89" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "38" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="22">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "88" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1363">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="746">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "85" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="330">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "78" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="606">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "50" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2351">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "80" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="486">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "68" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1168">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "67" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="534">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "77" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2688">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "100" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="7240">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "102" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2289">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="5626">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "99" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="117">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "121" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="3180">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "119" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2014">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "73" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2328">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "110" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2973">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "109" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="10">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "153" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="928">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "40" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="565">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "122" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="122">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "55" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1986">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "82" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="781">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "49" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="858">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "86" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1808">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4366">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "84" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="122">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "50" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="225">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "65" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="217">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "69" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="328">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "53" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9121">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "111" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="804">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "147" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="266">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "103" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4679">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "114" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4693">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "98" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="8336">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "115" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4949">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "112" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="12020">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="9237">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "105" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="18480">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1667">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "117" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="1151">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "66" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="92">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "78" in the font program "BOCDKN+Helvetica-Bold"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2852">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "110" in the font program "BOCDFA+IBM-BodoniBERegular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "102" in the font program "BOCDFA+IBM-BodoniBERegular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "82" in the font program "BOCDFA+IBM-BodoniBERegular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "97" in the font program "BOCDFA+IBM-BodoniBERegular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "108" in the font program "BOCDFA+IBM-BodoniBERegular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "70" in the font program "BOCDFA+IBM-BodoniBERegular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "99" in the font program "BOCDFA+IBM-BodoniBERegular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "114" in the font program "BOCDFA+IBM-BodoniBERegular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="20">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "101" in the font program "BOCDFA+IBM-BodoniBERegular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "116" in the font program "BOCDFA+IBM-BodoniBERegular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "115" in the font program "BOCDFA+IBM-BodoniBERegular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="6">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "83" in the font program "BOCDFA+IBM-BodoniBERegular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="307068">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "32" in the font program "BOCDFL+Helvetica"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="4">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "73" in the font program "BOCDFA+IBM-BodoniBERegular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+    <error count="2">
+      <code>3.1.6</code>
+      <details>Invalid Font definition, Width of the character "85" in the font program "BOCDFA+IBM-BodoniBERegular"is inconsistent with the width in the PDF dictionary.</details>
+    </error>
+  </errors>
+</preflight>

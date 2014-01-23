@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<preflight name="929389.pdf">
+  <executionTimeMS>203</executionTimeMS>
+  <isValid type="">false</isValid>
+  <errors count="8">
+    <error count="1">
+      <code>1.0</code>
+      <details>Syntax error, Object (17:0) at offset 698333 does not end with 'endobj'.</details>
+    </error>
+    <error count="1">
+      <code>1.2.1</code>
+      <details>Body Syntax error, EOL expected after the 'endobj' keyword</details>
+    </error>
+    <error count="6">
+      <code>1.2.1</code>
+      <details>Body Syntax error, Single space expected</details>
+    </error>
+  </errors>
+</preflight>
