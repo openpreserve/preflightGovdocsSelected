@@ -10,7 +10,7 @@ The repo contains the following files and directories:
 * **index.csv** - comma-separated text file that links each *PDF* in *GovDocs selected* to its respective *Preflight* and *Schematron* output file. You may need to replace */usr/local/SCAPE/data* with the actual path where the *GovDocs selected* is located on your system.
 * **outRaw** - this directory contains the raw *Preflight* and *Schematron* output files. Use *index.csv* (see above) to link each *PDF* to its respective  *Preflight* / *Schematron* file.
 * **success.csv** - comma-separated text file that gives the outcome of the policy-based validation (*Pass* or *Fail*)
-* **failed.csv** - contains text descriptions of *Preflight* validation errors (this is really ugly and you probably shouldn't be using this file anyway!)
+* **failed.csv** - contains text descriptions of the failed *Schematron* assertions (this is really ugly and you probably shouldn't be using this file anyway!)
 * **preflightErrorCounts.csv** - comma-separated text file with the *unique*[^1] counts of each *Preflight* error (i.e. the number of *PDF*s for which each error was reported).
 * **failedAssertCounts.csv** - comma-separated text file with the *unique* counts of each failed *Schematron* assertion (i.e. the number of *PDF*s for which each assertion failed).
 
